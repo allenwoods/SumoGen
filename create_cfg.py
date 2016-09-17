@@ -10,7 +10,6 @@ SUMO simulation environment
 import os
 import subprocess
 import numpy as np
-from subprocess import PIPE
 import sys
 from itertools import cycle
 
@@ -73,7 +72,6 @@ class SumoCfg:
         self.detectors = [os.path.join(self.net_dir, self.netname + '_e%d.add.xml' % (i + 1))
                           for i in range(3)]
         self.sumocfg = os.path.join(self.net_dir, self.netname + '.sumo.cfg')
-        self.sumocfg_nodet = os.path.join(self.net_dir, self.netname + '_nodet.sumo.cfg')
         self.summary_file = os.path.join(self.output_dir, self.netname + '_summary.xml')
 
     def iscreated(self):
@@ -96,26 +94,15 @@ class SumoCfg:
         self.gen_randomtrips(self.rouprob, endtime=self.steps, period=self.period,
                              binomial=self.binominal)  # Set edge prop to 10
 
-        # if gui:
-        #     sumoBinary = checkBinary('sumo-gui')
-        # else:
-        #     sumoBinary = checkBinary('sumo')
         if withdet:
             self.sumocfg = self.gen_sumocfg(withdetector=True)
             self.gen_detectors()
-            # sumocfg = self.sumocfg
         else:
-            self.sumocfg_nodet = self.gen_sumocfg(withdetector=False)
-            # sumocfg = self.sumocfg_nodet
-            # sumo_env = os.environ.copy()
-            # sumo_env['SUMO_HOME'] = sumo_root
-            # sumoProcess = subprocess.Popen([sumoBinary, '-c', sumocfg, '--remote-port', str(port),
-            #                                 '--summary', self.summary_file],
-            #                                 env=sumo_env, stdout=PIPE, stderr=PIPE)
-            # sumoCMD = [sumoBinary, '-c', sumocfg, '--summary', self.summary_file,
-            #            '--time-to-teleport', '-1']
-            # sumoProcess.wait()
-            # return sumoCMD, sumo_env
+            self.sumocfg = self.gen_sumocfg(withdetector=False)
+        if self.iscreated():
+            print("Configure for %s sucessfully created!" % self.netname)
+        else:
+            raise FileNotFoundError
 
     def gen_network(self, xnumber, ynumber, xlength, ylength,
                     nettype='grid', tlstype='static'):
@@ -146,6 +133,7 @@ class SumoCfg:
                                             '--plain-output-prefix',
                                             os.path.join(self.data_dir, self.netname, self.netname),
                                             '-o', self.netfile], stdout=sys.stdout, stderr=sys.stderr)
+        netgenProcessor.wait()
 
     def gen_randomtrips(self, rouprob, endtime, period=None, binomial=None,
                         trip_attrib="departLane=\"best\" departSpeed=\"max\" departPos=\"random\""):
@@ -169,6 +157,7 @@ class SumoCfg:
                                              '--trip-attributes', trip_attrib, '-o', self.tripfile,
                                              '-r', self.roufile],
                                             stdout=sys.stdout, stderr=sys.stderr)
+        gentripProcessor.wait()
 
     def gen_detectors(self):
         """
@@ -186,6 +175,7 @@ class SumoCfg:
         for p in paras:
             p = list(p)
             d = subprocess.Popen(p, stdout=sys.stdout, stderr=sys.stderr)
+            d.wait()
 
     def gen_sumocfg(self, withdetector=False):
         """
@@ -237,12 +227,7 @@ class SumoCfg:
 
         # Write to sumo.cfg
         conf_tree = etree.ElementTree(conf_root)
-        if withdetector:
-            sumocfg_file = self.sumocfg
-        else:
-            sumocfg_file = self.sumocfg_nodet
-        conf_tree.write(sumocfg_file, pretty_print=True, xml_declaration=True, encoding='utf-8')
-        return sumocfg_file
+        conf_tree.write(self.sumocfg, pretty_print=True, xml_declaration=True, encoding='utf-8')
 
     def gen_intersection(self, edgelen, tlstype='static'):
         length = int(edgelen)
@@ -301,6 +286,7 @@ class SumoCfg:
                                          '--edge-files', cross_edges_file,
                                          '--output-file', self.netfile],
                                         stdout=sys.stdout, stderr=sys.stderr)
+        netconvertor.wait()
 
 
 def create_edges(root, node1_id, node2_id):
@@ -318,12 +304,19 @@ def create_edges(root, node1_id, node2_id):
     edge2.set('speed', '13.9')  # Default Speed 13.9m/s
 
 
+def create_sumo_cfg(data_dir, no):
+    file_name = 'train_sim_%.6d' % no
+    sumo = SumoCfg(data_dir, file_name, 1, 1)
+    sumo.init()
+
+
 if __name__ == '__main__':
     # Test funtion and prepare the simulation environments.
     data_dir = os.path.join(os.getcwd(), 'tmp')
-    for i in range(100000):
-        sumo = SumoCfg(data_dir, 'train_sim%.6d' % i, 1, 1)
-        sumo.init()
-        # sumo.gen_sumocfg()
-        # cmd, env = sumo.get_start_cmd('static')
-        # print(cmd)
+    from multiprocessing import Pool, cpu_count
+    from functools import partial
+
+    pool = Pool(cpu_count())
+    pool.map(partial(create_sumo_cfg, data_dir), range(4))
+    pool.close()
+    pool.join()
