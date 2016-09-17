@@ -317,6 +317,6 @@ if __name__ == '__main__':
     from functools import partial
 
     pool = Pool(cpu_count())
-    pool.map(partial(create_sumo_cfg, data_dir), range(4))
+    pool.map(partial(create_sumo_cfg, data_dir), range(100000))
     pool.close()
     pool.join()
