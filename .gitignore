@@ -89,7 +89,7 @@ ENV/
 .ropeproject
 
 # SUMO Repo
-sumo-0.27.1/
+sumo*/
 # Test Files
 tmp/
 .idea/
