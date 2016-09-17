@@ -148,12 +148,12 @@ class SumoCfg:
         :return:
         """
         if period is None:
-            period = str(np.random.uniform(0.2, 1.2))
+            period = np.random.uniform(0.2, 1.2)
         if binomial is None:
-            binomial = str(np.random.randint(1, 10))
+            binomial = np.random.randint(1, 10)
         rantrip_generator = os.path.join(sumo_home, 'randomTrips.py')
         gentripProcessor = subprocess.Popen(['python', rantrip_generator, '-n', self.netfile,
-                                             '-e', endtime, '--binomial', binomial, '-p', period,
+                                             '-e', endtime, '--binomial', str(binomial), '-p', str(period),
                                              '--fringe-factor', rouprob,
                                              '--trip-attributes', trip_attrib, '-o', self.tripfile,
                                              '-r', self.roufile],
@@ -305,22 +305,34 @@ def create_edges(root, node1_id, node2_id):
     edge2.set('speed', '13.9')  # Default Speed 13.9m/s
 
 
-def create_sumo_cfg(data_dir, no):
+def create_train_sumo_cfg(data_dir, no):
     file_name = 'train_sim_%.6d' % no
     sumo = SumoCfg(data_dir, file_name, 1, 1)
     sumo.init()
 
+def create_test_sumo_cfg(data_dir):
+    periods = [0.2, 0.5, 1]
+    binominals = [1, 3, 5, 10]
+    args = []
+    for p in periods:
+        for b in binominals:
+            args.append([p,b])
+    for arg in args:
+        filname = 'eval_sim_p%d_b%d'%(arg[0]*10, arg[1])
+        sumo = SumoCfg(data_dir, filname, 1, 1, period=arg[0], binominal=arg[1])
+        sumo.init()
 
 if __name__ == '__main__':
     # Test funtion and prepare the simulation environments.
     data_dir = os.path.join(os.getcwd(), 'tmp')
     if not os.path.isdir(data_dir):
         os.makedirs(data_dir)
-
-    from multiprocessing import Pool, cpu_count
-    from functools import partial
-
-    pool = Pool(cpu_count())
-    pool.map(partial(create_sumo_cfg, data_dir), range(100000))
-    pool.close()
-    pool.join()
+    #
+    # from multiprocessing import Pool, cpu_count
+    # from functools import partial
+    #
+    # pool = Pool(cpu_count())
+    # pool.map(partial(create_train_sumo_cfg, data_dir), range(100000))
+    # pool.close()
+    # pool.join()
+    create_test_sumo_cfg(data_dir)
