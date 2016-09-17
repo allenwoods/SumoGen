@@ -1,5 +1,0 @@
-<map id="MSVehicle" name="MSVehicle">
-<area shape="rect" id="node4" href="$d6/d17/class_g_u_i_vehicle.html" title="A MSVehicle extended by some values for usage within the gui. " alt="" coords="15,3637,247,4008"/>
-<area shape="rect" id="node2" href="$d9/dd6/class_m_s_base_vehicle.html" title="The base class for microscopic and mesoscopic vehicles. " alt="" coords="37,336,224,824"/>
-<area shape="rect" id="node3" href="$db/d61/class_s_u_m_o_vehicle.html" title="Representation of a vehicle. " alt="" coords="37,5,224,288"/>
-</map>

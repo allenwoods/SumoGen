@@ -1,7 +1,0 @@
-<map id="MSLaneSpeedTrigger" name="MSLaneSpeedTrigger">
-<area shape="rect" id="node2" href="$dd/dff/class_m_s_trigger.html" title="An abstract device that changes the state of the micro simulation. " alt="" coords="9,684,124,820"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,315,123,466"/>
-<area shape="rect" id="node4" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="152,691,315,813"/>
-<area shape="rect" id="node5" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="147,147,325,635"/>
-<area shape="rect" id="node7" href="$d5/d6a/class_command.html" title="Base (microsim) event class. " alt="" coords="339,699,453,805"/>
-</map>

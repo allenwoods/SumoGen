@@ -1,4 +1,0 @@
-<map id="ShapeContainer" name="ShapeContainer">
-<area shape="rect" id="node2" href="$d0/dde/class_g_u_i_shape_container.html" title="Storage for geometrical objects extended by mutexes. " alt="" coords="5,321,176,545"/>
-<area shape="rect" id="node3" href="$d8/db9/class_p_c_poly_container.html" title="A storage for loaded polygons and pois. " alt="" coords="201,307,359,560"/>
-</map>

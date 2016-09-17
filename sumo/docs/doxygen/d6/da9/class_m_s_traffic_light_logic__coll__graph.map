@@ -1,7 +1,0 @@
-<map id="MSTrafficLightLogic" name="MSTrafficLightLogic">
-<area shape="rect" id="node4" href="$d2/d78/class_m_s_traffic_light_logic_1_1_switch_command.html" title="Class realising the switch between the traffic light phases. " alt="" coords="203,1401,374,1596"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="315,35,433,185"/>
-<area shape="rect" id="node3" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="457,5,601,215"/>
-<area shape="rect" id="node5" href="$d5/d6a/class_command.html" title="Base (microsim) event class. " alt="" coords="5,748,119,855"/>
-<area shape="rect" id="node6" href="$d2/da4/class_m_s_t_l_logic_control.html" title="A class that stores and controls tls and switching of their programs. " alt="" coords="143,594,317,1009"/>
-</map>

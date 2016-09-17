@@ -1,4 +1,0 @@
-<map id="GUIApplicationWindow" name="GUIApplicationWindow">
-<area shape="rect" id="node2" href="$db/dba/class_g_u_i_main_window.html" title="{GUIMainWindow\n|# myAmGaming\l# myBoldFont\l# myBottomDock\l# myCartesianCoordinate\l# myCartesianFrame\l# myGeoCoordinate\l# myGeoFrame\l# myGLVisual\l# myLeftDock\l# myListInternal\land 7 more...\l# myInstance\l|+ addChild()\l+ addChild()\l+ getActiveView()\l+ getBoldFont()\l+ getBuildGLCanvas()\l+ getCartesianLabel()\l+ getCurrentSimTime()\l+ getDelay()\l+ getGeoLabel()\l+ getGLVisual()\land 12 more...\l+ getInstance()\l# GUIMainWindow()\l}" alt="" coords="5,131,181,545"/>
-<area shape="rect" id="node4" href="$d7/d41/class_m_f_x_inter_thread_event_client.html" title="{MFXInterThreadEventClient\n||+ eventOccured()\l+ MFXInterThreadEventClient()\l+ ~MFXInterThreadEventClient()\l}" alt="" coords="206,285,421,391"/>
-</map>

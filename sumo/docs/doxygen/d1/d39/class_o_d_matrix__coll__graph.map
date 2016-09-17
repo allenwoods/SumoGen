@@ -1,4 +1,0 @@
-<map id="ODMatrix" name="ODMatrix">
-<area shape="rect" id="node2" href="$d0/d1f/class_o_d_district_cont.html" title="A container for districts. " alt="" coords="5,323,232,503"/>
-<area shape="rect" id="node3" href="$d2/d4d/class_named_object_cont.html" title="{NamedObjectCont\&lt; ODDistrict * \&gt;\n|&#45; myHaveChanged\l&#45; myMap\l&#45; myVector\l|+ add()\l+ buildAndGetStaticVector()\l+ clear()\l+ erase()\l+ get()\l+ getMyMap()\l+ getTempVector()\l+ insertIDs()\l+ NamedObjectCont()\l+ remove()\l+ size()\l+ ~NamedObjectCont()\l}" alt="" coords="6,5,231,273"/>
-</map>

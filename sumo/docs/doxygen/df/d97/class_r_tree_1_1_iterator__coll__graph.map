@@ -1,6 +1,0 @@
-<map id="RTree&lt; DATATYPE, DATATYPENP, ELEMTYPE, NUMDIMS, CONTEXT, ELEMTYPEREAL, TMAXNODES, TMINNODES &gt;::Iterator" name="RTree&lt; DATATYPE, DATATYPENP, ELEMTYPE, NUMDIMS, CONTEXT, ELEMTYPEREAL, TMAXNODES, TMINNODES &gt;::Iterator">
-<area shape="rect" id="node2" href="$d4/dd2/struct_r_tree_1_1_iterator_1_1_stack_element.html" title="{RTree\&lt; DATATYPE, DATATYPENP,\l ELEMTYPE, NUMDIMS, CONTEXT,\l ELEMTYPEREAL, TMAXNODES, TMINNODES\l \&gt;::Iterator::StackElement\n|+ m_branchIndex\l|}" alt="" coords="5,211,315,333"/>
-<area shape="rect" id="node3" href="$d0/df5/struct_r_tree_1_1_node.html" title="Node for each branch level. " alt="" coords="75,5,437,141"/>
-<area shape="rect" id="node4" href="$dc/d04/struct_r_tree_1_1_branch.html" title="{RTree\&lt; DATATYPE, DATATYPENP,\l ELEMTYPE, NUMDIMS, CONTEXT,\l ELEMTYPEREAL, TMAXNODES, TMINNODES\l \&gt;::Branch\n|+ @7\l+ m_data\l|}" alt="" coords="339,204,648,340"/>
-<area shape="rect" id="node5" href="$d9/d0c/struct_r_tree_1_1_rect.html" title="Minimal bounding rectangle (n&#45;dimensional) " alt="" coords="462,13,818,134"/>
-</map>

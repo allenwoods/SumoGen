@@ -1,3 +1,0 @@
-<map id="GUITransportableControl" name="GUITransportableControl">
-<area shape="rect" id="node2" href="$d9/d03/class_m_s_transportable_control.html" title="{MSTransportableControl\n|# myHaveNewWaiting\l# myJammedNumber\l# myLoadedNumber\l# myRunningNumber\l# myTransportables\l# myWaiting4Departure\l# myWaiting4Vehicle\l# myWaitingForVehicleNumber\l# myWaitingUntil\l|+ abortWaiting()\l+ add()\l+ addWaiting()\l+ boardAnyWaiting()\l+ buildContainer()\l+ buildPerson()\l+ checkWaiting()\l+ erase()\l+ get()\l+ hasNonWaiting()\land 9 more...\l+ getLoadedNumber()\l+ getRunningNumber()\l+ getJammedNumber()\l* getLoadedNumber()\l* getRunningNumber()\l* getJammedNumber()\l}" alt="" coords="5,5,212,435"/>
-</map>

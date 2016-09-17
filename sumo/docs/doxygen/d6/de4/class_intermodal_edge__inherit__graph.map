@@ -1,8 +1,0 @@
-<map id="IntermodalEdge&lt; E, L, N, V &gt;" name="IntermodalEdge&lt; E, L, N, V &gt;">
-<area shape="rect" id="node3" href="$da/d7f/class_access_edge.html" title="the access edge connecting diferent modes that is given to the internal router (SUMOAbstractRouter) ..." alt="" coords="5,689,185,781"/>
-<area shape="rect" id="node4" href="$d8/d80/class_car_edge.html" title="the car edge type that is given to the internal router (SUMOAbstractRouter) " alt="" coords="209,659,397,810"/>
-<area shape="rect" id="node5" href="$dc/d72/class_pedestrian_edge.html" title="the pedestrian edge type that is given to the internal router (SUMOAbstractRouter) ..." alt="" coords="421,652,564,817"/>
-<area shape="rect" id="node6" href="$d5/d63/class_public_transport_edge.html" title="the public transport edge type connecting the stop edges " alt="" coords="589,652,757,817"/>
-<area shape="rect" id="node7" href="$d1/dc7/class_stop_edge.html" title="the stop edge type representing bus and train stops " alt="" coords="781,681,943,788"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="434,5,551,156"/>
-</map>

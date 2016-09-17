@@ -1,4 +1,0 @@
-<map id="PedestrianState" name="PedestrianState">
-<area shape="rect" id="node2" href="$da/d07/class_m_s_p_model___non_interacting_1_1_p_state.html" title="abstract base class for managing callbacks to retrieve various state information from the model ..." alt="" coords="5,343,187,670"/>
-<area shape="rect" id="node3" href="$d2/d65/class_m_s_p_model___striping_1_1_p_state.html" title="Container for pedestrian state and individual position update function. " alt="" coords="211,219,368,795"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="MSJunction" name="MSJunction">
-<area shape="rect" id="node3" href="$dd/df2/class_m_s_logic_junction.html" title="{MSLogicJunction\n|# myIncomingLanes\l|+ postloadInit()\l+ ~MSLogicJunction()\l# MSLogicJunction()\l&#45; MSLogicJunction()\l&#45; operator=()\l}" alt="" coords="25,652,177,788"/>
-<area shape="rect" id="node5" href="$de/dab/class_m_s_no_logic_junction.html" title="{MSNoLogicJunction\n|&#45; myIncomingLanes\l|+ MSNoLogicJunction()\l+ postloadInit()\l+ ~MSNoLogicJunction()\l&#45; MSNoLogicJunction()\l&#45; operator=()\l}" alt="" coords="201,652,371,788"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="134,5,251,156"/>
-<area shape="rect" id="node4" href="$d3/dcd/class_m_s_right_of_way_junction.html" title="A junction with right&#45;of&#45;way &#45; rules. " alt="" coords="5,836,196,1045"/>
-</map>

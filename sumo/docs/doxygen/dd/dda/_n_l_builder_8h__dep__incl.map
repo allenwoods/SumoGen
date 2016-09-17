@@ -1,8 +1,0 @@
-<map id="NLBuilder.h" name="NLBuilder.h">
-<area shape="rect" id="node2" href="$d6/dec/_g_u_i_load_thread_8cpp.html" title="GUILoadThread.cpp" alt="" coords="5,80,151,107"/>
-<area shape="rect" id="node3" href="$d0/d98/_g_u_i_edge_control_builder_8cpp.html" title="GUIEdgeControlBuilder.cpp" alt="" coords="175,80,362,107"/>
-<area shape="rect" id="node4" href="$df/d38/_n_l_builder_8cpp.html" title="NLBuilder.cpp" alt="" coords="386,80,490,107"/>
-<area shape="rect" id="node5" href="$db/d24/_n_l_edge_control_builder_8cpp.html" title="NLEdgeControlBuilder.cpp" alt="" coords="514,80,693,107"/>
-<area shape="rect" id="node6" href="$d8/d64/_n_l_junction_control_builder_8cpp.html" title="NLJunctionControlBuilder.cpp" alt="" coords="717,80,913,107"/>
-<area shape="rect" id="node7" href="$d1/d4b/sumo__main_8cpp.html" title="sumo_main.cpp" alt="" coords="938,80,1053,107"/>
-</map>

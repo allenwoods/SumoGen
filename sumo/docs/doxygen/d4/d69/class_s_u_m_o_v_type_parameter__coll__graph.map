@@ -1,4 +1,0 @@
-<map id="SUMOVTypeParameter" name="SUMOVTypeParameter">
-<area shape="rect" id="node2" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="5,86,149,295"/>
-<area shape="rect" id="node3" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="174,5,381,376"/>
-</map>

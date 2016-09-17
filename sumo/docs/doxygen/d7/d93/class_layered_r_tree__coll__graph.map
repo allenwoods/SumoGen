@@ -1,7 +1,0 @@
-<map id="LayeredRTree" name="LayeredRTree">
-<area shape="rect" id="node2" href="$d3/dca/class_s_u_m_o_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects. " alt="" coords="133,565,337,731"/>
-<area shape="rect" id="node4" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="169,220,301,503"/>
-<area shape="rect" id="node5" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="169,5,295,171"/>
-<area shape="rect" id="node6" href="$d9/d79/class_m_f_x_mutex.html" title="{MFXMutex\n|# lock_\l&#45; mutexHandle\l|+ lock()\l+ locked()\l+ MFXMutex()\l+ unlock()\l+ ~MFXMutex()\l&#45; MFXMutex()\l&#45; operator=()\l}" alt="" coords="328,271,443,451"/>
-<area shape="rect" id="node7" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="319,27,454,149"/>
-</map>

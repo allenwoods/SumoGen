@@ -1,5 +1,0 @@
-<map id="MSPModel_Striping" name="MSPModel_Striping">
-<area shape="rect" id="node3" href="$d8/df5/class_m_s_p_model___striping_1_1_move_pedestrians.html" title="{MSPModel_Striping::\lMovePedestrians\n||+ execute()\l+ MovePedestrians()\l+ ~MovePedestrians()\l&#45; operator=()\l}" alt="" coords="93,1035,249,1171"/>
-<area shape="rect" id="node2" href="$de/da8/class_m_s_p_model.html" title="The pedestrian following model. " alt="" coords="174,5,361,229"/>
-<area shape="rect" id="node4" href="$d5/d6a/class_command.html" title="Base (microsim) event class. " alt="" coords="5,572,119,679"/>
-</map>

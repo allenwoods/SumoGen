@@ -1,6 +1,0 @@
-<map id="AbstractPoly" name="AbstractPoly">
-<area shape="rect" id="node2" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="41,219,173,501"/>
-<area shape="rect" id="node5" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="197,219,348,501"/>
-<area shape="rect" id="node3" href="$d3/dca/class_s_u_m_o_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects. " alt="" coords="5,549,209,715"/>
-<area shape="rect" id="node4" href="$d5/d5a/class_layered_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects in layers. " alt="" coords="38,763,177,913"/>
-</map>

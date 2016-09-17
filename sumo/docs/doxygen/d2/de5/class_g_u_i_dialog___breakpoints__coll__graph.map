@@ -1,5 +1,0 @@
-<map id="GUIDialog_Breakpoints" name="GUIDialog_Breakpoints">
-<area shape="rect" id="node3" href="$db/dba/class_g_u_i_main_window.html" title="{GUIMainWindow\n|# myAmGaming\l# myBoldFont\l# myBottomDock\l# myCartesianCoordinate\l# myCartesianFrame\l# myGeoCoordinate\l# myGeoFrame\l# myGLVisual\l# myLeftDock\l# myListInternal\land 6 more...\l|+ addChild()\l+ addChild()\l+ getActiveView()\l+ getBoldFont()\l+ getBuildGLCanvas()\l+ getCartesianLabel()\l+ getCurrentSimTime()\l+ getDelay()\l+ getGeoLabel()\l+ getGLVisual()\land 12 more...\l+ getInstance()\l# GUIMainWindow()\l}" alt="" coords="101,419,277,819"/>
-<area shape="rect" id="node4" href="$d9/d79/class_m_f_x_mutex.html" title="{MFXMutex\n|# lock_\l&#45; mutexHandle\l|+ lock()\l+ locked()\l+ MFXMutex()\l+ unlock()\l+ ~MFXMutex()\l&#45; MFXMutex()\l&#45; operator=()\l}" alt="" coords="147,176,261,356"/>
-<area shape="rect" id="node5" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="137,5,271,127"/>
-</map>

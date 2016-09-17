@@ -1,3 +1,0 @@
-<map id="FX::FXRealSpinDial" name="FX::FXRealSpinDial">
-<area shape="rect" id="node3" href="$db/d1b/class_f_x_1_1_f_x_real_spin_dial_text.html" title="{FX::FXRealSpinDialText\n|# exponent\l# flags\l# fmtString\l# precision\l|+ FXRealSpinDialText()\l+ getNumberFormatExponent()\l+ getNumberFormatPrecision()\l+ getNumberFormatString()\l+ onCmdSetRealValue()\l+ onMotion()\l+ setFormatString()\l+ setNumberFormat()\l# FXRealSpinDialText()\l&#45; FXRealSpinDialText()\l&#45; operator=()\l}" alt="" coords="112,132,317,400"/>
-</map>

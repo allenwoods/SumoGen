@@ -1,8 +1,0 @@
-<map id="PointOfInterest" name="PointOfInterest">
-<area shape="rect" id="node6" href="$dc/d32/class_g_u_i_point_of_interest.html" title="{GUIPointOfInterest\n||+ GUIPointOfInterest()\l+ ~GUIPointOfInterest()\l+ getPopUpMenu()\l+ getParameterWindow()\l+ getCenteringBoundary()\l+ drawGL()\l* getPopUpMenu()\l* getParameterWindow()\l* getCenteringBoundary()\l* drawGL()\l}" alt="" coords="215,1071,393,1280"/>
-<area shape="rect" id="node2" href="$d7/da7/class_shape.html" title="A 2D&#45; or 3D&#45;Shape. " alt="" coords="5,204,189,736"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="39,5,156,156"/>
-<area shape="rect" id="node4" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="214,336,394,604"/>
-<area shape="rect" id="node5" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="419,365,563,575"/>
-<area shape="rect" id="node7" href="$df/dc7/class_g_n_e_p_o_i.html" title="{GNEPOI\n||+ GNEPOI()\l+ ~GNEPOI()\l+ getAttribute()\l+ setAttribute()\l+ isValid()\l+ saveToFile()\l&#45; GNEPOI()\l&#45; operator=()\l&#45; setAttribute()\l* getAttribute()\l* setAttribute()\l* isValid()\l}" alt="" coords="248,1328,360,1567"/>
-</map>

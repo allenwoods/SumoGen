@@ -1,7 +1,0 @@
-<map id="ROEdge" name="ROEdge">
-<area shape="rect" id="node3" href="$d1/d9d/class_a_g_street.html" title="A model of the street in the city. " alt="" coords="5,1451,177,1631"/>
-<area shape="rect" id="node4" href="$d8/d77/class_r_o_d_f_edge.html" title="{RODFEdge\n|&#45; myFlows\l|+ getFlows()\l+ RODFEdge()\l+ setFlows()\l+ ~RODFEdge()\l&#45; operator=()\l&#45; RODFEdge()\l}" alt="" coords="201,1466,320,1617"/>
-<area shape="rect" id="node5" href="$de/dc2/class_r_o_j_t_r_edge.html" title="An edge the jtr&#45;router may route through. " alt="" coords="344,1444,524,1639"/>
-<area shape="rect" id="node6" href="$da/d46/class_r_o_m_a_edge.html" title="A basic edge for routing applications. " alt="" coords="549,1429,679,1653"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="289,5,406,156"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="Bresenham::BresenhamCallBack" name="Bresenham::BresenhamCallBack">
-<area shape="rect" id="node2" href="$df/d8c/class_n_b_edge_1_1_to_edge_connections_adder.html" title="{NBEdge::ToEdgeConnections\lAdder\n|&#45; myConnections\l&#45; myTransitions\l|+ execute()\l+ getBuiltConnections()\l+ ToEdgeConnectionsAdder()\l+ ~ToEdgeConnectionsAdder()\l&#45; operator=()\l&#45; ToEdgeConnectionsAdder()\l}" alt="" coords="5,160,217,340"/>
-<area shape="rect" id="node3" href="$d5/dc7/class_n_b_node_1_1_approaching_divider.html" title="Computes lane&#45;2&#45;lane connections. " alt="" coords="241,167,440,333"/>
-</map>

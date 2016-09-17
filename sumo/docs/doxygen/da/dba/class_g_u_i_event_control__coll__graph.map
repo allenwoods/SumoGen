@@ -1,5 +1,0 @@
-<map id="GUIEventControl" name="GUIEventControl">
-<area shape="rect" id="node2" href="$d1/dd4/class_m_s_event_control.html" title="Stores time&#45;dependant events and executes them at the proper time. " alt="" coords="5,176,168,385"/>
-<area shape="rect" id="node3" href="$d9/d79/class_m_f_x_mutex.html" title="{MFXMutex\n|# lock_\l&#45; mutexHandle\l|+ lock()\l+ locked()\l+ MFXMutex()\l+ unlock()\l+ ~MFXMutex()\l&#45; MFXMutex()\l&#45; operator=()\l}" alt="" coords="192,191,307,371"/>
-<area shape="rect" id="node4" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="182,5,317,127"/>
-</map>

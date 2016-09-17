@@ -1,7 +1,0 @@
-<map id="MSStoppingPlace" name="MSStoppingPlace">
-<area shape="rect" id="node3" href="$d8/d62/class_g_u_i_bus_stop.html" title="A lane area vehicles can halt at (gui&#45;version) " alt="" coords="5,703,183,1001"/>
-<area shape="rect" id="node4" href="$d0/d7d/class_g_u_i_container_stop.html" title="A lane area vehicles can halt at (gui&#45;version) " alt="" coords="207,718,384,986"/>
-<area shape="rect" id="node5" href="$d0/d1b/class_m_s_charging_station.html" title="{MSChargingStation\n|# myChargeDelay\l# myChargeInTransit\l# myChargingPower\l# myChargingVehicle\l# myEfficiency\l|+ getChargeDelay()\l+ getChargeInTransit()\l+ getChargingPower()\l+ getEfficency()\l+ isCharging()\l+ MSChargingStation()\l+ setChargeDelay()\l+ setChargeInTransit()\l+ setChargingPower()\l+ setChargingVehicle()\l+ setEfficency()\l+ vehicleIsInside()\l+ ~MSChargingStation()\l&#45; MSChargingStation()\l&#45; operator=()\l}" alt="" coords="408,681,575,1023"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="237,5,354,156"/>
-<area shape="rect" id="node6" href="$da/daf/class_g_u_i_charging_station.html" title="A lane area vehicles can halt at (gui&#45;version) " alt="" coords="403,1071,580,1339"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="MSCFModel_KraussPS" name="MSCFModel_KraussPS">
-<area shape="rect" id="node2" href="$d3/d44/class_m_s_c_f_model___krauss.html" title="Krauss car&#45;following model, with acceleration decrease and faster start. " alt="" coords="21,2495,196,2704"/>
-<area shape="rect" id="node3" href="$d3/d3a/class_m_s_c_f_model___krauss_orig1.html" title="The original Krauss (1998) car&#45;following model and parameter. " alt="" coords="5,1620,212,2035"/>
-<area shape="rect" id="node4" href="$d1/d9d/class_m_s_c_f_model.html" title="The car&#45;following model abstraction. " alt="" coords="75,439,281,1147"/>
-<area shape="rect" id="node5" href="$de/da2/class_m_s_vehicle_type.html" title="The car&#45;following model and parameter. " alt="" coords="236,1209,453,2445"/>
-<area shape="rect" id="node6" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="335,541,520,1044"/>
-<area shape="rect" id="node7" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="294,86,438,295"/>
-<area shape="rect" id="node8" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="463,5,669,376"/>
-</map>

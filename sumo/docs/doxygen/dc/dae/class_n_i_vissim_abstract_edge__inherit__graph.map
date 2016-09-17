@@ -1,4 +1,0 @@
-<map id="NIVissimAbstractEdge" name="NIVissimAbstractEdge">
-<area shape="rect" id="node2" href="$d3/d0c/class_n_i_vissim_connection.html" title="{NIVissimConnection\n|&#45; myAssignedVehicles\l&#45; myClosedLanes\l&#45; myFromDef\l&#45; myName\l&#45; myToDef\l&#45; myDict\l&#45; myMaxID\l|+ buildEdgeConnections()\l+ buildGeom()\l+ computeBounding()\l+ getBoundingBox()\l+ getFromEdgeID()\l+ getFromGeomPosition()\l+ getFromLanes()\l+ getFromPosition()\l+ getToEdgeID()\l+ getToGeomPosition()\land 6 more...\l+ buildNodeClusters()\l+ dict_assignToEdges()\l+ dict_buildNBEdgeConnections()\l+ dictionary()\l+ dictionary()\l+ getForEdge()\l+ getMaxID()\l+ getWithin()\l}" alt="" coords="5,615,228,1044"/>
-<area shape="rect" id="node3" href="$d3/d68/class_n_i_vissim_edge.html" title="A temporary storage for edges imported from Vissim. " alt="" coords="253,453,509,1205"/>
-</map>

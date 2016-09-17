@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/dce/class_m_s_transportable_1_1_stage.html" title="MSTransportable::Stage" alt="" coords="5,111,176,138"/>
-<area shape="rect" id="node2" href="$da/dc8/class_m_s_container_1_1_m_s_container_stage___tranship.html" title="MSContainer::MSContainer\lStage_Tranship" alt="" coords="227,5,413,47"/>
-<area shape="rect" id="node3" href="$d6/dcd/class_m_s_person_1_1_m_s_person_stage___walking.html" title="MSPerson::MSPersonStage\l_Walking" alt="" coords="224,71,416,112"/>
-<area shape="rect" id="node4" href="$dc/d16/class_m_s_transportable_1_1_stage___driving.html" title="MSTransportable::Stage\l_Driving" alt="" coords="235,136,405,177"/>
-<area shape="rect" id="node7" href="$da/d6f/class_m_s_transportable_1_1_stage___waiting.html" title="MSTransportable::Stage\l_Waiting" alt="" coords="235,201,405,243"/>
-<area shape="rect" id="node5" href="$d4/d3f/class_m_s_container_1_1_m_s_container_stage___driving.html" title="MSContainer::MSContainer\lStage_Driving" alt="" coords="467,104,653,145"/>
-<area shape="rect" id="node6" href="$d8/d6d/class_m_s_person_1_1_m_s_person_stage___driving.html" title="MSPerson::MSPersonStage\l_Driving" alt="" coords="464,169,656,211"/>
-</map>

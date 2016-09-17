@@ -1,4 +1,0 @@
-<map id="FXEX::FXBaseObject" name="FXEX::FXBaseObject">
-<area shape="rect" id="node3" href="$d1/d9b/class_f_x_e_x_1_1_f_x_thread_event.html" title="{FXEX::FXThreadEvent\n|&#45; event\l|+ FXThreadEvent()\l+ onThreadEvent()\l+ onThreadSignal()\l+ signal()\l+ signal()\l+ ~FXThreadEvent()\l# FXThreadEvent()\l# operator=()\l}" alt="" coords="5,491,164,671"/>
-<area shape="rect" id="node4" href="$da/dee/class_f_x_thread_message_retriever.html" title="{FXThreadMessageRetriever\n||+ FXThreadMessageRetriever()\l+ ~FXThreadMessageRetriever()\l}" alt="" coords="188,535,411,627"/>
-</map>

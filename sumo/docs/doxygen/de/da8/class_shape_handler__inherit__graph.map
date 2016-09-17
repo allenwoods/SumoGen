@@ -1,7 +1,0 @@
-<map id="ShapeHandler" name="ShapeHandler">
-<area shape="rect" id="node5" href="$d1/dd7/class_g_n_e_application_window_1_1_g_n_e_shape_handler.html" title="The XML&#45;Handler for shapes loading network loading. " alt="" coords="5,1218,169,1339"/>
-<area shape="rect" id="node6" href="$da/d56/class_n_l_shape_handler.html" title="The XML&#45;Handler for shapes loading network loading. " alt="" coords="194,1225,346,1332"/>
-<area shape="rect" id="node7" href="$db/d4e/class_p_c_loader_x_m_l.html" title="A reader for polygons and pois stored in XML&#45;format. " alt="" coords="370,1196,509,1361"/>
-<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="189,696,351,817"/>
-<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="181,145,359,648"/>
-</map>

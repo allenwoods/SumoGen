@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$da/d14/class_n_i_vissim_abstract_edge.html" title="NIVissimAbstractEdge" alt="" coords="33,19,187,45"/>
-<area shape="rect" id="node2" href="$d3/d0c/class_n_i_vissim_connection.html" title="NIVissimConnection" alt="" coords="264,56,407,83"/>
-<area shape="rect" id="node3" href="$d3/d68/class_n_i_vissim_edge.html" title="A temporary storage for edges imported from Vissim. " alt="" coords="282,5,389,32"/>
-<area shape="rect" id="node4" href="$d1/d3c/class_n_i_vissim_bounded_cluster_object.html" title="NIVissimBoundedClusterObject" alt="" coords="5,81,215,108"/>
-<area shape="rect" id="node5" href="$d9/dcd/class_n_i_vissim_disturbance.html" title="NIVissimDisturbance" alt="" coords="263,107,408,133"/>
-</map>

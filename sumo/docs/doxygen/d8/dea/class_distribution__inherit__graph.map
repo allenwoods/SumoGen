@@ -1,5 +1,0 @@
-<map id="Distribution" name="Distribution">
-<area shape="rect" id="node3" href="$d2/d2e/class_distribution___mean_dev.html" title="{Distribution_MeanDev\n|&#45; myDeviation\l&#45; myMeanValue\l|+ Distribution_MeanDev()\l+ getMax()\l+ ~Distribution_MeanDev()\l}" alt="" coords="5,403,187,524"/>
-<area shape="rect" id="node4" href="$d6/d23/class_distribution___points.html" title="{Distribution_Points\n|# myInterpolateDist\l# myPoints\l# myProbabilities\l# myProbabilitiesAreComputed\l|+ Distribution_Points()\l+ getAreaBegin()\l+ getAreaEnd()\l+ getAreaNo()\l+ getAreaPerc()\l+ getMax()\l+ ~Distribution_Points()\l}" alt="" coords="211,359,418,568"/>
-<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="147,5,264,156"/>
-</map>

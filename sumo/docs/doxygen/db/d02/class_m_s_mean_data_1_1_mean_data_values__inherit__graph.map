@@ -1,8 +1,0 @@
-<map id="MSMeanData::MeanDataValues" name="MSMeanData::MeanDataValues">
-<area shape="rect" id="node3" href="$dc/d57/class_m_s_mean_data_1_1_mean_data_value_tracker.html" title="Data structure for mean (aggregated) edge/lane values for tracked vehicles. " alt="" coords="5,733,216,1059"/>
-<area shape="rect" id="node4" href="$d0/dc9/class_m_s_mean_data___amitran_1_1_m_s_lane_mean_data_values.html" title="Data structure for mean (aggregated) edge/lane values. " alt="" coords="240,740,445,1052"/>
-<area shape="rect" id="node5" href="$dd/d61/class_m_s_mean_data___emissions_1_1_m_s_lane_mean_data_values.html" title="Data structure for mean (aggregated) edge/lane values. " alt="" coords="469,806,675,986"/>
-<area shape="rect" id="node6" href="$dd/d5c/class_m_s_mean_data___harmonoise_1_1_m_s_lane_mean_data_values.html" title="Data structure for mean (aggregated) edge/lane values. " alt="" coords="699,762,904,1030"/>
-<area shape="rect" id="node7" href="$df/d49/class_m_s_mean_data___net_1_1_m_s_lane_mean_data_values.html" title="Data structure for mean (aggregated) edge/lane values. " alt="" coords="928,711,1152,1081"/>
-<area shape="rect" id="node2" href="$d2/da5/class_m_s_move_reminder.html" title="Something on a lane to be noticed about vehicle movement. " alt="" coords="448,5,696,332"/>
-</map>

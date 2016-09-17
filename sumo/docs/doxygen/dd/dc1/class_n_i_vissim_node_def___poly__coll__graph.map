@@ -1,6 +1,0 @@
-<map id="NIVissimNodeDef_Poly" name="NIVissimNodeDef_Poly">
-<area shape="rect" id="node2" href="$d6/d52/class_n_i_vissim_node_def___edges.html" title="{NIVissimNodeDef_Edges\n|# myEdges\l|+ getEdgePosition()\l+ NIVissimNodeDef_Edges()\l+ ~NIVissimNodeDef_Edges()\l+ dictionary()\l}" alt="" coords="5,374,208,495"/>
-<area shape="rect" id="node3" href="$d8/dcf/class_n_i_vissim_node_def.html" title="{NIVissimNodeDef\n|# myID\l# myName\l&#45; myDict\l&#45; myMaxID\l|+ buildNodeCluster()\l+ getEdgePosition()\l+ NIVissimNodeDef()\l+ ~NIVissimNodeDef()\l+ clearDict()\l+ dictionary()\l+ dictionary()\l+ dictSize()\l+ getMaxID()\l}" alt="" coords="29,5,185,244"/>
-<area shape="rect" id="node4" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="233,293,383,576"/>
-<area shape="rect" id="node5" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="227,42,352,207"/>
-</map>

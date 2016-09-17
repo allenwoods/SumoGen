@@ -1,9 +1,0 @@
-<map id="NIImporter_ITSUMO::Handler::LaneSet" name="NIImporter_ITSUMO::Handler::LaneSet">
-<area shape="rect" id="node2" href="$d3/dd1/class_n_b_node.html" title="Represents a single node (junction) during network building. " alt="" coords="73,984,316,2249"/>
-<area shape="rect" id="node9" href="$df/d8e/class_n_b_request.html" title="{NBRequest\n|&#45; myAll\l&#45; myCrossings\l&#45; myDone\l&#45; myForbids\l&#45; myIncoming\l&#45; myOutgoing\l&#45; myGoodBuilds\l&#45; myNotBuild\l|+ buildBitfieldLogic()\l+ foes()\l+ forbids()\l+ getSizes()\l+ mustBrake()\l+ mustBrake()\l+ NBRequest()\l+ writeLogic()\l+ ~NBRequest()\l+ mergeConflict()\l+ mustBrakeForCrossing()\l+ reportWarnings()\l&#45; computeLeftOutgoingLinkCrossings()\l&#45; computeRightOutgoingLink\lCrossings()\l&#45; distanceCounterClockwise()\l&#45; getFoesString()\l&#45; getIndex()\l&#45; getResponseString()\l&#45; laneConflict()\l&#45; numLinks()\l&#45; operator=()\l&#45; resetCooperating()\l&#45; resetSignalised()\l&#45; setBlocking()\l&#45; writeCrossingResponse()\l&#45; writeLaneResponse()\l}" alt="" coords="178,2327,427,2888"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="20,286,137,437"/>
-<area shape="rect" id="node4" href="$d7/d91/class_n_b_district.html" title="A class representing a single district. " alt="" coords="223,565,377,921"/>
-<area shape="rect" id="node5" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="162,220,313,503"/>
-<area shape="rect" id="node6" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="92,5,217,171"/>
-<area shape="rect" id="node8" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="337,235,517,488"/>
-</map>

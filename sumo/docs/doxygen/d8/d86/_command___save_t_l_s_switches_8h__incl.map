@@ -1,9 +1,0 @@
-<map id="Command_SaveTLSSwitches.h" name="Command_SaveTLSSwitches.h">
-<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="390,393,458,420"/>
-<area shape="rect" id="node5" href="$d6/d37/_command_8h.html" title="utils/common/Command.h" alt="" coords="208,169,387,196"/>
-<area shape="rect" id="node10" href="$d0/df9/_m_s_t_l_logic_control_8h.html" title="microsim/traffic_lights\l/MSTLLogicControl.h" alt="" coords="512,80,661,121"/>
-<area shape="rect" id="node6" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="73,244,260,271"/>
-<area shape="rect" id="node8" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="171,319,285,345"/>
-<area shape="rect" id="node12" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="481,169,693,196"/>
-<area shape="rect" id="node13" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="512,244,712,271"/>
-</map>

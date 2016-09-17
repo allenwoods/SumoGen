@@ -1,7 +1,0 @@
-<map id="MSSOTLPlatoonPolicy" name="MSSOTLPlatoonPolicy">
-<area shape="rect" id="node2" href="$d2/d9d/class_m_s_s_o_t_l_policy.html" title="Class for a low&#45;level policy. " alt="" coords="5,507,188,775"/>
-<area shape="rect" id="node3" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="47,5,191,215"/>
-<area shape="rect" id="node4" href="$d5/de3/class_m_s_s_o_t_l_policy_desirability.html" title="This class determines the desirability algorithm of a MSSOTLPolicy when used in combination with a hi..." alt="" coords="113,264,323,444"/>
-<area shape="rect" id="node5" href="$de/d08/class_sigmoid_logic.html" title="{SigmoidLogic\n|# m_k\l# m_prefix\l# m_useSigmoid\l|# init()\l# sigmoidLogic()\l}" alt="" coords="213,580,335,701"/>
-<area shape="rect" id="node6" href="$d7/d82/class_push_button_logic.html" title="{PushButtonLogic\n|# m_prefix\l# m_pushButtonScaleFactor\l|# init()\l# pushButtonLogic()\l}" alt="" coords="359,587,549,694"/>
-</map>

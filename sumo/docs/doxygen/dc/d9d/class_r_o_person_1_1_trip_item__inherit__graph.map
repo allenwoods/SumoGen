@@ -1,4 +1,0 @@
-<map id="ROPerson::TripItem" name="ROPerson::TripItem">
-<area shape="rect" id="node2" href="$dc/d36/class_r_o_person_1_1_ride.html" title="A ride is part of a trip, e.g., go from here to here by car or bus. " alt="" coords="5,197,133,377"/>
-<area shape="rect" id="node3" href="$da/dd7/class_r_o_person_1_1_walk.html" title="A walk is part of a trip, e.g., go from here to here by foot. " alt="" coords="157,175,285,399"/>
-</map>

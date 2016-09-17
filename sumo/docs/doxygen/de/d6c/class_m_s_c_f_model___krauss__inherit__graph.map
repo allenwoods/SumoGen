@@ -1,5 +1,0 @@
-<map id="MSCFModel_Krauss" name="MSCFModel_Krauss">
-<area shape="rect" id="node4" href="$d7/dd8/class_m_s_c_f_model___krauss_p_s.html" title="Krauss car&#45;following model, changing accel and speed by slope. " alt="" coords="12,1496,205,1661"/>
-<area shape="rect" id="node2" href="$d3/d3a/class_m_s_c_f_model___krauss_orig1.html" title="The original Krauss (1998) car&#45;following model and parameter. " alt="" coords="5,776,212,1191"/>
-<area shape="rect" id="node3" href="$d1/d9d/class_m_s_c_f_model.html" title="The car&#45;following model abstraction. " alt="" coords="5,5,212,728"/>
-</map>

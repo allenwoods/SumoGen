@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$dc/da6/class_a_star_router.html" title="Computes the shortest path through a network using the A* algorithm. " alt="" coords="201,253,369,280"/>
-<area shape="rect" id="node3" href="$dd/d67/class_c_h_router.html" title="Computes the shortest path through a contracted network. " alt="" coords="208,5,363,32"/>
-<area shape="rect" id="node4" href="$d0/d57/class_c_h_router_1_1_unidirectional.html" title="CHRouter\&lt; E, V, PF\l \&gt;::Unidirectional" alt="" coords="214,305,357,346"/>
-<area shape="rect" id="node5" href="$d9/d53/class_c_h_router_wrapper.html" title="Computes the shortest path through a contracted network. " alt="" coords="208,57,363,98"/>
-<area shape="rect" id="node6" href="$d8/d00/class_dijkstra_router_effort.html" title="Computes the shortest path through a network using the Dijkstra algorithm. " alt="" coords="218,122,353,163"/>
-<area shape="rect" id="node7" href="$d2/d6c/class_dijkstra_router_t_t.html" title="Computes the shortest path through a network using the Dijkstra algorithm. " alt="" coords="210,187,361,229"/>
-<area shape="rect" id="node8" href="$d2/d23/class_s_u_m_o_abstract_router.html" title="SUMOAbstractRouter\l\&lt; E, V \&gt;" alt="" coords="5,122,153,163"/>
-</map>

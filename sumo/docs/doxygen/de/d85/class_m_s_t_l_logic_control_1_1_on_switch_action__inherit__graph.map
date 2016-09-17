@@ -1,4 +1,0 @@
-<map id="MSTLLogicControl::OnSwitchAction" name="MSTLLogicControl::OnSwitchAction">
-<area shape="rect" id="node2" href="$d0/d1a/class_command___save_t_l_coupled_det.html" title="Writes e2 state on each tls switch. " alt="" coords="20,160,261,340"/>
-<area shape="rect" id="node3" href="$de/d3e/class_command___save_t_l_coupled_lane_det.html" title="Writes e2 state of a link for the time the link has yellow/red. " alt="" coords="5,388,276,553"/>
-</map>

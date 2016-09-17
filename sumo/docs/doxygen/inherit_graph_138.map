@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d5/d60/class_line_handler.html" title="Interface definition for a class which retrieves lines from a LineHandler. " alt="" coords="5,111,100,138"/>
-<area shape="rect" id="node2" href="$d5/db6/class_n_i_importer___dlr_navteq_1_1_edges_handler.html" title="Importer of edges stored in unsplit elmar format. " alt="" coords="148,5,297,47"/>
-<area shape="rect" id="node3" href="$de/db9/class_n_i_importer___dlr_navteq_1_1_names_handler.html" title="Importer of street names in DLRNavteq&#39;s (aka elmar) format. " alt="" coords="148,71,297,112"/>
-<area shape="rect" id="node4" href="$de/d43/class_n_i_importer___dlr_navteq_1_1_nodes_handler.html" title="Importer of nodes stored in unsplit elmar format. " alt="" coords="148,136,297,177"/>
-<area shape="rect" id="node5" href="$dc/d86/class_n_i_importer___dlr_navteq_1_1_trafficlights_handler.html" title="Importer of traffic lights stored in DLRNavteq&#39;s (aka elmar) format. " alt="" coords="148,201,297,243"/>
-</map>

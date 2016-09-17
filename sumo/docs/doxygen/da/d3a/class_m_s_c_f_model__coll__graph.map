@@ -1,6 +1,0 @@
-<map id="MSCFModel" name="MSCFModel">
-<area shape="rect" id="node2" href="$de/da2/class_m_s_vehicle_type.html" title="The car&#45;following model and parameter. " alt="" coords="143,1209,360,2445"/>
-<area shape="rect" id="node3" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="251,541,436,1044"/>
-<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="210,86,354,295"/>
-<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="379,5,585,376"/>
-</map>

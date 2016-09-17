@@ -1,4 +1,0 @@
-<map id="MSInsertionControl" name="MSInsertionControl">
-<area shape="rect" id="node2" href="$dd/d95/class_m_s_vehicle_container.html" title="{MSVehicleContainer\n|&#45; array\l&#45; currentSize\l|+ add()\l+ add()\l+ anyWaitingBefore()\l+ isEmpty()\l+ MSVehicleContainer()\l+ pop()\l+ remove()\l+ showArray()\l+ size()\l+ top()\l+ topTime()\l+ ~MSVehicleContainer()\l&#45; addReplacing()\l&#45; isFull()\l&#45; percolateDown()\l}" alt="" coords="5,680,179,977"/>
-<area shape="rect" id="node3" href="$db/d2f/class_m_s_vehicle_control.html" title="The class responsible for building and deletion of vehicles. " alt="" coords="203,5,442,1652"/>
-</map>

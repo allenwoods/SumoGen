@@ -1,8 +1,0 @@
-<map id="MSDeterministicHiLevelTrafficLightLogic" name="MSDeterministicHiLevelTrafficLightLogic">
-<area shape="rect" id="node2" href="$dc/d9c/class_m_s_s_o_t_l_hi_level_traffic_light_logic.html" title="A self&#45;organizing high&#45;level traffic light logic. " alt="" coords="37,2545,246,2813"/>
-<area shape="rect" id="node3" href="$db/dc0/class_m_s_s_o_t_l_traffic_light_logic.html" title="A self&#45;organizing traffic light logic. " alt="" coords="19,1877,263,2497"/>
-<area shape="rect" id="node4" href="$d8/d92/class_m_s_phased_traffic_light_logic.html" title="A fixed traffic light logic. " alt="" coords="33,1400,249,1829"/>
-<area shape="rect" id="node5" href="$df/d93/class_m_s_traffic_light_logic.html" title="The parent class for traffic light logics. " alt="" coords="36,263,247,1352"/>
-<area shape="rect" id="node6" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,35,123,185"/>
-<area shape="rect" id="node7" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="147,5,291,215"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="GNEAdditionalDialog" name="GNEAdditionalDialog">
-<area shape="rect" id="node3" href="$d4/dcd/class_g_n_e_calibrator_dialog.html" title="Dialog for edit calibrators. " alt="" coords="5,520,192,964"/>
-<area shape="rect" id="node4" href="$de/df6/class_g_n_e_rerouter_dialog.html" title="Dialog for edit rerouters. " alt="" coords="217,623,386,861"/>
-<area shape="rect" id="node5" href="$d8/d04/class_g_n_e_variable_speed_signal_dialog.html" title="{GNEVariableSpeedSignalDialog\n|# myAddRow\l# myDataList\l# myRowFrame\l# myRowSpeed\l# myRowStep\l# myVariableSpeedSignalParent\l# myVSSValues\l|+ GNEVariableSpeedSignalDialog()\l+ ~GNEVariableSpeedSignalDialog()\l+ onCmdAddRow()\l+ onCmdRemoveRow()\l+ onCmdAccept()\l+ onCmdCancel()\l+ onCmdReset()\l# GNEVariableSpeedSignalDialog()\l&#45; GNEVariableSpeedSignalDialog()\l&#45; operator=()\l&#45; updateTable()\l* onCmdAddRow()\l* onCmdRemoveRow()\l* onCmdAccept()\l* onCmdCancel()\l* onCmdReset()\l}" alt="" coords="410,549,657,935"/>
-</map>

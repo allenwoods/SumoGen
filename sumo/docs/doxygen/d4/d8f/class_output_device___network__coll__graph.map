@@ -1,5 +1,0 @@
-<map id="OutputDevice_Network" name="OutputDevice_Network">
-<area shape="rect" id="node2" href="$de/da0/class_output_device.html" title="Static storage of an output device and its base (abstract) implementation. " alt="" coords="5,248,183,604"/>
-<area shape="rect" id="node3" href="$d9/d84/class_output_formatter.html" title="Abstract base class for output formatters. " alt="" coords="7,5,181,156"/>
-<area shape="rect" id="node4" href="$d9/d80/classtcpip_1_1_socket.html" title="{tcpip::Socket\n|# lengthLen\l&#45; blocking_\l&#45; host_\l&#45; port_\l&#45; server_socket_\l&#45; socket_\l&#45; verbose_\l|+ accept()\l+ close()\l+ connect()\l+ has_client_connection()\l+ is_blocking()\l+ port()\l+ receive()\l+ receiveExact()\l+ send()\l+ sendExact()\land 6 more...\l# printBufferOnVerbose()\l# receiveComplete()\l# recvAndCheck()\l&#45; atoaddr()\l&#45; BailOnSocketError()\l&#45; datawaiting()\l&#45; init()\l}" alt="" coords="207,219,381,633"/>
-</map>

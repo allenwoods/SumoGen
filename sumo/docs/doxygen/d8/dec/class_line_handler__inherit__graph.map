@@ -1,6 +1,0 @@
-<map id="LineHandler" name="LineHandler">
-<area shape="rect" id="node2" href="$d5/db6/class_n_i_importer___dlr_navteq_1_1_edges_handler.html" title="Importer of edges stored in unsplit elmar format. " alt="" coords="5,160,204,457"/>
-<area shape="rect" id="node3" href="$de/db9/class_n_i_importer___dlr_navteq_1_1_names_handler.html" title="Importer of street names in DLRNavteq&#39;s (aka elmar) format. " alt="" coords="227,233,377,384"/>
-<area shape="rect" id="node4" href="$de/d43/class_n_i_importer___dlr_navteq_1_1_nodes_handler.html" title="Importer of nodes stored in unsplit elmar format. " alt="" coords="401,226,550,391"/>
-<area shape="rect" id="node5" href="$dc/d86/class_n_i_importer___dlr_navteq_1_1_trafficlights_handler.html" title="Importer of traffic lights stored in DLRNavteq&#39;s (aka elmar) format. " alt="" coords="575,219,741,399"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="PCLoaderXML" name="PCLoaderXML">
-<area shape="rect" id="node2" href="$da/da2/class_shape_handler.html" title="The XML&#45;Handler for network loading. " alt="" coords="31,865,179,1148"/>
-<area shape="rect" id="node3" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,696,186,817"/>
-<area shape="rect" id="node4" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,145,193,648"/>
-</map>

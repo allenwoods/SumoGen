@@ -1,4 +1,0 @@
-<map id="NIVissimNodeDef" name="NIVissimNodeDef">
-<area shape="rect" id="node2" href="$d6/d52/class_n_i_vissim_node_def___edges.html" title="{NIVissimNodeDef_Edges\n|# myEdges\l|+ getEdgePosition()\l+ NIVissimNodeDef_Edges()\l+ ~NIVissimNodeDef_Edges()\l+ dictionary()\l}" alt="" coords="5,292,208,413"/>
-<area shape="rect" id="node3" href="$d5/dff/class_n_i_vissim_node_def___poly.html" title="{NIVissimNodeDef_Poly\n|&#45; myPoly\l|+ NIVissimNodeDef_Poly()\l+ ~NIVissimNodeDef_Poly()\l+ dictionary()\l}" alt="" coords="11,461,202,568"/>
-</map>

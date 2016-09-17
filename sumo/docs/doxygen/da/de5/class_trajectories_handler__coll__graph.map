@@ -1,6 +1,0 @@
-<map id="TrajectoriesHandler" name="TrajectoriesHandler">
-<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="78,815,241,936"/>
-<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
-<area shape="rect" id="node5" href="$de/da0/class_output_device.html" title="Static storage of an output device and its base (abstract) implementation. " alt="" coords="336,697,513,1053"/>
-<area shape="rect" id="node6" href="$d9/d84/class_output_formatter.html" title="Abstract base class for output formatters. " alt="" coords="355,315,529,466"/>
-</map>

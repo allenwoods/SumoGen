@@ -1,7 +1,0 @@
-<map id="GUIEvent_Message.h" name="GUIEvent_Message.h">
-<area shape="rect" id="node2" href="$d6/de8/_g_u_i_application_window_8cpp.html" title="GUIApplicationWindow.cpp" alt="" coords="5,80,188,107"/>
-<area shape="rect" id="node3" href="$d6/dec/_g_u_i_load_thread_8cpp.html" title="GUILoadThread.cpp" alt="" coords="212,80,357,107"/>
-<area shape="rect" id="node4" href="$dc/dd9/_g_u_i_run_thread_8cpp.html" title="GUIRunThread.cpp" alt="" coords="381,80,519,107"/>
-<area shape="rect" id="node5" href="$d5/d18/_g_n_e_application_window_8cpp.html" title="GNEApplicationWindow.cpp" alt="" coords="543,80,731,107"/>
-<area shape="rect" id="node6" href="$de/de1/_g_n_e_load_thread_8cpp.html" title="GNELoadThread.cpp" alt="" coords="755,80,905,107"/>
-</map>

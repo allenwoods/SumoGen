@@ -1,3 +1,0 @@
-<map id="MSSOTLE2Sensors" name="MSSOTLE2Sensors">
-<area shape="rect" id="node2" href="$de/d45/class_m_s_s_o_t_l_sensors.html" title="{MSSOTLSensors\n|# currentStep\l# myPhases\l# tlLogicID\l|+ buildOutSensors()\l+ buildSensors()\l+ countVehicles()\l+ countVehicles()\l+ getMaxSpeed()\l+ meanVehiclesSpeed()\l+ meanVehiclesSpeed()\l+ MSSOTLSensors()\l+ stepChanged()\l+ ~MSSOTLSensors()\l# buildSensorForLane()\l# buildSensorForOutLane()\l}" alt="" coords="23,5,205,273"/>
-</map>

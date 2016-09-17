@@ -1,9 +1,0 @@
-<map id="ODDistrictHandler" name="ODDistrictHandler">
-<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="147,756,310,877"/>
-<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
-<area shape="rect" id="node5" href="$d9/d38/class_o_d_district.html" title="A district (origin/destination) " alt="" coords="397,712,551,921"/>
-<area shape="rect" id="node6" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="355,315,473,466"/>
-<area shape="rect" id="node7" href="$d5/d9b/class_random_distributor.html" title="{RandomDistributor\&lt;\l std::string \&gt;\n|&#45; myProb\l&#45; myProbs\l&#45; myVals\l|+ add()\l+ clear()\l+ get()\l+ getOverallProb()\l+ getProbs()\l+ getVals()\l+ RandomDistributor()\l+ ~RandomDistributor()\l}" alt="" coords="497,279,657,503"/>
-<area shape="rect" id="node8" href="$d0/d1f/class_o_d_district_cont.html" title="A container for districts. " alt="" coords="650,727,877,907"/>
-<area shape="rect" id="node9" href="$d2/d4d/class_named_object_cont.html" title="{NamedObjectCont\&lt; ODDistrict * \&gt;\n|&#45; myHaveChanged\l&#45; myMap\l&#45; myVector\l|+ add()\l+ buildAndGetStaticVector()\l+ clear()\l+ erase()\l+ get()\l+ getMyMap()\l+ getTempVector()\l+ insertIDs()\l+ NamedObjectCont()\l+ remove()\l+ size()\l+ ~NamedObjectCont()\l}" alt="" coords="680,257,905,525"/>
-</map>

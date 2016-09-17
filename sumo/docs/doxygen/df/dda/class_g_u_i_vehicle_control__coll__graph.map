@@ -1,5 +1,0 @@
-<map id="GUIVehicleControl" name="GUIVehicleControl">
-<area shape="rect" id="node2" href="$db/d2f/class_m_s_vehicle_control.html" title="The class responsible for building and deletion of vehicles. " alt="" coords="5,176,244,1823"/>
-<area shape="rect" id="node3" href="$d9/d79/class_m_f_x_mutex.html" title="{MFXMutex\n|# lock_\l&#45; mutexHandle\l|+ lock()\l+ locked()\l+ MFXMutex()\l+ unlock()\l+ ~MFXMutex()\l&#45; MFXMutex()\l&#45; operator=()\l}" alt="" coords="269,909,383,1089"/>
-<area shape="rect" id="node4" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="259,5,393,127"/>
-</map>

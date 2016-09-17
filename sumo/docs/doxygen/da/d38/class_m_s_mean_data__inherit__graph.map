@@ -1,8 +1,0 @@
-<map id="MSMeanData" name="MSMeanData">
-<area shape="rect" id="node4" href="$d9/d10/class_m_s_mean_data___amitran.html" title="Network state mean data collector for edges/lanes. " alt="" coords="5,968,193,1192"/>
-<area shape="rect" id="node5" href="$d0/def/class_m_s_mean_data___emissions.html" title="Emission data collector for edges/lanes. " alt="" coords="217,1012,419,1148"/>
-<area shape="rect" id="node6" href="$dc/d17/class_m_s_mean_data___harmonoise.html" title="Noise data collector for edges/lanes. " alt="" coords="443,1005,657,1155"/>
-<area shape="rect" id="node7" href="$d9/da2/class_m_s_mean_data___net.html" title="Network state mean data collector for edges/lanes. " alt="" coords="681,1005,841,1155"/>
-<area shape="rect" id="node2" href="$d4/de2/class_m_s_detector_file_output.html" title="Base of value&#45;generating classes (detectors) " alt="" coords="319,204,549,399"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="375,5,493,156"/>
-</map>

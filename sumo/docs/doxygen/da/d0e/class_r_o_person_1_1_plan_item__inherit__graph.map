@@ -1,4 +1,0 @@
-<map id="ROPerson::PlanItem" name="ROPerson::PlanItem">
-<area shape="rect" id="node2" href="$dc/d1b/class_r_o_person_1_1_person_trip.html" title="A planItem can be a Trip which contains multiple tripItems. " alt="" coords="5,233,164,619"/>
-<area shape="rect" id="node3" href="$d6/df6/class_r_o_person_1_1_stop.html" title="A planItem can be a Stop. " alt="" coords="189,343,317,509"/>
-</map>

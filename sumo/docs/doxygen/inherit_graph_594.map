@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d5/dcd/class_value_source.html" title="ValueSource\&lt; R \&gt;" alt="" coords="5,111,139,138"/>
-<area shape="rect" id="node2" href="$d0/ddf/class_casting_function_binding.html" title="CastingFunctionBinding\l\&lt; T, R, O \&gt;" alt="" coords="194,5,357,47"/>
-<area shape="rect" id="node3" href="$d8/d32/class_func_binding___int_param.html" title="FuncBinding_IntParam\l\&lt; T, R \&gt;" alt="" coords="197,71,353,112"/>
-<area shape="rect" id="node4" href="$da/d80/class_func_binding___string_param.html" title="FuncBinding_StringParam\l\&lt; T, R \&gt;" alt="" coords="187,136,364,177"/>
-<area shape="rect" id="node5" href="$d4/dd6/class_function_binding.html" title="FunctionBinding\&lt; T, R \&gt;" alt="" coords="191,202,359,229"/>
-</map>

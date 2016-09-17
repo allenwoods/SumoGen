@@ -1,6 +1,0 @@
-<map id="MSInsertionControl::Flow" name="MSInsertionControl::Flow">
-<area shape="rect" id="node2" href="$db/d61/class_s_u_m_o_vehicle.html" title="Representation of a vehicle. " alt="" coords="5,864,192,1147"/>
-<area shape="rect" id="node3" href="$d8/d51/class_s_u_m_o_vehicle_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="216,439,405,1572"/>
-<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="177,86,321,295"/>
-<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="346,5,553,376"/>
-</map>

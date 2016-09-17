@@ -1,3 +1,0 @@
-<map id="GUIPerspectiveChanger" name="GUIPerspectiveChanger">
-<area shape="rect" id="node2" href="$db/dc0/class_g_u_i_daniel_perspective_changer.html" title="{GUIDanielPerspectiveChanger\n|&#45; myDragDelay\l&#45; myMouseButtonState\l&#45; myMouseDownTime\l&#45; myMoveOnClick\l&#45; myOrigHeight\l&#45; myOrigWidth\l&#45; myRotation\l&#45; myZoomBase\l|+ centerTo()\l+ changeCanvassLeft()\l+ getRotation()\l+ getXPos()\l+ getYPos()\l+ getZoom()\l+ getZPos()\l+ GUIDanielPerspectiveChanger()\l+ onKeyPress()\l+ onLeftBtnPress()\land 11 more...\l&#45; GUIDanielPerspectiveChanger()\l&#45; move()\l&#45; operator=()\l&#45; rotate()\l&#45; zoom()\l}" alt="" coords="5,629,232,1029"/>
-</map>

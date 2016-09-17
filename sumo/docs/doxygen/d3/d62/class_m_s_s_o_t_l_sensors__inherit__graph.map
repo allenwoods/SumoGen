@@ -1,3 +1,0 @@
-<map id="MSSOTLSensors" name="MSSOTLSensors">
-<area shape="rect" id="node2" href="$de/d42/class_m_s_s_o_t_l_e2_sensors.html" title="{MSSOTLE2Sensors\n|# m_continueSensorOnLanes\l# m_maxSpeedMap\l# m_sensorMap\l# m_typeWeightMap\l# speedThresholdParam\l|+ buildCountOutSensors()\l+ buildCountSensors()\l+ buildOutSensors()\l+ buildOutSensors()\l+ buildSensors()\l+ buildSensors()\l+ countVehicles()\l+ countVehicles()\l+ estimateVehicles()\l+ getEstimateQueueLength()\land 9 more...\l# buildContinueSensior()\l# buildCountSensorForLane()\l# buildCountSensorForOutLane()\l# buildSensorForLane()\l# buildSensorForLane()\l# buildSensorForOutLane()\l# buildSensorForOutLane()\l# count()\l# getVelueFromSensor()\l}" alt="" coords="5,321,223,736"/>
-</map>

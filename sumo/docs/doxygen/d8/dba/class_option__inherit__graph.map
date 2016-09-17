@@ -1,8 +1,0 @@
-<map id="Option" name="Option">
-<area shape="rect" id="node2" href="$dc/dc4/class_option___bool.html" title="{Option_Bool\n|&#45; myValue\l|+ getBool()\l+ getValueString()\l+ isBool()\l+ operator=()\l+ Option_Bool()\l+ Option_Bool()\l+ Option_Bool()\l+ set()\l+ ~Option_Bool()\l}" alt="" coords="5,395,136,589"/>
-<area shape="rect" id="node3" href="$d5/d89/class_option___float.html" title="{Option_Float\n|&#45; myValue\l|+ getFloat()\l+ getValueString()\l+ operator=()\l+ Option_Float()\l+ Option_Float()\l+ Option_Float()\l+ set()\l+ ~Option_Float()\l}" alt="" coords="160,402,291,582"/>
-<area shape="rect" id="node4" href="$da/d48/class_option___integer.html" title="An integer&#45;option. " alt="" coords="315,402,451,582"/>
-<area shape="rect" id="node5" href="$de/db3/class_option___int_vector.html" title="{Option_IntVector\n|&#45; myValue\l|+ getIntVector()\l+ getValueString()\l+ operator=()\l+ Option_IntVector()\l+ Option_IntVector()\l+ Option_IntVector()\l+ set()\l+ ~Option_IntVector()\l}" alt="" coords="475,402,621,582"/>
-<area shape="rect" id="node6" href="$d9/d35/class_option___string.html" title="{Option_String\n|# myValue\l|+ getString()\l+ getValueString()\l+ operator=()\l+ Option_String()\l+ Option_String()\l+ Option_String()\l+ set()\l+ ~Option_String()\l}" alt="" coords="645,402,776,582"/>
-<area shape="rect" id="node7" href="$d4/d14/class_option___file_name.html" title="{Option_FileName\n||+ getValueString()\l+ isFileName()\l+ operator=()\l+ Option_FileName()\l+ Option_FileName()\l+ Option_FileName()\l+ ~Option_FileName()\l}" alt="" coords="634,637,787,803"/>
-</map>

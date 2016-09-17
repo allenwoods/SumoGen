@@ -1,8 +1,0 @@
-<map id="RODFRouteCont::route_finder" name="RODFRouteCont::route_finder">
-<area shape="rect" id="node2" href="$d8/d59/struct_r_o_d_f_route_desc.html" title="A route within the DFROUTER. " alt="" coords="98,1907,225,2101"/>
-<area shape="rect" id="node3" href="$de/df5/class_r_o_edge.html" title="A basic edge for routing applications. " alt="" coords="66,623,257,1829"/>
-<area shape="rect" id="node4" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,57,123,207"/>
-<area shape="rect" id="node5" href="$d4/d5d/class_r_o_node.html" title="Base class for nodes used by the router. " alt="" coords="101,321,221,545"/>
-<area shape="rect" id="node6" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="147,5,327,259"/>
-<area shape="rect" id="node7" href="$d6/d9c/class_value_time_line.html" title="{ValueTimeLine\&lt; SUMOReal \&gt;\n|&#45; myValues\l|+ add()\l+ describesTime()\l+ fillGaps()\l+ getSplitTime()\l+ getValue()\l+ ValueTimeLine()\l+ ~ValueTimeLine()\l}" alt="" coords="245,351,451,516"/>
-</map>

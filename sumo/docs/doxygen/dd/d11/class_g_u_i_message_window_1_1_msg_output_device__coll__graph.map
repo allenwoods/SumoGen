@@ -1,5 +1,0 @@
-<map id="GUIMessageWindow::MsgOutputDevice" name="GUIMessageWindow::MsgOutputDevice">
-<area shape="rect" id="node2" href="$de/da0/class_output_device.html" title="Static storage of an output device and its base (abstract) implementation. " alt="" coords="135,219,313,575"/>
-<area shape="rect" id="node4" href="$d2/db3/class_g_u_i_message_window.html" title="A logging window for the gui. " alt="" coords="5,667,187,905"/>
-<area shape="rect" id="node3" href="$d9/d84/class_output_formatter.html" title="Abstract base class for output formatters. " alt="" coords="137,5,311,156"/>
-</map>

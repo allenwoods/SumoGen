@@ -1,8 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d2/d23/class_s_u_m_o_abstract_router.html" title="SUMOAbstractRouter\l\&lt; E, IntermodalTrip\l\&lt; E, N, V \&gt; \&gt;" alt="" coords="5,97,153,153"/>
-<area shape="rect" id="node2" href="$d2/d31/class_intermodal_router.html" title="IntermodalRouter\&lt; E,\l L, N, V, INTERNALROUTER \&gt;" alt="" coords="251,5,457,47"/>
-<area shape="rect" id="node3" href="$d2/d31/class_intermodal_router.html" title="IntermodalRouter\&lt; E,\l L, N, V \&gt;" alt="" coords="280,71,428,112"/>
-<area shape="rect" id="node4" href="$dc/d01/class_pedestrian_router.html" title="PedestrianRouter\&lt; E,\l L, N, V, INTERNALROUTER \&gt;" alt="" coords="251,136,457,177"/>
-<area shape="rect" id="node5" href="$dc/d01/class_pedestrian_router.html" title="PedestrianRouter\&lt; E,\l L, N, V, DijkstraRouterTT\l\&lt; IntermodalEdge\&lt; E, L,\l N, V \&gt;, IntermodalTrip\&lt;\l E, N, V \&gt;, prohibited_withPermissions\l\&lt; IntermodalEdge\&lt; E, L, N, V \&gt;, IntermodalTrip\l\&lt; E, N, V \&gt; \&gt; \&gt; \&gt;" alt="" coords="201,202,507,317"/>
-<area shape="rect" id="node6" href="$dd/d3c/class_pedestrian_router_dijkstra.html" title="PedestrianRouterDijkstra\l\&lt; E, L, N, V \&gt;" alt="" coords="555,239,725,280"/>
-</map>

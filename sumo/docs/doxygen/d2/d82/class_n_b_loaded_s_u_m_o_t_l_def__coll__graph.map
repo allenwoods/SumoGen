@@ -1,6 +1,0 @@
-<map id="NBLoadedSUMOTLDef" name="NBLoadedSUMOTLDef">
-<area shape="rect" id="node2" href="$d3/de8/class_n_b_traffic_light_definition.html" title="The base class for traffic light logic definitions. " alt="" coords="5,264,220,869"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="93,35,210,185"/>
-<area shape="rect" id="node5" href="$d7/d9d/class_n_b_traffic_light_logic.html" title="A SUMO&#45;compliant built logic for a traffic light. " alt="" coords="245,403,413,730"/>
-<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="238,5,382,215"/>
-</map>

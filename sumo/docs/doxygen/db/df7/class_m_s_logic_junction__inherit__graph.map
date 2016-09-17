@@ -1,5 +1,0 @@
-<map id="MSLogicJunction" name="MSLogicJunction">
-<area shape="rect" id="node4" href="$d3/dcd/class_m_s_right_of_way_junction.html" title="A junction with right&#45;of&#45;way &#45; rules. " alt="" coords="5,836,196,1045"/>
-<area shape="rect" id="node2" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="18,204,183,604"/>
-<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="42,5,159,156"/>
-</map>

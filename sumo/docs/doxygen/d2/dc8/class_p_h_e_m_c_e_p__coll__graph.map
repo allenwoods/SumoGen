@@ -1,4 +1,0 @@
-<map id="PHEMCEP" name="PHEMCEP">
-<area shape="rect" id="node2" href="$d5/d41/class_string_bijection.html" title="{StringBijection\&lt; double \&gt;\n|&#45; myString2T\l&#45; myT2String\l|+ addAlias()\l+ addKeysInto()\l+ get()\l+ getString()\l+ getStrings()\l+ has()\l+ hasString()\l+ insert()\l+ remove()\l+ size()\l+ StringBijection()\l+ StringBijection()\l}" alt="" coords="5,13,177,266"/>
-<area shape="rect" id="node3" href="$d5/d41/class_string_bijection.html" title="{StringBijection\&lt; std\l::vector\&lt; double \&gt; \&gt;\n|&#45; myString2T\l&#45; myT2String\l|+ addAlias()\l+ addKeysInto()\l+ get()\l+ getString()\l+ getStrings()\l+ has()\l+ hasString()\l+ insert()\l+ remove()\l+ size()\l+ StringBijection()\l+ StringBijection()\l}" alt="" coords="202,5,346,273"/>
-</map>

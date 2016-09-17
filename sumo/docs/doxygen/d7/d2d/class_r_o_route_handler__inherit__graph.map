@@ -1,5 +1,0 @@
-<map id="RORouteHandler" name="RORouteHandler">
-<area shape="rect" id="node2" href="$d4/d33/class_s_u_m_o_route_handler.html" title="Parser for routes during their loading. " alt="" coords="5,865,221,1500"/>
-<area shape="rect" id="node3" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="32,696,195,817"/>
-<area shape="rect" id="node4" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="25,145,202,648"/>
-</map>

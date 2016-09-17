@@ -1,6 +1,0 @@
-<map id="MSInductLoop" name="MSInductLoop">
-<area shape="rect" id="node5" href="$d7/dcb/class_g_u_i_induct_loop.html" title="The gui&#45;version of the MSInductLoop. " alt="" coords="144,1379,379,1603"/>
-<area shape="rect" id="node2" href="$d2/da5/class_m_s_move_reminder.html" title="Something on a lane to be noticed about vehicle movement. " alt="" coords="5,204,253,531"/>
-<area shape="rect" id="node3" href="$d4/de2/class_m_s_detector_file_output.html" title="Base of value&#45;generating classes (detectors) " alt="" coords="278,270,509,465"/>
-<area shape="rect" id="node4" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="335,5,452,156"/>
-</map>
