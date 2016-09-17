@@ -1,0 +1,18 @@
+<map id="PedestrianRouter.h" name="PedestrianRouter.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="777,617,845,644"/>
+<area shape="rect" id="node7" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="633,468,821,495"/>
+<area shape="rect" id="node9" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="1485,229,1672,256"/>
+<area shape="rect" id="node13" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1135,229,1302,256"/>
+<area shape="rect" id="node25" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="SUMOAbstractRouter.h" alt="" coords="1631,155,1790,181"/>
+<area shape="rect" id="node27" href="$d6/d78/_dijkstra_router_t_t_8h.html" title="DijkstraRouterTT.h" alt="" coords="665,80,801,107"/>
+<area shape="rect" id="node32" href="$db/d3f/_intermodal_network_8h.html" title="IntermodalNetwork.h" alt="" coords="1369,80,1513,107"/>
+<area shape="rect" id="node11" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="1405,543,1520,569"/>
+<area shape="rect" id="node16" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="549,393,761,420"/>
+<area shape="rect" id="node19" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="848,304,1037,345"/>
+<area shape="rect" id="node21" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1259,311,1418,338"/>
+<area shape="rect" id="node22" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="1171,468,1317,495"/>
+<area shape="rect" id="node24" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="499,311,579,338"/>
+<area shape="rect" id="node17" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="896,468,1096,495"/>
+<area shape="rect" id="node26" href="$db/da5/_sys_utils_8h.html" title="utils/common/SysUtils.h" alt="" coords="1747,543,1909,569"/>
+<area shape="rect" id="node33" href="$de/dd4/_intermodal_edge_8h.html" title="IntermodalEdge.h" alt="" coords="1378,155,1505,181"/>
+</map>

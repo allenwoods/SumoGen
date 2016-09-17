@@ -1,0 +1,14 @@
+<map id="NIXMLConnectionsHandler" name="NIXMLConnectionsHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="83,1686,246,1807"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,343,193,831"/>
+<area shape="rect" id="node5" href="$db/d8c/class_n_b_node_cont.html" title="Container for nodes during the netbuilding process. " alt="" coords="329,1231,515,2262"/>
+<area shape="rect" id="node6" href="$de/dbf/class_named_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s Named objects. " alt="" coords="355,512,489,663"/>
+<area shape="rect" id="node8" href="$d9/d5e/class_n_b_traffic_light_logic_cont.html" title="A container for traffic light definitions and built programs. " alt="" coords="540,1583,707,1910"/>
+<area shape="rect" id="node9" href="$da/ded/class_n_b_edge_cont.html" title="Storage for edges, including some functionality operating on multiple edges. " alt="" coords="731,931,974,2563"/>
+<area shape="rect" id="node10" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="663,446,813,729"/>
+<area shape="rect" id="node11" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="521,42,646,207"/>
+<area shape="rect" id="node13" href="$db/d57/class_n_b_type_cont.html" title="A storage for available types of edges. " alt="" coords="837,307,1028,868"/>
+<area shape="rect" id="node14" href="$d9/d0e/struct_n_b_type_cont_1_1_type_definition.html" title="{NBTypeCont::TypeDefinition\n|+ attrs\l+ bikeLaneWidth\l+ discard\l+ numLanes\l+ oneWay\l+ permissions\l+ priority\l+ restrictions\l+ sidewalkWidth\l+ speed\l+ width\l|+ TypeDefinition()\l+ TypeDefinition()\l}" alt="" coords="851,5,1046,244"/>
+<area shape="rect" id="node15" href="$d7/df6/class_msg_handler.html" title="{MsgHandler\n|&#45; myRetrievers\l&#45; myType\l&#45; myWasInformed\l&#45; myAmProcessingProcess\l|+ addRetriever()\l+ beginProcessMsg()\l+ clear()\l+ endProcessMsg()\l+ inform()\l+ isRetriever()\l+ operator\&lt;\&lt;()\l+ removeRetriever()\l+ wasInformed()\l+ assignLock()\l+ cleanupOnEnd()\l+ getErrorInstance()\l+ getMessageInstance()\l+ getWarningInstance()\l+ initOutputOptions()\l# build()\l&#45; MsgHandler()\l&#45; MsgHandler()\l&#45; operator=()\l&#45; ~MsgHandler()\l}" alt="" coords="1021,1547,1207,1947"/>
+<area shape="rect" id="node16" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="1052,527,1187,648"/>
+</map>

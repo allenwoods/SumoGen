@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$da/d14/class_r_o_person_1_1_plan_item.html" title="Every person has a plan comprising of multiple planItems. " alt="" coords="5,31,149,57"/>
+<area shape="rect" id="node2" href="$dc/d1b/class_r_o_person_1_1_person_trip.html" title="A planItem can be a Trip which contains multiple tripItems. " alt="" coords="197,5,356,32"/>
+<area shape="rect" id="node3" href="$d6/df6/class_r_o_person_1_1_stop.html" title="A planItem can be a Stop. " alt="" coords="217,56,336,83"/>
+</map>

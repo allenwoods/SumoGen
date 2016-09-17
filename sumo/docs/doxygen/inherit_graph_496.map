@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d65/class_r_o_person_1_1_trip_item.html" title="A TripItem is part of a trip, e.g., go from here to here by car. " alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$dc/d36/class_r_o_person_1_1_ride.html" title="A ride is part of a trip, e.g., go from here to here by car or bus. " alt="" coords="196,5,316,32"/>
+<area shape="rect" id="node3" href="$da/dd7/class_r_o_person_1_1_walk.html" title="A walk is part of a trip, e.g., go from here to here by foot. " alt="" coords="195,56,317,83"/>
+</map>

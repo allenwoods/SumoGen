@@ -1,0 +1,7 @@
+<map id="SUMO::Polygon" name="SUMO::Polygon">
+<area shape="rect" id="node5" href="$da/d4d/class_g_u_i_polygon.html" title="{GUIPolygon\n|&#45; myDisplayList\l&#45; myLineWidth\l&#45; myLock\l|+ GUIPolygon()\l+ setLineWidth()\l+ setShape()\l+ ~GUIPolygon()\l+ getPopUpMenu()\l+ getParameterWindow()\l+ getCenteringBoundary()\l+ drawGL()\l&#45; performTesselation()\l&#45; storeTesselation()\l* getPopUpMenu()\l* getParameterWindow()\l* getCenteringBoundary()\l* drawGL()\l}" alt="" coords="102,1071,279,1368"/>
+<area shape="rect" id="node2" href="$d7/da7/class_shape.html" title="A 2D&#45; or 3D&#45;Shape. " alt="" coords="5,204,189,736"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="39,5,156,156"/>
+<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="213,365,357,575"/>
+<area shape="rect" id="node6" href="$d6/d46/class_g_n_e_poly.html" title="{GNEPoly\n|# myJunction\l# myNet\l|+ deleteGeometryNear()\l+ getEditedJunction()\l+ GNEPoly()\l+ moveGeometry()\l+ simplifyShape()\l+ ~GNEPoly()\l+ getPopUpMenu()\l+ drawGL()\l+ getAttribute()\l+ setAttribute()\l+ isValid()\l+ loadFromFile()\l+ saveToFile()\l&#45; GNEPoly()\l&#45; operator=()\l&#45; setAttribute()\l* getPopUpMenu()\l* drawGL()\l* getAttribute()\l* setAttribute()\l* isValid()\l}" alt="" coords="106,1416,275,1801"/>
+</map>

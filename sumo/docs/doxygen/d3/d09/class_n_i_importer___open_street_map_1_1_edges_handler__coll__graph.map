@@ -1,0 +1,5 @@
+<map id="NIImporter_OpenStreetMap::EdgesHandler" name="NIImporter_OpenStreetMap::EdgesHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,757,186,879"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
+<area shape="rect" id="node5" href="$d9/d25/struct_n_i_importer___open_street_map_1_1_edge.html" title="An internal definition of a loaded edge. " alt="" coords="211,684,393,952"/>
+</map>

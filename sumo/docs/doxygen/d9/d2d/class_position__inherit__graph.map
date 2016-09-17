@@ -1,0 +1,5 @@
+<map id="Position" name="Position">
+<area shape="rect" id="node2" href="$d8/dc6/class_point_of_interest.html" title="A point&#45;of&#45;interest. " alt="" coords="27,321,163,560"/>
+<area shape="rect" id="node3" href="$dc/d32/class_g_u_i_point_of_interest.html" title="{GUIPointOfInterest\n||+ GUIPointOfInterest()\l+ ~GUIPointOfInterest()\l+ getPopUpMenu()\l+ getParameterWindow()\l+ getCenteringBoundary()\l+ drawGL()\l* getPopUpMenu()\l* getParameterWindow()\l* getCenteringBoundary()\l* drawGL()\l}" alt="" coords="7,608,184,817"/>
+<area shape="rect" id="node4" href="$df/dc7/class_g_n_e_p_o_i.html" title="{GNEPOI\n||+ GNEPOI()\l+ ~GNEPOI()\l+ getAttribute()\l+ setAttribute()\l+ isValid()\l+ saveToFile()\l&#45; GNEPOI()\l&#45; operator=()\l&#45; setAttribute()\l* getAttribute()\l* setAttribute()\l* isValid()\l}" alt="" coords="39,865,151,1104"/>
+</map>

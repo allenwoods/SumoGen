@@ -1,0 +1,16 @@
+<map id="CHRouter.h" name="CHRouter.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1759,557,1827,584"/>
+<area shape="rect" id="node10" href="$db/da5/_sys_utils_8h.html" title="utils/common/SysUtils.h" alt="" coords="1127,333,1289,360"/>
+<area shape="rect" id="node11" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="605,408,793,435"/>
+<area shape="rect" id="node13" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1759,251,1921,278"/>
+<area shape="rect" id="node19" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="utils/vehicle/SUMOAbstract\lRouter.h" alt="" coords="799,80,982,121"/>
+<area shape="rect" id="node29" href="$db/d94/_s_p_tree_8h.html" title="SPTree.h" alt="" coords="535,169,615,196"/>
+<area shape="rect" id="node14" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1613,333,1825,360"/>
+<area shape="rect" id="node15" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1456,408,1656,435"/>
+<area shape="rect" id="node17" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1070,483,1269,509"/>
+<area shape="rect" id="node21" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="740,251,927,278"/>
+<area shape="rect" id="node22" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1455,169,1622,196"/>
+<area shape="rect" id="node25" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1444,244,1633,285"/>
+<area shape="rect" id="node26" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1997,251,2155,278"/>
+<area shape="rect" id="node27" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="2165,408,2312,435"/>
+</map>

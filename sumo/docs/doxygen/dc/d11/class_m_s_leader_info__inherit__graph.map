@@ -1,0 +1,4 @@
+<map id="MSLeaderInfo" name="MSLeaderInfo">
+<area shape="rect" id="node2" href="$d4/d7b/class_m_s_leader_distance_info.html" title="saves leader/follower vehicles and their distances relative to an ego vehicle " alt="" coords="31,351,217,516"/>
+<area shape="rect" id="node3" href="$df/d87/class_m_s_critical_follower_distance_info.html" title="{MSCriticalFollowerDistanceInfo\n|# myMissingGaps\l|+ addFollower()\l+ addLeader()\l+ addLeader()\l+ clear()\l+ MSCriticalFollowerDistanceInfo()\l+ toString()\l+ ~MSCriticalFollowerDistanceInfo()\l}" alt="" coords="5,564,243,729"/>
+</map>

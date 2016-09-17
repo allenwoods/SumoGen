@@ -1,0 +1,12 @@
+<map id="Command_SaveTLCoupledLaneDet.h" name="Command_SaveTLCoupledLaneDet.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="799,483,867,509"/>
+<area shape="rect" id="node3" href="$da/d9c/_m_s_link_8h.html" title="microsim/MSLink.h" alt="" coords="623,95,757,121"/>
+<area shape="rect" id="node16" href="$d1/d68/_command___save_t_l_coupled_det_8h.html" title="Command_SaveTLCoupledDet.h" alt="" coords="955,95,1177,121"/>
+<area shape="rect" id="node6" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="211,333,398,360"/>
+<area shape="rect" id="node11" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="91,169,281,211"/>
+<area shape="rect" id="node15" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="727,259,939,285"/>
+<area shape="rect" id="node9" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="385,408,499,435"/>
+<area shape="rect" id="node12" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="625,333,825,360"/>
+<area shape="rect" id="node17" href="$d0/df9/_m_s_t_l_logic_control_8h.html" title="microsim/traffic_lights\l/MSTLLogicControl.h" alt="" coords="991,169,1141,211"/>
+<area shape="rect" id="node18" href="$d6/d37/_command_8h.html" title="utils/common/Command.h" alt="" coords="423,259,602,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MSTrafficLightLogic::SwitchCommand" name="MSTrafficLightLogic::SwitchCommand">
+<area shape="rect" id="node3" href="$df/d93/class_m_s_traffic_light_logic.html" title="The parent class for traffic light logics. " alt="" coords="135,755,345,1829"/>
+<area shape="rect" id="node2" href="$d5/d6a/class_command.html" title="Base (microsim) event class. " alt="" coords="273,159,386,266"/>
+<area shape="rect" id="node4" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,512,123,663"/>
+<area shape="rect" id="node5" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="147,483,291,692"/>
+<area shape="rect" id="node6" href="$d2/da4/class_m_s_t_l_logic_control.html" title="A class that stores and controls tls and switching of their programs. " alt="" coords="410,5,585,420"/>
+</map>

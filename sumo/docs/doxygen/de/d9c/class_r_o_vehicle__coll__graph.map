@@ -1,0 +1,10 @@
+<map id="ROVehicle" name="ROVehicle">
+<area shape="rect" id="node2" href="$df/d7c/class_r_o_routable.html" title="A routable thing such as a vehicle or person. " alt="" coords="228,1701,387,1969"/>
+<area shape="rect" id="node3" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="5,754,191,1257"/>
+<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="29,86,173,295"/>
+<area shape="rect" id="node6" href="$d8/d51/class_s_u_m_o_vehicle_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="215,439,405,1572"/>
+<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="199,5,405,376"/>
+<area shape="rect" id="node9" href="$de/dcc/class_r_o_route.html" title="A complete router&#39;s route. " alt="" coords="433,864,579,1147"/>
+<area shape="rect" id="node7" href="$d4/d8d/class_r_o_route_def.html" title="Base class for a vehicle&#39;s route definition. " alt="" coords="411,1635,604,2035"/>
+<area shape="rect" id="node8" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="577,115,694,266"/>
+</map>

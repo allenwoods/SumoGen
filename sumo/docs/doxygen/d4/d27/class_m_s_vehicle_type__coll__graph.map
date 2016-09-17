@@ -1,0 +1,6 @@
+<map id="MSVehicleType" name="MSVehicleType">
+<area shape="rect" id="node2" href="$d1/d9d/class_m_s_c_f_model.html" title="The car&#45;following model abstraction. " alt="" coords="34,2303,241,3011"/>
+<area shape="rect" id="node3" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="45,439,230,941"/>
+<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="5,86,149,295"/>
+<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="174,5,381,376"/>
+</map>

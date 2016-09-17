@@ -1,0 +1,32 @@
+<map id="GUIDialog_ViewSettings.h" name="GUIDialog_ViewSettings.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1113,765,1181,792"/>
+<area shape="rect" id="node4" href="$d8/d3a/_g_u_i_s_u_m_o_abstract_view_8h.html" title="utils/gui/windows/GUISUMOAbstract\lView.h" alt="" coords="769,80,1007,121"/>
+<area shape="rect" id="node47" href="$db/df9/_f_x_real_spin_dial_8h.html" title="utils/foxtools/FXRealSpin\lDial.h" alt="" coords="3261,601,3432,643"/>
+<area shape="rect" id="node49" href="$d4/d9f/_m_f_x_add_edit_typed_table_8h.html" title="utils/foxtools/MFXAddEdit\lTypedTable.h" alt="" coords="2899,512,3074,553"/>
+<area shape="rect" id="node9" href="$d4/de0/_m_f_x_mutex_8h.html" title="utils/foxtools/MFXMutex.h" alt="" coords="195,609,370,635"/>
+<area shape="rect" id="node11" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="675,430,831,457"/>
+<area shape="rect" id="node15" href="$d4/d51/_position_8h.html" title="Position.h" alt="" coords="928,609,1008,635"/>
+<area shape="rect" id="node17" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="1337,609,1514,635"/>
+<area shape="rect" id="node20" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="3051,609,3237,635"/>
+<area shape="rect" id="node22" href="$da/d08/_polygon_8h.html" title="utils/shapes/Polygon.h" alt="" coords="312,341,469,367"/>
+<area shape="rect" id="node28" href="$db/dcf/_g_u_i_gl_object_types_8h.html" title="utils/gui/globjects\l/GUIGlObjectTypes.h" alt="" coords="1059,423,1210,464"/>
+<area shape="rect" id="node29" href="$db/d96/_s_u_m_o_r_tree_8h.html" title="foreign/rtree/SUMORTree.h" alt="" coords="976,169,1163,196"/>
+<area shape="rect" id="node10" href="$da/dde/_abstract_mutex_8h.html" title="utils/common/AbstractMutex.h" alt="" coords="245,691,443,717"/>
+<area shape="rect" id="node14" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="464,519,571,546"/>
+<area shape="rect" id="node18" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="2123,691,2322,717"/>
+<area shape="rect" id="node23" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="414,430,599,457"/>
+<area shape="rect" id="node24" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="649,609,853,635"/>
+<area shape="rect" id="node25" href="$da/d05/_shape_8h.html" title="Shape.h" alt="" coords="1337,519,1407,546"/>
+<area shape="rect" id="node26" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1590,609,1749,635"/>
+<area shape="rect" id="node30" href="$d2/d0d/_g_u_i_gl_object_8h.html" title="utils/gui/globjects\l/GUIGlObject.h" alt="" coords="1941,333,2067,375"/>
+<area shape="rect" id="node35" href="$dd/d53/_g_u_i_visualization_settings_8h.html" title="utils/gui/settings\l/GUIVisualizationSettings.h" alt="" coords="1391,244,1574,285"/>
+<area shape="rect" id="node42" href="$d2/d58/_r_tree_8h.html" title="RTree.h" alt="" coords="3033,251,3103,278"/>
+<area shape="rect" id="node31" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1728,430,1891,457"/>
+<area shape="rect" id="node33" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1976,609,2176,635"/>
+<area shape="rect" id="node34" href="$de/dde/_string_utils_8h.html" title="utils/common/StringUtils.h" alt="" coords="3307,691,3482,717"/>
+<area shape="rect" id="node32" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1781,519,1993,546"/>
+<area shape="rect" id="node36" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1531,341,1698,367"/>
+<area shape="rect" id="node41" href="$d7/d71/_g_u_i_property_scheme_storage_8h.html" title="GUIPropertySchemeStorage.h" alt="" coords="2520,609,2723,635"/>
+<area shape="rect" id="node40" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2117,423,2307,464"/>
+<area shape="rect" id="node50" href="$d1/d7b/_m_f_x_editable_table_8h.html" title="MFXEditableTable.h" alt="" coords="2200,609,2344,635"/>
+</map>

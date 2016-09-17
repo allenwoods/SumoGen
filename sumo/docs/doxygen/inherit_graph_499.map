@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/df7/class_route_cost_calculator.html" title="Abstract base class providing static factory method. " alt="" coords="5,39,152,80"/>
+<area shape="rect" id="node2" href="$d3/d23/class_gawron_calculator.html" title="Cost calculation with Gawron&#39;s method. " alt="" coords="200,5,356,47"/>
+<area shape="rect" id="node3" href="$d7/d30/class_logit_calculator.html" title="Cost calculation with c&#45;logit or logit method. " alt="" coords="209,71,347,112"/>
+</map>

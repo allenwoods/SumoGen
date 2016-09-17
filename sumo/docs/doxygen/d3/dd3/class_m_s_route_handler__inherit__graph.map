@@ -1,0 +1,9 @@
+<map id="MSRouteHandler" name="MSRouteHandler">
+<area shape="rect" id="node6" href="$da/dbd/class_m_s_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="78,2216,321,2733"/>
+<area shape="rect" id="node9" href="$da/d57/class_n_l_handler.html" title="The XML&#45;Handler for network loading. " alt="" coords="345,2128,539,2821"/>
+<area shape="rect" id="node2" href="$d4/d33/class_s_u_m_o_route_handler.html" title="Parser for routes during their loading. " alt="" coords="213,865,429,1500"/>
+<area shape="rect" id="node3" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="239,696,402,817"/>
+<area shape="rect" id="node4" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="232,145,409,648"/>
+<area shape="rect" id="node7" href="$d2/d8f/class_g_u_i_calibrator.html" title="Changes the speed allowed on a set of lanes (gui version) " alt="" coords="5,2869,183,3137"/>
+<area shape="rect" id="node8" href="$da/d96/class_m_e_triggered_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="207,2899,405,3108"/>
+</map>

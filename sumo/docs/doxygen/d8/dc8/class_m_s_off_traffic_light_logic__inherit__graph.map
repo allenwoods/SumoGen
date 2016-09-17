@@ -1,0 +1,5 @@
+<map id="MSOffTrafficLightLogic" name="MSOffTrafficLightLogic">
+<area shape="rect" id="node2" href="$df/d93/class_m_s_traffic_light_logic.html" title="The parent class for traffic light logics. " alt="" coords="36,263,247,1352"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,35,123,185"/>
+<area shape="rect" id="node4" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="147,5,291,215"/>
+</map>

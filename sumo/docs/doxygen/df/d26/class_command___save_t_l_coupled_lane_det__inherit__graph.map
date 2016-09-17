@@ -1,0 +1,4 @@
+<map id="Command_SaveTLCoupledLaneDet" name="Command_SaveTLCoupledLaneDet">
+<area shape="rect" id="node2" href="$d0/d1a/class_command___save_t_l_coupled_det.html" title="Writes e2 state on each tls switch. " alt="" coords="20,160,261,340"/>
+<area shape="rect" id="node3" href="$d2/df0/class_m_s_t_l_logic_control_1_1_on_switch_action.html" title="Base class for things to execute if a tls switches to a new phase. " alt="" coords="41,5,240,112"/>
+</map>

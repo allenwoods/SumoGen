@@ -1,0 +1,11 @@
+<map id="NIImporter_MATSim::EdgesHandler" name="NIImporter_MATSim::EdgesHandler">
+<area shape="rect" id="node2" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,1503,193,1991"/>
+<area shape="rect" id="node4" href="$db/d8c/class_n_b_node_cont.html" title="Container for nodes during the netbuilding process. " alt="" coords="355,1231,542,2262"/>
+<area shape="rect" id="node5" href="$de/dbf/class_named_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s Named objects. " alt="" coords="334,512,467,663"/>
+<area shape="rect" id="node7" href="$da/ded/class_n_b_edge_cont.html" title="Storage for edges, including some functionality operating on multiple edges. " alt="" coords="566,931,809,2563"/>
+<area shape="rect" id="node8" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="612,446,763,729"/>
+<area shape="rect" id="node9" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="498,42,623,207"/>
+<area shape="rect" id="node11" href="$db/d57/class_n_b_type_cont.html" title="A storage for available types of edges. " alt="" coords="827,307,1017,868"/>
+<area shape="rect" id="node12" href="$d9/d0e/struct_n_b_type_cont_1_1_type_definition.html" title="{NBTypeCont::TypeDefinition\n|+ attrs\l+ bikeLaneWidth\l+ discard\l+ numLanes\l+ oneWay\l+ permissions\l+ priority\l+ restrictions\l+ sidewalkWidth\l+ speed\l+ width\l|+ TypeDefinition()\l+ TypeDefinition()\l}" alt="" coords="829,5,1023,244"/>
+<area shape="rect" id="node13" href="$d3/d4c/class_n_b_capacity2_lanes.html" title="A helper class which computes the lane number from given capacity. " alt="" coords="833,1693,998,1800"/>
+</map>

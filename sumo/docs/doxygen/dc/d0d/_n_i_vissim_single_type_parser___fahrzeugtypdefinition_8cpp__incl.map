@@ -1,0 +1,36 @@
+<map id="NIVissimSingleTypeParser_Fahrzeugtypdefinition.cpp" name="NIVissimSingleTypeParser_Fahrzeugtypdefinition.cpp">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="3377,915,3445,941"/>
+<area shape="rect" id="node4" href="$de/d4a/_tpl_convert_8h.html" title="utils/common/TplConvert.h" alt="" coords="738,497,921,524"/>
+<area shape="rect" id="node17" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1258,497,1425,524"/>
+<area shape="rect" id="node23" href="$d0/d22/_n_i_importer___vissim_8h.html" title="../NIImporter_Vissim.h" alt="" coords="4413,184,4563,211"/>
+<area shape="rect" id="node49" href="$d2/d65/_n_i_vissim_vehicle_type_8h.html" title="../tempstructs/NIVissimVehicle\lType.h" alt="" coords="5432,661,5632,703"/>
+<area shape="rect" id="node50" href="$d7/df7/_n_i_vissim_single_type_parser___fahrzeugtypdefinition_8h.html" title="NIVissimSingleTypeParser\l_Fahrzeugtypdefinition.h" alt="" coords="5752,95,5936,136"/>
+<area shape="rect" id="node10" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1593,840,1791,867"/>
+<area shape="rect" id="node12" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1397,579,1560,606"/>
+<area shape="rect" id="node13" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1745,669,1957,695"/>
+<area shape="rect" id="node14" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2229,758,2429,785"/>
+<area shape="rect" id="node19" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2141,572,2331,613"/>
+<area shape="rect" id="node21" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="3065,579,3223,606"/>
+<area shape="rect" id="node22" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="4199,840,4345,867"/>
+<area shape="rect" id="node24" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="5505,758,5682,785"/>
+<area shape="rect" id="node25" href="$d1/d93/_n_i_vissim_extended_edge_point_8h.html" title="tempstructs/NIVissimExtended\lEdgePoint.h" alt="" coords="3981,751,4184,792"/>
+<area shape="rect" id="node26" href="$d2/da3/_n_i_vissim_elements_8h.html" title="NIVissimElements.h" alt="" coords="5451,259,5589,285"/>
+<area shape="rect" id="node27" href="$d2/d70/_s_u_m_o_s_a_x_handler_8h.html" title="utils/xml/SUMOSAXHandler.h" alt="" coords="1539,259,1736,285"/>
+<area shape="rect" id="node33" href="$d5/dad/_n_i_vissim_edge_8h.html" title="tempstructs/NIVissimEdge.h" alt="" coords="3212,341,3399,367"/>
+<area shape="rect" id="node39" href="$dd/deb/_n_i_vissim_connection_8h.html" title="NIVissimConnection.h" alt="" coords="4388,497,4540,524"/>
+<area shape="rect" id="node44" href="$d4/dc9/_n_i_vissim_conflict_area_8h.html" title="tempstructs/NIVissimConflict\lArea.h" alt="" coords="3423,333,3612,375"/>
+<area shape="rect" id="node47" href="$da/d8e/_string_tokenizer_8h.html" title="utils/common/StringTokenizer.h" alt="" coords="2960,758,3171,785"/>
+<area shape="rect" id="node28" href="$d3/d23/_generic_s_a_x_handler_8h.html" title="utils/xml/GenericSAXHandler.h" alt="" coords="866,341,1073,367"/>
+<area shape="rect" id="node32" href="$d7/d16/_s_u_m_o_s_a_x_attributes_8h.html" title="SUMOSAXAttributes.h" alt="" coords="1133,423,1285,449"/>
+<area shape="rect" id="node34" href="$dd/d2f/_n_i_vissim_connection_cluster_8h.html" title="NIVissimConnectionCluster.h" alt="" coords="3441,423,3636,449"/>
+<area shape="rect" id="node38" href="$d3/d43/_position_vector_8h.html" title="PositionVector.h" alt="" coords="3737,669,3855,695"/>
+<area shape="rect" id="node40" href="$d9/d28/_n_i_vissim_abstract_edge_8h.html" title="NIVissimAbstractEdge.h" alt="" coords="4603,579,4767,606"/>
+<area shape="rect" id="node41" href="$de/dc8/_n_i_vissim_closed_lanes_vector_8h.html" title="NIVissimClosedLanesVector.h" alt="" coords="3550,758,3754,785"/>
+<area shape="rect" id="node43" href="$d8/d0b/_n_b_edge_8h.html" title="netbuild/NBEdge.h" alt="" coords="2755,497,2887,524"/>
+<area shape="rect" id="node35" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="4209,669,4365,695"/>
+<area shape="rect" id="node37" href="$d5/df0/_geom_helper_8h.html" title="utils/geom/GeomHelper.h" alt="" coords="3451,579,3626,606"/>
+<area shape="rect" id="node36" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="4309,758,4416,785"/>
+<area shape="rect" id="node42" href="$da/d7d/_n_i_vissim_bounded_cluster_object_8h.html" title="NIVissimBoundedClusterObject.h" alt="" coords="4107,579,4325,606"/>
+<area shape="rect" id="node45" href="$d7/db4/_n_b_edge_cont_8h.html" title="netbuild/NBEdgeCont.h" alt="" coords="3235,497,3395,524"/>
+<area shape="rect" id="node46" href="$d4/da0/_n_b_node_8h.html" title="netbuild/NBNode.h" alt="" coords="2909,423,3043,449"/>
+</map>

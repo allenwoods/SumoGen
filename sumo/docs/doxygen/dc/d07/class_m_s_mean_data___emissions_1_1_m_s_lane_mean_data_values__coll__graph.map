@@ -1,0 +1,18 @@
+<map id="MSMeanData_Emissions::MSLaneMeanDataValues" name="MSMeanData_Emissions::MSLaneMeanDataValues">
+<area shape="rect" id="node2" href="$d3/d7c/class_m_s_mean_data_1_1_mean_data_values.html" title="Data structure for mean (aggregated) edge/lane values. " alt="" coords="413,5793,632,6076"/>
+<area shape="rect" id="node3" href="$d2/da5/class_m_s_move_reminder.html" title="Something on a lane to be noticed about vehicle movement. " alt="" coords="388,5419,636,5731"/>
+<area shape="rect" id="node4" href="$d9/d16/class_m_s_lane.html" title="Representation of a lane in the micro simulation. " alt="" coords="330,2943,590,5235"/>
+<area shape="rect" id="node5" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="695,286,812,437"/>
+<area shape="rect" id="node7" href="$d7/d27/class_m_s_edge.html" title="A road/street connecting two junctions. " alt="" coords="473,1043,687,2851"/>
+<area shape="rect" id="node9" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="307,580,472,951"/>
+<area shape="rect" id="node17" href="$d4/de2/class_m_s_detector_file_output.html" title="Base of value&#45;generating classes (detectors) " alt="" coords="817,668,1047,863"/>
+<area shape="rect" id="node6" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="139,661,283,870"/>
+<area shape="rect" id="node8" href="$d6/dad/class_m_s_lane_changer.html" title="Performs lane changing of vehicles. " alt="" coords="497,565,690,965"/>
+<area shape="rect" id="node10" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="75,220,226,503"/>
+<area shape="rect" id="node11" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="5,5,131,171"/>
+<area shape="rect" id="node13" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="299,235,479,488"/>
+<area shape="rect" id="node14" href="$d2/dd2/class_m_s_leader_info.html" title="{MSLeaderInfo\n|# egoLeftMost\l# egoRightMost\l# myFreeSublanes\l# myHasVehicles\l# myVehicles\l# myWidth\l|+ addLeader()\l+ clear()\l+ getSubLanes()\l+ hasStoppedVehicle()\l+ hasVehicles()\l+ MSLeaderInfo()\l+ numFreeSublanes()\l+ numSublanes()\l+ operator[]()\l+ toString()\l+ ~MSLeaderInfo()\l}" alt="" coords="290,1798,449,2095"/>
+<area shape="rect" id="node15" href="$d0/def/class_m_s_mean_data___emissions.html" title="Emission data collector for edges/lanes. " alt="" coords="681,5259,882,5395"/>
+<area shape="rect" id="node16" href="$d3/d67/class_m_s_mean_data.html" title="Data collector for edges/lanes. " alt="" coords="827,1710,1015,2183"/>
+<area shape="rect" id="node18" href="$d7/d4b/struct_pollutants_interface_1_1_emissions.html" title="Storage for collected values of all emission types. " alt="" coords="713,5837,844,6032"/>
+</map>

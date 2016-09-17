@@ -1,0 +1,34 @@
+<map id="RODFEdge.cpp" name="RODFEdge.cpp">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1895,1109,1963,1136"/>
+<area shape="rect" id="node4" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="4203,714,4391,741"/>
+<area shape="rect" id="node8" href="$d4/dd4/_r_o_d_f_edge_8h.html" title="RODFEdge.h" alt="" coords="4201,80,4303,107"/>
+<area shape="rect" id="node10" href="$d4/d94/_r_o_edge_8h.html" title="router/ROEdge.h" alt="" coords="1291,155,1413,181"/>
+<area shape="rect" id="node32" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="2784,803,2931,830"/>
+<area shape="rect" id="node50" href="$d7/dec/_r_o_d_f_detector_flow_8h.html" title="RODFDetectorFlow.h" alt="" coords="2763,714,2912,741"/>
+<area shape="rect" id="node11" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="3310,803,3469,830"/>
+<area shape="rect" id="node13" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="563,803,725,830"/>
+<area shape="rect" id="node18" href="$d3/d83/_value_time_line_8h.html" title="utils/common/ValueTimeLine.h" alt="" coords="366,714,573,741"/>
+<area shape="rect" id="node23" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1360,796,1549,837"/>
+<area shape="rect" id="node24" href="$d2/de4/_pollutants_interface_8h.html" title="utils/emissions/Pollutants\lInterface.h" alt="" coords="965,617,1137,659"/>
+<area shape="rect" id="node28" href="$d8/d88/_s_u_m_o_v_type_parameter_8h.html" title="utils/vehicle/SUMOVTypeParameter.h" alt="" coords="1247,714,1497,741"/>
+<area shape="rect" id="node31" href="$d1/d2d/_r_o_node_8h.html" title="RONode.h" alt="" coords="3942,714,4026,741"/>
+<area shape="rect" id="node33" href="$df/da2/_r_o_vehicle_8h.html" title="ROVehicle.h" alt="" coords="1435,229,1531,256"/>
+<area shape="rect" id="node14" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1107,885,1319,912"/>
+<area shape="rect" id="node15" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1337,960,1537,987"/>
+<area shape="rect" id="node16" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1542,1035,1741,1061"/>
+<area shape="rect" id="node21" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="1979,803,2165,830"/>
+<area shape="rect" id="node26" href="$d0/dec/_p_h_e_m_c_e_p_8h.html" title="PHEMCEP.h" alt="" coords="1003,714,1099,741"/>
+<area shape="rect" id="node27" href="$d5/dc3/_p_h_e_m_constants_8h.html" title="PHEMConstants.h" alt="" coords="902,803,1031,830"/>
+<area shape="rect" id="node29" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="1058,960,1262,987"/>
+<area shape="rect" id="node30" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="1613,960,1790,987"/>
+<area shape="rect" id="node34" href="$d0/d7a/_s_u_m_o_vehicle_parameter_8h.html" title="utils/vehicle/SUMOVehicle\lParameter.h" alt="" coords="1726,707,1906,748"/>
+<area shape="rect" id="node35" href="$df/da8/_r_o_routable_8h.html" title="RORoutable.h" alt="" coords="1829,304,1933,331"/>
+<area shape="rect" id="node36" href="$dc/d9e/_intermodal_router_8h.html" title="utils/vehicle/Intermodal\lRouter.h" alt="" coords="3110,379,3269,420"/>
+<area shape="rect" id="node38" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="2571,714,2738,741"/>
+<area shape="rect" id="node41" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="SUMOAbstractRouter.h" alt="" coords="3547,625,3706,651"/>
+<area shape="rect" id="node43" href="$d6/d78/_dijkstra_router_t_t_8h.html" title="DijkstraRouterTT.h" alt="" coords="2691,543,2827,569"/>
+<area shape="rect" id="node47" href="$db/d3f/_intermodal_network_8h.html" title="IntermodalNetwork.h" alt="" coords="3176,625,3320,651"/>
+<area shape="rect" id="node48" href="$d3/d53/_car_edge_8h.html" title="CarEdge.h" alt="" coords="2185,543,2271,569"/>
+<area shape="rect" id="node49" href="$d1/d02/_pedestrian_router_8h.html" title="PedestrianRouter.h" alt="" coords="3260,468,3396,495"/>
+<area shape="rect" id="node42" href="$db/da5/_sys_utils_8h.html" title="utils/common/SysUtils.h" alt="" coords="4016,1035,4179,1061"/>
+</map>

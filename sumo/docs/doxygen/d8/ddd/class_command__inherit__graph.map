@@ -1,0 +1,20 @@
+<map id="Command" name="Command">
+<area shape="rect" id="node2" href="$d4/de8/class_command___save_t_l_s_state.html" title="Writes the state of the tls to a file (in each second) " alt="" coords="5,336,215,501"/>
+<area shape="rect" id="node3" href="$da/d62/class_command___save_t_l_s_switches.html" title="Writes information about the green durations of a tls. " alt="" coords="239,329,471,509"/>
+<area shape="rect" id="node4" href="$d5/d9e/class_command___save_t_l_s_switch_states.html" title="Writes the switch times of a tls into a file when the tls switches. " alt="" coords="496,321,751,516"/>
+<area shape="rect" id="node5" href="$da/dbd/class_m_s_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="775,160,1018,677"/>
+<area shape="rect" id="node8" href="$db/d8a/class_m_s_c_model___non_interacting_1_1_move_to_next_edge.html" title="{MSCModel_NonInteracting\l::MoveToNextEdge\n|&#45; myContainer\l&#45; myParent\l|+ execute()\l+ MoveToNextEdge()\l+ ~MoveToNextEdge()\l&#45; operator=()\l}" alt="" coords="1043,343,1225,494"/>
+<area shape="rect" id="node9" href="$dd/df8/class_m_s_device___b_treceiver_1_1_b_treceiver_update.html" title="A global update performer. " alt="" coords="1249,321,1416,516"/>
+<area shape="rect" id="node10" href="$d5/da7/class_m_s_lane_speed_trigger.html" title="Changes the speed allowed on a set of lanes. " alt="" coords="1440,219,1625,619"/>
+<area shape="rect" id="node12" href="$d7/df4/class_m_s_p_model___non_interacting_1_1_move_to_next_edge.html" title="{MSPModel_NonInteracting\l::MoveToNextEdge\n|&#45; myParent\l&#45; myPerson\l|+ execute()\l+ MoveToNextEdge()\l+ ~MoveToNextEdge()\l&#45; operator=()\l}" alt="" coords="1650,343,1831,494"/>
+<area shape="rect" id="node13" href="$d8/df5/class_m_s_p_model___striping_1_1_move_pedestrians.html" title="{MSPModel_Striping::\lMovePedestrians\n|&#45; myModel\l|+ execute()\l+ MovePedestrians()\l+ ~MovePedestrians()\l&#45; operator=()\l}" alt="" coords="1856,351,2012,487"/>
+<area shape="rect" id="node14" href="$d0/db0/class_m_s_t_l_logic_control_1_1_switch_init_command.html" title="This event&#45;class is used to initialise a WAUT switch at a certain time. " alt="" coords="2036,307,2219,531"/>
+<area shape="rect" id="node15" href="$d2/d78/class_m_s_traffic_light_logic_1_1_switch_command.html" title="Class realising the switch between the traffic light phases. " alt="" coords="2243,307,2414,531"/>
+<area shape="rect" id="node16" href="$d0/da7/class_m_s_v_type_probe.html" title="Writes positions of vehicles that have a certain (named) type. " alt="" coords="2438,329,2585,509"/>
+<area shape="rect" id="node17" href="$d6/d7a/class_static_command.html" title="A wrapper for a Command function. " alt="" coords="2609,343,2813,494"/>
+<area shape="rect" id="node18" href="$d1/d7b/class_wrapping_command.html" title="A wrapper for a Command function. " alt="" coords="2837,336,3041,501"/>
+<area shape="rect" id="node19" href="$d1/d7b/class_wrapping_command.html" title="{WrappingCommand\&lt; MSDevice\l_Routing \&gt;\n|&#45; myAmDescheduledByParent\l&#45; myOperation\l&#45; myReceiver\l|+ deschedule()\l+ WrappingCommand()\l+ ~WrappingCommand()\l+ execute()\l* execute()\l}" alt="" coords="3065,329,3283,509"/>
+<area shape="rect" id="node6" href="$d2/d8f/class_g_u_i_calibrator.html" title="Changes the speed allowed on a set of lanes (gui version) " alt="" coords="701,740,879,1008"/>
+<area shape="rect" id="node7" href="$da/d96/class_m_e_triggered_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="903,769,1101,979"/>
+<area shape="rect" id="node11" href="$d3/d76/class_g_u_i_lane_speed_trigger.html" title="Changes the speed allowed on a set of lanes (gui version) " alt="" coords="1439,725,1627,1023"/>
+</map>

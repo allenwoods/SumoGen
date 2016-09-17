@@ -1,0 +1,37 @@
+<map id="NBEdgeCont.cpp" name="NBEdgeCont.cpp">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1667,692,1735,719"/>
+<area shape="rect" id="node7" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="1102,386,1258,413"/>
+<area shape="rect" id="node13" href="$d5/df0/_geom_helper_8h.html" title="utils/geom/GeomHelper.h" alt="" coords="333,304,507,331"/>
+<area shape="rect" id="node15" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="3770,617,3969,644"/>
+<area shape="rect" id="node17" href="$d3/d6d/_geo_conv_helper_8h.html" title="utils/geom/GeoConvHelper.h" alt="" coords="899,304,1095,331"/>
+<area shape="rect" id="node19" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="3374,543,3562,569"/>
+<area shape="rect" id="node20" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1202,304,1369,331"/>
+<area shape="rect" id="node30" href="$de/d4a/_tpl_convert_8h.html" title="utils/common/TplConvert.h" alt="" coords="662,304,845,331"/>
+<area shape="rect" id="node31" href="$d4/d3c/_i_d_supplier_8h.html" title="utils/common/IDSupplier.h" alt="" coords="4797,543,4973,569"/>
+<area shape="rect" id="node32" href="$d3/d5c/_options_cont_8h.html" title="utils/options/OptionsCont.h" alt="" coords="4701,468,4880,495"/>
+<area shape="rect" id="node35" href="$dd/df1/_n_b_net_builder_8h.html" title="NBNetBuilder.h" alt="" coords="2787,80,2899,107"/>
+<area shape="rect" id="node36" href="$d7/db4/_n_b_edge_cont_8h.html" title="NBEdgeCont.h" alt="" coords="3982,304,4093,331"/>
+<area shape="rect" id="node37" href="$db/dde/_n_b_cont_8h.html" title="NBCont.h" alt="" coords="3998,386,4077,413"/>
+<area shape="rect" id="node38" href="$de/d1a/_n_b_type_cont_8h.html" title="NBTypeCont.h" alt="" coords="2739,229,2850,256"/>
+<area shape="rect" id="node40" href="$da/d0c/_n_b_helpers_8h.html" title="NBHelpers.h" alt="" coords="4355,386,4451,413"/>
+<area shape="rect" id="node41" href="$da/d09/_n_b_node_cont_8h.html" title="NBNodeCont.h" alt="" coords="3031,155,3142,181"/>
+<area shape="rect" id="node44" href="$d3/dd9/_n_b_traffic_light_logic_cont_8h.html" title="NBTrafficLightLogicCont.h" alt="" coords="2486,229,2663,256"/>
+<area shape="rect" id="node46" href="$d0/d43/_n_b_district_cont_8h.html" title="NBDistrictCont.h" alt="" coords="1993,543,2111,569"/>
+<area shape="rect" id="node47" href="$da/d8e/_string_tokenizer_8h.html" title="utils/common/StringTokenizer.h" alt="" coords="4997,543,5208,569"/>
+<area shape="rect" id="node48" href="$d1/d3f/_output_device_8h.html" title="utils/iodevices/OutputDevice.h" alt="" coords="1356,155,1559,181"/>
+<area shape="rect" id="node10" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="1152,468,1259,495"/>
+<area shape="rect" id="node11" href="$d4/d51/_position_8h.html" title="Position.h" alt="" coords="961,543,1041,569"/>
+<area shape="rect" id="node14" href="$d3/d43/_position_vector_8h.html" title="PositionVector.h" alt="" coords="2241,386,2359,413"/>
+<area shape="rect" id="node23" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2015,468,2227,495"/>
+<area shape="rect" id="node25" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2941,379,3131,420"/>
+<area shape="rect" id="node28" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="3257,386,3415,413"/>
+<area shape="rect" id="node29" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="1629,386,1709,413"/>
+<area shape="rect" id="node24" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2795,543,2995,569"/>
+<area shape="rect" id="node33" href="$da/d39/_option_8h.html" title="Option.h" alt="" coords="4702,543,4773,569"/>
+<area shape="rect" id="node43" href="$d4/da0/_n_b_node_8h.html" title="NBNode.h" alt="" coords="2379,229,2461,256"/>
+<area shape="rect" id="node39" href="$d8/d0b/_n_b_edge_8h.html" title="netbuild/NBEdge.h" alt="" coords="3487,304,3619,331"/>
+<area shape="rect" id="node42" href="$d6/d29/_named_r_tree_8h.html" title="utils/common/NamedRTree.h" alt="" coords="3063,304,3262,331"/>
+<area shape="rect" id="node45" href="$dc/da1/_n_b_traffic_light_definition_8h.html" title="NBTrafficLightDefinition.h" alt="" coords="3289,304,3460,331"/>
+<area shape="rect" id="node49" href="$db/d42/_plain_x_m_l_formatter_8h.html" title="PlainXMLFormatter.h" alt="" coords="257,229,404,256"/>
+<area shape="rect" id="node50" href="$de/d1f/_binary_formatter_8h.html" title="BinaryFormatter.h" alt="" coords="1343,229,1470,256"/>
+</map>

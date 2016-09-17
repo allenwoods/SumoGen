@@ -1,0 +1,30 @@
+<map id="GUIEvent_SimulationEnded.h" name="GUIEvent_SimulationEnded.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1643,676,1711,703"/>
+<area shape="rect" id="node3" href="$da/daf/_g_u_i_event_8h.html" title="utils/gui/events/GUIEvent.h" alt="" coords="155,430,336,457"/>
+<area shape="rect" id="node10" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="4364,519,4551,546"/>
+<area shape="rect" id="node15" href="$d9/dfa/_m_s_net_8h.html" title="microsim/MSNet.h" alt="" coords="2537,80,2668,107"/>
+<area shape="rect" id="node4" href="$d3/da1/_f_x_thread_event_8h.html" title="utils/foxtools/FXThreadEvent.h" alt="" coords="143,519,348,546"/>
+<area shape="rect" id="node7" href="$d6/d2d/_f_x_base_object_8h.html" title="FXBaseObject.h" alt="" coords="73,601,191,628"/>
+<area shape="rect" id="node5" href="$df/de6/fxexdefs_8h.html" title="fxexdefs.h" alt="" coords="215,601,297,628"/>
+<area shape="rect" id="node13" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="4228,601,4343,628"/>
+<area shape="rect" id="node23" href="$de/d52/_m_s_vehicle_control_8h.html" title="MSVehicleControl.h" alt="" coords="3837,430,3977,457"/>
+<area shape="rect" id="node28" href="$d9/d94/_m_s_event_control_8h.html" title="MSEventControl.h" alt="" coords="4085,430,4213,457"/>
+<area shape="rect" id="node31" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="717,341,873,367"/>
+<area shape="rect" id="node33" href="$d4/d51/_position_8h.html" title="Position.h" alt="" coords="844,519,924,546"/>
+<area shape="rect" id="node34" href="$d8/d15/_m_s_charging_station_8h.html" title="microsim/trigger/MSCharging\lStation.h" alt="" coords="999,333,1196,375"/>
+<area shape="rect" id="node37" href="$da/dc5/_m_s_stopping_place_8h.html" title="microsim/MSStoppingPlace.h" alt="" coords="2185,430,2383,457"/>
+<area shape="rect" id="node40" href="$dd/d01/_named_object_cont_8h.html" title="utils/common/NamedObject\lCont.h" alt="" coords="3169,423,3356,464"/>
+<area shape="rect" id="node41" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="utils/vehicle/SUMOAbstract\lRouter.h" alt="" coords="2506,333,2689,375"/>
+<area shape="rect" id="node46" href="$d6/d78/_dijkstra_router_t_t_8h.html" title="utils/vehicle/DijkstraRouterTT.h" alt="" coords="2355,251,2565,278"/>
+<area shape="rect" id="node47" href="$d0/dd7/_dijkstra_router_effort_8h.html" title="utils/vehicle/DijkstraRouter\lEffort.h" alt="" coords="3043,244,3223,285"/>
+<area shape="rect" id="node48" href="$de/d96/_a_star_router_8h.html" title="utils/vehicle/AStarRouter.h" alt="" coords="3431,251,3609,278"/>
+<area shape="rect" id="node49" href="$d6/d29/_named_r_tree_8h.html" title="utils/common/NamedRTree.h" alt="" coords="1366,430,1565,457"/>
+<area shape="rect" id="node50" href="$d1/d02/_pedestrian_router_8h.html" title="utils/vehicle/Pedestrian\lRouter.h" alt="" coords="2641,155,2802,196"/>
+<area shape="rect" id="node26" href="$d7/d19/_random_distributor_8h.html" title="utils/common/RandomDistributor.h" alt="" coords="3718,519,3943,546"/>
+<area shape="rect" id="node27" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="3383,512,3572,553"/>
+<area shape="rect" id="node32" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="716,430,823,457"/>
+<area shape="rect" id="node39" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1791,519,1950,546"/>
+<area shape="rect" id="node43" href="$db/da5/_sys_utils_8h.html" title="utils/common/SysUtils.h" alt="" coords="2603,601,2765,628"/>
+<area shape="rect" id="node44" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="2458,430,2646,457"/>
+<area shape="rect" id="node45" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1741,430,1907,457"/>
+</map>

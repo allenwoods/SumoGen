@@ -1,0 +1,15 @@
+<map id="MSStateHandler" name="MSStateHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="82,3221,245,3343"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,1703,193,2191"/>
+<area shape="rect" id="node5" href="$da/d63/class_m_e_segment.html" title="A single mesoscopic segment (cell) " alt="" coords="289,2928,555,3636"/>
+<area shape="rect" id="node6" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="322,286,439,437"/>
+<area shape="rect" id="node7" href="$d7/d27/class_m_s_edge.html" title="A road/street connecting two junctions. " alt="" coords="432,1043,647,2851"/>
+<area shape="rect" id="node10" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="457,580,622,951"/>
+<area shape="rect" id="node8" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="865,661,1009,870"/>
+<area shape="rect" id="node15" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="844,1695,1029,2198"/>
+<area shape="rect" id="node9" href="$d6/dad/class_m_s_lane_changer.html" title="Performs lane changing of vehicles. " alt="" coords="647,565,840,965"/>
+<area shape="rect" id="node11" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="464,220,615,503"/>
+<area shape="rect" id="node12" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="394,5,519,171"/>
+<area shape="rect" id="node14" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="639,235,819,488"/>
+<area shape="rect" id="node16" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="1033,580,1240,951"/>
+</map>

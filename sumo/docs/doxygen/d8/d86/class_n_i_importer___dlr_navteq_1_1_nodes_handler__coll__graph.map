@@ -1,0 +1,5 @@
+<map id="NIImporter_DlrNavteq::NodesHandler" name="NIImporter_DlrNavteq::NodesHandler">
+<area shape="rect" id="node2" href="$d5/d60/class_line_handler.html" title="Interface definition for a class which retrieves lines from a LineHandler. " alt="" coords="5,807,128,914"/>
+<area shape="rect" id="node3" href="$db/d8c/class_n_b_node_cont.html" title="Container for nodes during the netbuilding process. " alt="" coords="152,345,339,1376"/>
+<area shape="rect" id="node4" href="$de/dbf/class_named_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s Named objects. " alt="" coords="179,132,312,283"/>
+</map>

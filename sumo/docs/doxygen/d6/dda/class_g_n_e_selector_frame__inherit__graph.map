@@ -1,0 +1,4 @@
+<map id="GNESelectorFrame" name="GNESelectorFrame">
+<area shape="rect" id="node2" href="$d1/db9/class_g_n_e_frame.html" title="{GNEFrame\n|# myContentFrame\l# myFrameHeaderFont\l# myFrameHeaderLabel\l# myViewNet\l|+ getFrameHeaderFont()\l+ getFrameHeaderLabel()\l+ getViewNet()\l+ GNEFrame()\l+ hide()\l+ show()\l+ ~GNEFrame()\l# GNEFrame()\l&#45; GNEFrame()\l&#45; operator=()\l}" alt="" coords="5,131,184,384"/>
+<area shape="rect" id="node4" href="$d5/d58/class_g_u_i_selected_storage_1_1_update_target.html" title="{GUISelectedStorage\l::UpdateTarget\n||+ selectionUpdated()\l+ ~UpdateTarget()\l}" alt="" coords="208,204,355,311"/>
+</map>

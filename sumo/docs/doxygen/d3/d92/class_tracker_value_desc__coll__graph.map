@@ -1,0 +1,6 @@
+<map id="TrackerValueDesc" name="TrackerValueDesc">
+<area shape="rect" id="node2" href="$dd/de3/class_value_retriever.html" title="{ValueRetriever\&lt; SUMOReal \&gt;\n||+ addValue()\l+ ValueRetriever()\l+ ~ValueRetriever()\l}" alt="" coords="5,308,208,415"/>
+<area shape="rect" id="node3" href="$d9/d79/class_m_f_x_mutex.html" title="{MFXMutex\n|# lock_\l&#45; mutexHandle\l|+ lock()\l+ locked()\l+ MFXMutex()\l+ unlock()\l+ ~MFXMutex()\l&#45; MFXMutex()\l&#45; operator=()\l}" alt="" coords="232,271,347,451"/>
+<area shape="rect" id="node4" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="222,5,357,127"/>
+<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="371,176,578,547"/>
+</map>

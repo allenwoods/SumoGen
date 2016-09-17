@@ -1,0 +1,37 @@
+<map id="GUIEdgeControlBuilder.h" name="GUIEdgeControlBuilder.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="3097,721,3165,748"/>
+<area shape="rect" id="node5" href="$d4/de6/_n_l_edge_control_builder_8h.html" title="netload/NLEdgeControlBuilder.h" alt="" coords="1586,80,1801,107"/>
+<area shape="rect" id="node41" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="5006,415,5191,442"/>
+<area shape="rect" id="node42" href="$d4/dc0/_g_u_i_edge_8h.html" title="guisim/GUIEdge.h" alt="" coords="684,80,815,107"/>
+<area shape="rect" id="node6" href="$da/dea/_m_s_edge_8h.html" title="microsim/MSEdge.h" alt="" coords="2341,155,2483,181"/>
+<area shape="rect" id="node9" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="3321,572,3479,599"/>
+<area shape="rect" id="node11" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="3910,572,4114,599"/>
+<area shape="rect" id="node12" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="1781,497,1968,524"/>
+<area shape="rect" id="node14" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="2039,647,2153,673"/>
+<area shape="rect" id="node16" href="$d8/dbf/_s_u_m_o_vehicle_8h.html" title="utils/vehicle/SUMOVehicle.h" alt="" coords="2250,237,2441,263"/>
+<area shape="rect" id="node21" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2600,408,2789,449"/>
+<area shape="rect" id="node25" href="$d3/d83/_value_time_line_8h.html" title="utils/common/ValueTimeLine.h" alt="" coords="3635,415,3842,442"/>
+<area shape="rect" id="node28" href="$d9/dfa/_m_s_net_8h.html" title="MSNet.h" alt="" coords="3807,237,3879,263"/>
+<area shape="rect" id="node39" href="$db/d2e/_m_s_vehicle_type_8h.html" title="MSVehicleType.h" alt="" coords="2414,326,2543,353"/>
+<area shape="rect" id="node18" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="utils/vehicle/SUMOAbstract\lRouter.h" alt="" coords="1478,408,1661,449"/>
+<area shape="rect" id="node19" href="$d0/d7a/_s_u_m_o_vehicle_parameter_8h.html" title="utils/vehicle/SUMOVehicle\lParameter.h" alt="" coords="2567,319,2747,360"/>
+<area shape="rect" id="node24" href="$d1/d3f/_output_device_8h.html" title="utils/iodevices/OutputDevice.h" alt="" coords="2864,415,3067,442"/>
+<area shape="rect" id="node20" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="2297,415,2474,442"/>
+<area shape="rect" id="node22" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2589,572,2789,599"/>
+<area shape="rect" id="node23" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2589,497,2801,524"/>
+<area shape="rect" id="node32" href="$de/d52/_m_s_vehicle_control_8h.html" title="MSVehicleControl.h" alt="" coords="2771,326,2911,353"/>
+<area shape="rect" id="node33" href="$d9/d94/_m_s_event_control_8h.html" title="MSEventControl.h" alt="" coords="3432,415,3560,442"/>
+<area shape="rect" id="node34" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="4449,415,4605,442"/>
+<area shape="rect" id="node36" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="4781,572,4928,599"/>
+<area shape="rect" id="node37" href="$d8/d15/_m_s_charging_station_8h.html" title="microsim/trigger/MSCharging\lStation.h" alt="" coords="4125,408,4323,449"/>
+<area shape="rect" id="node38" href="$da/dc5/_m_s_stopping_place_8h.html" title="microsim/MSStoppingPlace.h" alt="" coords="3709,497,3907,524"/>
+<area shape="rect" id="node35" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="4883,497,4989,524"/>
+<area shape="rect" id="node40" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="2192,415,2272,442"/>
+<area shape="rect" id="node43" href="$d2/d0d/_g_u_i_gl_object_8h.html" title="utils/gui/globjects\l/GUIGlObject.h" alt="" coords="1149,319,1275,360"/>
+<area shape="rect" id="node46" href="$d7/d71/_g_u_i_property_scheme_storage_8h.html" title="utils/gui/settings\l/GUIPropertySchemeStorage.h" alt="" coords="473,229,679,271"/>
+<area shape="rect" id="node49" href="$d4/de0/_m_f_x_mutex_8h.html" title="utils/foxtools/MFXMutex.h" alt="" coords="265,237,439,263"/>
+<area shape="rect" id="node44" href="$db/dcf/_g_u_i_gl_object_types_8h.html" title="GUIGlObjectTypes.h" alt="" coords="923,572,1069,599"/>
+<area shape="rect" id="node45" href="$de/dde/_string_utils_8h.html" title="utils/common/StringUtils.h" alt="" coords="873,647,1047,673"/>
+<area shape="rect" id="node48" href="$db/d71/_g_u_i_property_scheme_8h.html" title="GUIPropertyScheme.h" alt="" coords="1939,326,2093,353"/>
+<area shape="rect" id="node50" href="$da/dde/_abstract_mutex_8h.html" title="utils/common/AbstractMutex.h" alt="" coords="245,572,443,599"/>
+</map>

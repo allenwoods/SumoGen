@@ -1,0 +1,7 @@
+<map id="PCLoaderOSM::EdgesHandler" name="PCLoaderOSM::EdgesHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,837,186,958"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
+<area shape="rect" id="node5" href="$d4/d3d/struct_p_c_loader_o_s_m_1_1_p_c_o_s_m_edge.html" title="An internal definition of a loaded edge. " alt="" coords="210,829,413,965"/>
+<area shape="rect" id="node6" href="$d7/df6/class_msg_handler.html" title="{MsgHandler\n|&#45; myRetrievers\l&#45; myType\l&#45; myWasInformed\l&#45; myAmProcessingProcess\l|+ addRetriever()\l+ beginProcessMsg()\l+ clear()\l+ endProcessMsg()\l+ inform()\l+ isRetriever()\l+ operator\&lt;\&lt;()\l+ removeRetriever()\l+ wasInformed()\l+ assignLock()\l+ cleanupOnEnd()\l+ getErrorInstance()\l+ getMessageInstance()\l+ getWarningInstance()\l+ initOutputOptions()\l# build()\l&#45; MsgHandler()\l&#45; MsgHandler()\l&#45; operator=()\l&#45; ~MsgHandler()\l}" alt="" coords="437,697,623,1097"/>
+<area shape="rect" id="node7" href="$d1/d30/class_abstract_mutex.html" title="An abstract class for encapsulating mutex implementations. " alt="" coords="463,330,597,451"/>
+</map>

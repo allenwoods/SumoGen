@@ -1,0 +1,4 @@
+<map id="AGPerson" name="AGPerson">
+<area shape="rect" id="node2" href="$d1/dff/class_a_g_adult.html" title="An adult person who can have a job. " alt="" coords="5,197,197,377"/>
+<area shape="rect" id="node3" href="$d0/d04/class_a_g_child.html" title="{AGChild\n|&#45; school\l|+ AGChild()\l+ allocateASchool()\l+ getSchoolClosing()\l+ getSchoolLocation()\l+ getSchoolOpening()\l+ haveASchool()\l+ leaveSchool()\l+ print()\l+ setSchool()\l}" alt="" coords="221,189,376,384"/>
+</map>

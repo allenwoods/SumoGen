@@ -1,0 +1,8 @@
+<map id="GUIEvent" name="GUIEvent">
+<area shape="rect" id="node2" href="$d7/d10/class_g_n_e_event___network_loaded.html" title="{GNEEvent_NetworkLoaded\n|+ myFile\l+ myNet\l+ mySettingsFile\l+ myViewportFromRegistry\l|+ GNEEvent_NetworkLoaded()\l+ ~GNEEvent_NetworkLoaded()\l}" alt="" coords="5,182,220,318"/>
+<area shape="rect" id="node3" href="$dc/d4c/class_g_u_i_event___message.html" title="{GUIEvent_Message\n|# myMsg\l|+ getMsg()\l+ GUIEvent_Message()\l+ GUIEvent_Message()\l+ ~GUIEvent_Message()\l}" alt="" coords="245,189,415,311"/>
+<area shape="rect" id="node4" href="$da/d91/class_g_u_i_event___screenshot.html" title="{GUIEvent_Screenshot\n|+ myFile\l+ myView\l|+ GUIEvent_Screenshot()\l+ ~GUIEvent_Screenshot()\l&#45; operator=()\l}" alt="" coords="439,189,621,311"/>
+<area shape="rect" id="node5" href="$df/db1/class_g_u_i_event___simulation_ended.html" title="Event sent when the the simulation is over. " alt="" coords="645,182,860,318"/>
+<area shape="rect" id="node6" href="$d8/d15/class_g_u_i_event___simulation_loaded.html" title="{GUIEvent_SimulationLoaded\n|+ myBegin\l+ myEnd\l+ myFile\l+ myNet\l+ myOsgView\l+ mySettingsFiles\l|+ GUIEvent_SimulationLoaded()\l+ ~GUIEvent_SimulationLoaded()\l&#45; operator=()\l}" alt="" coords="884,160,1107,340"/>
+<area shape="rect" id="node7" href="$d3/d8a/class_g_u_i_event___simulation_step.html" title="{GUIEvent_SimulationStep\n||+ GUIEvent_SimulationStep()\l+ ~GUIEvent_SimulationStep()\l}" alt="" coords="1131,204,1334,296"/>
+</map>

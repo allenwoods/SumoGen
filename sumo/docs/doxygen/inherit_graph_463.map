@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d1a/class_abstract_poly.html" title="AbstractPoly" alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="180,5,260,32"/>
+<area shape="rect" id="node5" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="165,56,275,83"/>
+<area shape="rect" id="node3" href="$d3/dca/class_s_u_m_o_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects. " alt="" coords="337,56,437,83"/>
+<area shape="rect" id="node4" href="$d5/d5a/class_layered_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects in layers. " alt="" coords="485,56,596,83"/>
+</map>

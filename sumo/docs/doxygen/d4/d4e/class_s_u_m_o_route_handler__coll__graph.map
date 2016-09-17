@@ -1,0 +1,9 @@
+<map id="SUMORouteHandler" name="SUMORouteHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,1203,186,1325"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
+<area shape="rect" id="node5" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="385,205,592,576"/>
+<area shape="rect" id="node7" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="743,1013,928,1515"/>
+<area shape="rect" id="node9" href="$d8/d51/class_s_u_m_o_vehicle_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="529,697,718,1831"/>
+<area shape="rect" id="node6" href="$d0/da7/class_i_d_supplier.html" title="{IDSupplier\n|&#45; myCurrent\l&#45; myPrefix\l|+ avoid()\l+ getNext()\l+ IDSupplier()\l+ IDSupplier()\l+ ~IDSupplier()\l}" alt="" coords="393,1189,504,1339"/>
+<area shape="rect" id="node8" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="763,286,907,495"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ROLoader" name="ROLoader">
+<area shape="rect" id="node2" href="$d0/d33/class_s_u_m_o_route_loader_control.html" title="{SUMORouteLoaderControl\n|&#45; myAllLoaded\l&#45; myCurrentLoadTime\l&#45; myFirstLoadTime\l&#45; myInAdvanceStepNo\l&#45; myLoadAll\l&#45; myRouteLoaders\l|+ add()\l+ getFirstLoadTime()\l+ haveAllLoaded()\l+ loadNext()\l+ SUMORouteLoaderControl()\l+ ~SUMORouteLoaderControl()\l}" alt="" coords="5,665,216,889"/>
+<area shape="rect" id="node3" href="$db/d31/class_options_cont.html" title="A storage for options typed value containers) " alt="" coords="240,5,477,1549"/>
+</map>

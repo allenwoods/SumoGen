@@ -1,0 +1,5 @@
+<map id="SUMORTree" name="SUMORTree">
+<area shape="rect" id="node5" href="$d5/d5a/class_layered_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s GL&#45;objects in layers. " alt="" coords="85,763,224,913"/>
+<area shape="rect" id="node3" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="169,219,301,501"/>
+<area shape="rect" id="node4" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="172,5,297,171"/>
+</map>

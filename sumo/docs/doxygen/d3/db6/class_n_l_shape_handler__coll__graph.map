@@ -1,0 +1,9 @@
+<map id="NLShapeHandler" name="NLShapeHandler">
+<area shape="rect" id="node2" href="$da/da2/class_shape_handler.html" title="The XML&#45;Handler for network loading. " alt="" coords="246,1131,382,1384"/>
+<area shape="rect" id="node3" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,822,186,943"/>
+<area shape="rect" id="node4" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,147,193,635"/>
+<area shape="rect" id="node6" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="211,697,417,1068"/>
+<area shape="rect" id="node7" href="$d6/d6b/class_shape_container.html" title="Storage for geometrical objects. " alt="" coords="589,763,735,1002"/>
+<area shape="rect" id="node8" href="$d2/d4d/class_named_object_cont.html" title="{NamedObjectCont\&lt; PointOf\lInterest * \&gt;\n|&#45; myHaveChanged\l&#45; myMap\l&#45; myVector\l|+ add()\l+ buildAndGetStaticVector()\l+ clear()\l+ erase()\l+ get()\l+ getMyMap()\l+ getTempVector()\l+ insertIDs()\l+ NamedObjectCont()\l+ remove()\l+ size()\l+ ~NamedObjectCont()\l}" alt="" coords="461,249,649,532"/>
+<area shape="rect" id="node9" href="$d2/d4d/class_named_object_cont.html" title="{NamedObjectCont\&lt; SUMO\l::Polygon * \&gt;\n|&#45; myHaveChanged\l&#45; myMap\l&#45; myVector\l|+ add()\l+ buildAndGetStaticVector()\l+ clear()\l+ erase()\l+ get()\l+ getMyMap()\l+ getTempVector()\l+ insertIDs()\l+ NamedObjectCont()\l+ remove()\l+ size()\l+ ~NamedObjectCont()\l}" alt="" coords="673,249,861,532"/>
+</map>

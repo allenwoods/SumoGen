@@ -1,0 +1,5 @@
+<map id="MSDevice_BTreceiver::SeenDevice" name="MSDevice_BTreceiver::SeenDevice">
+<area shape="rect" id="node2" href="$d4/dd2/class_m_s_device___b_treceiver_1_1_meeting_point.html" title="Holds the information about exact positions/speeds/time of the begin/end of a meeting. " alt="" coords="15,549,175,671"/>
+<area shape="rect" id="node3" href="$d4/d8f/class_m_s_device___b_tsender_1_1_vehicle_state.html" title="A single movement state of the vehicle. " alt="" coords="15,321,176,472"/>
+<area shape="rect" id="node4" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="5,5,185,259"/>
+</map>

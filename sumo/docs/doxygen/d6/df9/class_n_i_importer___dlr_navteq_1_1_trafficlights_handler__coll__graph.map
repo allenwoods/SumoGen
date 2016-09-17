@@ -1,0 +1,11 @@
+<map id="NIImporter_DlrNavteq::TrafficlightsHandler" name="NIImporter_DlrNavteq::TrafficlightsHandler">
+<area shape="rect" id="node2" href="$d5/d60/class_line_handler.html" title="Interface definition for a class which retrieves lines from a LineHandler. " alt="" coords="5,1693,128,1800"/>
+<area shape="rect" id="node3" href="$db/d8c/class_n_b_node_cont.html" title="Container for nodes during the netbuilding process. " alt="" coords="152,1231,339,2262"/>
+<area shape="rect" id="node4" href="$de/dbf/class_named_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s Named objects. " alt="" coords="179,512,312,663"/>
+<area shape="rect" id="node6" href="$d9/d5e/class_n_b_traffic_light_logic_cont.html" title="A container for traffic light definitions and built programs. " alt="" coords="363,1583,530,1910"/>
+<area shape="rect" id="node7" href="$da/ded/class_n_b_edge_cont.html" title="Storage for edges, including some functionality operating on multiple edges. " alt="" coords="555,931,797,2563"/>
+<area shape="rect" id="node8" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="547,446,698,729"/>
+<area shape="rect" id="node9" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="395,42,520,207"/>
+<area shape="rect" id="node11" href="$db/d57/class_n_b_type_cont.html" title="A storage for available types of edges. " alt="" coords="725,307,915,868"/>
+<area shape="rect" id="node12" href="$d9/d0e/struct_n_b_type_cont_1_1_type_definition.html" title="{NBTypeCont::TypeDefinition\n|+ attrs\l+ bikeLaneWidth\l+ discard\l+ numLanes\l+ oneWay\l+ permissions\l+ priority\l+ restrictions\l+ sidewalkWidth\l+ speed\l+ width\l|+ TypeDefinition()\l+ TypeDefinition()\l}" alt="" coords="725,5,920,244"/>
+</map>

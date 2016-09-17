@@ -1,0 +1,25 @@
+<map id="GeomConvHelper.h" name="GeomConvHelper.h">
+<area shape="rect" id="node2" href="$d7/dd1/_g_n_e_additional_handler_8cpp.html" title="GNEAdditionalHandler.cpp" alt="" coords="5,80,187,107"/>
+<area shape="rect" id="node3" href="$d6/d09/_g_n_e_detector_e3_8cpp.html" title="GNEDetectorE3.cpp" alt="" coords="211,80,351,107"/>
+<area shape="rect" id="node4" href="$de/dc8/_g_n_e_edge_8cpp.html" title="GNEEdge.cpp" alt="" coords="376,80,483,107"/>
+<area shape="rect" id="node5" href="$df/dcd/_g_n_e_junction_8cpp.html" title="GNEJunction.cpp" alt="" coords="507,80,629,107"/>
+<area shape="rect" id="node6" href="$d6/d88/_g_n_e_p_o_i_8cpp.html" title="GNEPOI.cpp" alt="" coords="653,80,749,107"/>
+<area shape="rect" id="node7" href="$da/d4a/_g_n_e_poly_8cpp.html" title="GNEPoly.cpp" alt="" coords="773,80,875,107"/>
+<area shape="rect" id="node8" href="$db/daf/_g_n_e_rerouter_8cpp.html" title="GNERerouter.cpp" alt="" coords="899,80,1024,107"/>
+<area shape="rect" id="node9" href="$d2/def/_g_n_e_route_probe_8cpp.html" title="GNERouteProbe.cpp" alt="" coords="1049,80,1194,107"/>
+<area shape="rect" id="node10" href="$d4/db2/_g_n_e_vaporizer_8cpp.html" title="GNEVaporizer.cpp" alt="" coords="1218,80,1350,107"/>
+<area shape="rect" id="node11" href="$da/dc7/_g_n_e_variable_speed_signal_8cpp.html" title="GNEVariableSpeedSignal.cpp" alt="" coords="1375,80,1577,107"/>
+<area shape="rect" id="node12" href="$dc/d0a/_n_i_importer___open_drive_8cpp.html" title="NIImporter_OpenDrive.cpp" alt="" coords="1602,80,1779,107"/>
+<area shape="rect" id="node13" href="$df/de0/_n_i_importer___open_street_map_8cpp.html" title="NIImporter_OpenStreetMap.cpp" alt="" coords="1803,80,2010,107"/>
+<area shape="rect" id="node14" href="$d1/d7b/_n_i_importer___robocup_rescue_8cpp.html" title="NIImporter_RobocupRescue.cpp" alt="" coords="2034,80,2246,107"/>
+<area shape="rect" id="node15" href="$d8/db1/_n_i_importer___s_u_m_o_8cpp.html" title="NIImporter_SUMO.cpp" alt="" coords="2271,80,2423,107"/>
+<area shape="rect" id="node16" href="$d1/da3/_n_i_x_m_l_edges_handler_8cpp.html" title="NIXMLEdgesHandler.cpp" alt="" coords="2447,80,2617,107"/>
+<area shape="rect" id="node17" href="$d1/d34/_n_l_handler_8cpp.html" title="NLHandler.cpp" alt="" coords="2641,80,2751,107"/>
+<area shape="rect" id="node18" href="$d1/d9d/_n_w_writer___s_u_m_o_8cpp.html" title="NWWriter_SUMO.cpp" alt="" coords="2775,80,2924,107"/>
+<area shape="rect" id="node19" href="$db/d6c/_p_c_loader_o_s_m_8cpp.html" title="PCLoaderOSM.cpp" alt="" coords="2948,80,3087,107"/>
+<area shape="rect" id="node20" href="$d7/d63/_p_c_loader_x_m_l_8cpp.html" title="PCLoaderXML.cpp" alt="" coords="3111,80,3246,107"/>
+<area shape="rect" id="node21" href="$da/da7/_p_c_net_projection_loader_8cpp.html" title="PCNetProjectionLoader.cpp" alt="" coords="3270,80,3458,107"/>
+<area shape="rect" id="node22" href="$d9/de2/polyconvert__main_8cpp.html" title="polyconvert_main.cpp" alt="" coords="3482,80,3633,107"/>
+<area shape="rect" id="node23" href="$da/d65/_geom_conv_helper_8cpp.html" title="GeomConvHelper.cpp" alt="" coords="3657,80,3812,107"/>
+<area shape="rect" id="node24" href="$d2/d10/_shape_handler_8cpp.html" title="ShapeHandler.cpp" alt="" coords="3837,80,3969,107"/>
+</map>

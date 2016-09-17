@@ -1,0 +1,34 @@
+<map id="TraCIServer.h" name="TraCIServer.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1637,483,1705,509"/>
+<area shape="rect" id="node6" href="$dd/dba/_tra_c_i_constants_8h.html" title="TraCIConstants.h" alt="" coords="4353,80,4479,107"/>
+<area shape="rect" id="node7" href="$da/ddd/socket_8h.html" title="foreign/tcpip/socket.h" alt="" coords="4397,244,4545,271"/>
+<area shape="rect" id="node8" href="$d8/d6b/storage_8h.html" title="storage.h" alt="" coords="4225,326,4303,353"/>
+<area shape="rect" id="node15" href="$d6/d29/_named_r_tree_8h.html" title="utils/common/NamedRTree.h" alt="" coords="1914,244,2113,271"/>
+<area shape="rect" id="node18" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="3085,326,3272,353"/>
+<area shape="rect" id="node21" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="753,244,919,271"/>
+<area shape="rect" id="node27" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="985,408,1132,435"/>
+<area shape="rect" id="node30" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="1249,244,1405,271"/>
+<area shape="rect" id="node33" href="$d5/df0/_geom_helper_8h.html" title="utils/geom/GeomHelper.h" alt="" coords="623,162,798,189"/>
+<area shape="rect" id="node35" href="$da/d08/_polygon_8h.html" title="utils/shapes/Polygon.h" alt="" coords="1557,162,1715,189"/>
+<area shape="rect" id="node38" href="$de/d0a/_point_of_interest_8h.html" title="utils/shapes/PointOfInterest.h" alt="" coords="1261,80,1454,107"/>
+<area shape="rect" id="node42" href="$d3/d5c/_options_cont_8h.html" title="utils/options/OptionsCont.h" alt="" coords="3723,244,3901,271"/>
+<area shape="rect" id="node44" href="$d9/dfa/_m_s_net_8h.html" title="microsim/MSNet.h" alt="" coords="2727,162,2857,189"/>
+<area shape="rect" id="node49" href="$de/d43/_m_s_traffic_light_logic_8h.html" title="microsim/traffic_lights\l/MSTrafficLightLogic.h" alt="" coords="3341,155,3496,196"/>
+<area shape="rect" id="node50" href="$dd/da8/_tra_c_i_server_a_p_i___lane_8h.html" title="TraCIServerAPI_Lane.h" alt="" coords="4061,244,4227,271"/>
+<area shape="rect" id="node16" href="$d2/d58/_r_tree_8h.html" title="foreign/rtree/RTree.h" alt="" coords="1885,326,2032,353"/>
+<area shape="rect" id="node17" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="2473,326,2631,353"/>
+<area shape="rect" id="node20" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="3252,408,3367,435"/>
+<area shape="rect" id="node25" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="474,408,686,435"/>
+<area shape="rect" id="node26" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2259,319,2448,360"/>
+<area shape="rect" id="node29" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="397,326,477,353"/>
+<area shape="rect" id="node32" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="1248,326,1355,353"/>
+<area shape="rect" id="node34" href="$d3/d43/_position_vector_8h.html" title="PositionVector.h" alt="" coords="1429,244,1547,271"/>
+<area shape="rect" id="node36" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="2283,244,2487,271"/>
+<area shape="rect" id="node37" href="$da/d05/_shape_8h.html" title="Shape.h" alt="" coords="1674,244,1745,271"/>
+<area shape="rect" id="node39" href="$de/dde/_string_utils_8h.html" title="utils/common/StringUtils.h" alt="" coords="1958,408,2133,435"/>
+<area shape="rect" id="node40" href="$d3/d6d/_geo_conv_helper_8h.html" title="utils/geom/GeoConvHelper.h" alt="" coords="1231,162,1427,189"/>
+<area shape="rect" id="node41" href="$d1/d3f/_output_device_8h.html" title="utils/iodevices/OutputDevice.h" alt="" coords="873,162,1076,189"/>
+<area shape="rect" id="node43" href="$da/d39/_option_8h.html" title="Option.h" alt="" coords="3723,326,3794,353"/>
+<area shape="rect" id="node47" href="$de/d52/_m_s_vehicle_control_8h.html" title="MSVehicleControl.h" alt="" coords="2614,244,2754,271"/>
+<area shape="rect" id="node48" href="$d9/d94/_m_s_event_control_8h.html" title="MSEventControl.h" alt="" coords="3064,244,3192,271"/>
+</map>

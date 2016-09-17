@@ -1,0 +1,10 @@
+<map id="MSTrigger" name="MSTrigger">
+<area shape="rect" id="node3" href="$da/dbd/class_m_s_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="174,498,417,1015"/>
+<area shape="rect" id="node6" href="$d5/da7/class_m_s_lane_speed_trigger.html" title="Changes the speed allowed on a set of lanes. " alt="" coords="441,557,627,957"/>
+<area shape="rect" id="node8" href="$d6/d1d/class_m_s_triggered_rerouter.html" title="Reroutes vehicles passing an edge. " alt="" coords="651,388,879,1125"/>
+<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="475,5,593,156"/>
+<area shape="rect" id="node4" href="$d2/d8f/class_g_u_i_calibrator.html" title="Changes the speed allowed on a set of lanes (gui version) " alt="" coords="5,1188,183,1456"/>
+<area shape="rect" id="node5" href="$da/d96/class_m_e_triggered_calibrator.html" title="Calibrates the flow on a segment to a specified one. " alt="" coords="207,1217,405,1427"/>
+<area shape="rect" id="node7" href="$d3/d76/class_g_u_i_lane_speed_trigger.html" title="Changes the speed allowed on a set of lanes (gui version) " alt="" coords="440,1173,628,1471"/>
+<area shape="rect" id="node9" href="$de/d92/class_g_u_i_triggered_rerouter.html" title="Reroutes vehicles passing an edge One rerouter can be active on multiple edges. To reduce drawing loa..." alt="" coords="672,1195,857,1449"/>
+</map>

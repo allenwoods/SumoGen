@@ -1,0 +1,5 @@
+<map id="SUMOSAXReader" name="SUMOSAXReader">
+<area shape="rect" id="node2" href="$d4/d8f/class_binary_input_device.html" title="Encapsulates binary reading operations on a file. " alt="" coords="5,286,164,495"/>
+<area shape="rect" id="node3" href="$df/d19/class_s_u_m_o_s_a_x_reader_1_1_local_schema_resolver.html" title="{SUMOSAXReader::LocalSchema\lResolver\n||+ resolveEntity()\l}" alt="" coords="189,345,413,437"/>
+<area shape="rect" id="node5" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="437,147,615,635"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="PedestrianRouter&lt; E, L, N, V, INTERNALROUTER &gt;" name="PedestrianRouter&lt; E, L, N, V, INTERNALROUTER &gt;">
+<area shape="rect" id="node2" href="$d2/d23/class_s_u_m_o_abstract_router.html" title="{SUMOAbstractRouter\l\&lt; E, IntermodalTrip\l\&lt; E, N, V \&gt; \&gt;\n|# myBulkMode\l# myOperation\l&#45; myNumQueries\l&#45; myQueryStartTime\l&#45; myQueryTimeSum\l&#45; myQueryVisits\l&#45; myType\l|+ clone()\l+ compute()\l+ endQuery()\l+ getEffort()\l+ recomputeCosts()\l+ setBulkMode()\l+ startQuery()\l+ SUMOAbstractRouter()\l+ ~SUMOAbstractRouter()\l&#45; operator=()\l}" alt="" coords="21,5,197,332"/>
+</map>

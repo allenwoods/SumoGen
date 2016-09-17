@@ -1,0 +1,9 @@
+<map id="AGSchool" name="AGSchool">
+<area shape="rect" id="node2" href="$d5/dcb/class_a_g_position.html" title="A location in the 2D plane freely positioned on a street. " alt="" coords="60,2121,237,2345"/>
+<area shape="rect" id="node3" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="5,5,185,259"/>
+<area shape="rect" id="node7" href="$d4/d5d/class_r_o_node.html" title="Base class for nodes used by the router. " alt="" coords="157,321,277,545"/>
+<area shape="rect" id="node4" href="$d1/d9d/class_a_g_street.html" title="A model of the street in the city. " alt="" coords="159,1879,331,2059"/>
+<area shape="rect" id="node5" href="$de/df5/class_r_o_edge.html" title="A basic edge for routing applications. " alt="" coords="204,623,395,1829"/>
+<area shape="rect" id="node6" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="297,57,414,207"/>
+<area shape="rect" id="node8" href="$d6/d9c/class_value_time_line.html" title="{ValueTimeLine\&lt; SUMOReal \&gt;\n|&#45; myValues\l|+ add()\l+ describesTime()\l+ fillGaps()\l+ getSplitTime()\l+ getValue()\l+ ValueTimeLine()\l+ ~ValueTimeLine()\l}" alt="" coords="383,351,589,516"/>
+</map>

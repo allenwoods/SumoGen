@@ -1,0 +1,123 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: package traci</title>
+<meta charset="utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>traci</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/home/delphi/sumo/tools/traci/__init__.py">/home/delphi/sumo/tools/traci/__init__.py</a></font></td></tr></table>
+    <p><tt>@file&nbsp;&nbsp;&nbsp;&nbsp;__init__.py<br>
+@author&nbsp;&nbsp;Michael&nbsp;Behrisch<br>
+@author&nbsp;&nbsp;Lena&nbsp;Kalleske<br>
+@author&nbsp;&nbsp;Mario&nbsp;Krumnow<br>
+@author&nbsp;&nbsp;Daniel&nbsp;Krajzewicz<br>
+@author&nbsp;&nbsp;Jakob&nbsp;Erdmann<br>
+@date&nbsp;&nbsp;&nbsp;&nbsp;2008-10-09<br>
+@version&nbsp;$Id:&nbsp;__init__.py&nbsp;21131&nbsp;2016-07-08&nbsp;07:59:22Z&nbsp;behrisch&nbsp;$<br>
+&nbsp;<br>
+Python&nbsp;implementation&nbsp;of&nbsp;the&nbsp;TraCI&nbsp;interface.<br>
+&nbsp;<br>
+SUMO,&nbsp;Simulation&nbsp;of&nbsp;Urban&nbsp;MObility;&nbsp;see&nbsp;<a href="http://sumo.dlr.de/">http://sumo.dlr.de/</a><br>
+Copyright&nbsp;(C)&nbsp;2008-2016&nbsp;DLR&nbsp;(<a href="http://www.dlr.de/">http://www.dlr.de/</a>)&nbsp;and&nbsp;contributors<br>
+&nbsp;<br>
+This&nbsp;file&nbsp;is&nbsp;part&nbsp;of&nbsp;SUMO.<br>
+SUMO&nbsp;is&nbsp;free&nbsp;software;&nbsp;you&nbsp;can&nbsp;redistribute&nbsp;it&nbsp;and/or&nbsp;modify<br>
+it&nbsp;under&nbsp;the&nbsp;terms&nbsp;of&nbsp;the&nbsp;GNU&nbsp;General&nbsp;Public&nbsp;License&nbsp;as&nbsp;published&nbsp;by<br>
+the&nbsp;Free&nbsp;Software&nbsp;Foundation;&nbsp;either&nbsp;version&nbsp;3&nbsp;of&nbsp;the&nbsp;License,&nbsp;or<br>
+(at&nbsp;your&nbsp;option)&nbsp;any&nbsp;later&nbsp;version.</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Package Contents</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="traci._areal.html">_areal</a><br>
+<a href="traci._edge.html">_edge</a><br>
+<a href="traci._gui.html">_gui</a><br>
+<a href="traci._inductionloop.html">_inductionloop</a><br>
+<a href="traci._junction.html">_junction</a><br>
+<a href="traci._lane.html">_lane</a><br>
+<a href="traci._multientryexit.html">_multientryexit</a><br>
+<a href="traci._person.html">_person</a><br>
+<a href="traci._poi.html">_poi</a><br>
+<a href="traci._polygon.html">_polygon</a><br>
+</td><td width="25%" valign=top><a href="traci._route.html">_route</a><br>
+<a href="traci._simulation.html">_simulation</a><br>
+<a href="traci._trafficlights.html">_trafficlights</a><br>
+<a href="traci._vehicle.html">_vehicle</a><br>
+<a href="traci._vehicletype.html">_vehicletype</a><br>
+<a href="traci.areal.html">areal</a><br>
+<a href="traci.connection.html">connection</a><br>
+<a href="traci.constants.html">constants</a><br>
+<a href="traci.domain.html">domain</a><br>
+<a href="traci.edge.html">edge</a><br>
+</td><td width="25%" valign=top><a href="traci.exceptions.html">exceptions</a><br>
+<a href="traci.gui.html">gui</a><br>
+<a href="traci.inductionloop.html">inductionloop</a><br>
+<a href="traci.junction.html">junction</a><br>
+<a href="traci.lane.html">lane</a><br>
+<a href="traci.multientryexit.html">multientryexit</a><br>
+<a href="traci.person.html">person</a><br>
+<a href="traci.poi.html">poi</a><br>
+<a href="traci.polygon.html">polygon</a><br>
+<a href="traci.rebuildConstants.html">rebuildConstants</a><br>
+</td><td width="25%" valign=top><a href="traci.route.html">route</a><br>
+<a href="traci.simulation.html">simulation</a><br>
+<a href="traci.storage.html">storage</a><br>
+<a href="traci.traciToHex.html">traciToHex</a><br>
+<a href="traci.trafficlights.html">trafficlights</a><br>
+<a href="traci.vehicle.html">vehicle</a><br>
+<a href="traci.vehicletype.html">vehicletype</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-close"><strong>close</strong></a>(wait<font color="#909090">=True</font>)</dt></dl>
+ <dl><dt><a name="-connect"><strong>connect</strong></a>(port<font color="#909090">=8813</font>, numRetries<font color="#909090">=10</font>, host<font color="#909090">='localhost'</font>)</dt><dd><tt>Establish&nbsp;a&nbsp;connection&nbsp;to&nbsp;a&nbsp;TraCI-Server&nbsp;and&nbsp;return&nbsp;the<br>
+connection&nbsp;object.&nbsp;The&nbsp;connection&nbsp;is&nbsp;not&nbsp;saved&nbsp;in&nbsp;the&nbsp;pool&nbsp;and&nbsp;not<br>
+accessible&nbsp;via&nbsp;traci.switch.&nbsp;It&nbsp;should&nbsp;be&nbsp;safe&nbsp;to&nbsp;use&nbsp;different<br>
+connections&nbsp;established&nbsp;by&nbsp;this&nbsp;method&nbsp;in&nbsp;different&nbsp;threads.</tt></dd></dl>
+ <dl><dt><a name="-getVersion"><strong>getVersion</strong></a>()</dt></dl>
+ <dl><dt><a name="-init"><strong>init</strong></a>(port<font color="#909090">=8813</font>, numRetries<font color="#909090">=10</font>, host<font color="#909090">='localhost'</font>, label<font color="#909090">='default'</font>)</dt><dd><tt>Establish&nbsp;a&nbsp;connection&nbsp;to&nbsp;a&nbsp;TraCI-Server&nbsp;and&nbsp;store&nbsp;it&nbsp;under&nbsp;the&nbsp;given<br>
+label.&nbsp;This&nbsp;method&nbsp;is&nbsp;not&nbsp;thread-safe.&nbsp;It&nbsp;accesses&nbsp;the&nbsp;connection<br>
+pool&nbsp;concurrently.</tt></dd></dl>
+ <dl><dt><a name="-isEmbedded"><strong>isEmbedded</strong></a>()</dt></dl>
+ <dl><dt><a name="-simulationStep"><strong>simulationStep</strong></a>(step<font color="#909090">=0</font>)</dt><dd><tt>Make&nbsp;a&nbsp;simulation&nbsp;step&nbsp;and&nbsp;simulate&nbsp;up&nbsp;to&nbsp;the&nbsp;given&nbsp;millisecond&nbsp;in&nbsp;sim&nbsp;time.<br>
+If&nbsp;the&nbsp;given&nbsp;value&nbsp;is&nbsp;0&nbsp;or&nbsp;absent,&nbsp;exactly&nbsp;one&nbsp;step&nbsp;is&nbsp;performed.<br>
+Values&nbsp;smaller&nbsp;than&nbsp;or&nbsp;equal&nbsp;to&nbsp;the&nbsp;current&nbsp;sim&nbsp;time&nbsp;result&nbsp;in&nbsp;no&nbsp;action.</tt></dd></dl>
+ <dl><dt><a name="-start"><strong>start</strong></a>(cmd, port<font color="#909090">=None</font>, numRetries<font color="#909090">=10</font>, label<font color="#909090">='default'</font>)</dt><dd><tt>Start&nbsp;a&nbsp;sumo&nbsp;server&nbsp;using&nbsp;cmd,&nbsp;establish&nbsp;a&nbsp;connection&nbsp;to&nbsp;it&nbsp;and<br>
+store&nbsp;it&nbsp;under&nbsp;the&nbsp;given&nbsp;label.&nbsp;This&nbsp;method&nbsp;is&nbsp;not&nbsp;thread-safe.</tt></dd></dl>
+ <dl><dt><a name="-switch"><strong>switch</strong></a>(label)</dt></dl>
+</td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#55aa55">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Data</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#55aa55"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><strong>absolute_import</strong> = _Feature((2, 5, 0, 'alpha', 1), (3, 0, 0, 'alpha', 0), 16384)<br>
+<strong>areal</strong> = &lt;traci._areal.ArealDomain instance&gt;<br>
+<strong>edge</strong> = &lt;traci._edge.EdgeDomain instance&gt;<br>
+<strong>gui</strong> = &lt;traci._gui.GuiDomain instance&gt;<br>
+<strong>inductionloop</strong> = &lt;traci._inductionloop.InductionLoopDomain instance&gt;<br>
+<strong>junction</strong> = &lt;traci._junction.JunctionDomain instance&gt;<br>
+<strong>lane</strong> = &lt;traci._lane.LaneDomain instance&gt;<br>
+<strong>multientryexit</strong> = &lt;traci._multientryexit.MultiEntryExitDomain instance&gt;<br>
+<strong>person</strong> = &lt;traci._person.PersonDomain instance&gt;<br>
+<strong>poi</strong> = &lt;traci._poi.PoiDomain instance&gt;<br>
+<strong>polygon</strong> = &lt;traci._polygon.PolygonDomain instance&gt;<br>
+<strong>print_function</strong> = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), 65536)<br>
+<strong>route</strong> = &lt;traci._route.RouteDomain instance&gt;<br>
+<strong>simulation</strong> = &lt;traci._simulation.SimulationDomain instance&gt;<br>
+<strong>trafficlights</strong> = &lt;traci._trafficlights.TrafficLightsDomain instance&gt;<br>
+<strong>vehicle</strong> = &lt;traci._vehicle.VehicleDomain instance&gt;<br>
+<strong>vehicletype</strong> = &lt;traci._vehicletype.VehicleTypeDomain instance&gt;</td></tr></table>
+</body></html>

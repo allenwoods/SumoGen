@@ -1,0 +1,33 @@
+<map id="ROJTREdge.h" name="ROJTREdge.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1870,1035,1938,1061"/>
+<area shape="rect" id="node6" href="$d3/d83/_value_time_line_8h.html" title="utils/common/ValueTimeLine.h" alt="" coords="4033,468,4239,495"/>
+<area shape="rect" id="node13" href="$d4/d94/_r_o_edge_8h.html" title="router/ROEdge.h" alt="" coords="3293,80,3414,107"/>
+<area shape="rect" id="node9" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="3523,729,3709,755"/>
+<area shape="rect" id="node11" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="2808,960,2923,987"/>
+<area shape="rect" id="node15" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="2569,729,2727,755"/>
+<area shape="rect" id="node18" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1381,729,1544,755"/>
+<area shape="rect" id="node21" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2904,721,3093,763"/>
+<area shape="rect" id="node22" href="$d2/de4/_pollutants_interface_8h.html" title="utils/emissions/Pollutants\lInterface.h" alt="" coords="786,543,958,584"/>
+<area shape="rect" id="node26" href="$d8/d88/_s_u_m_o_v_type_parameter_8h.html" title="utils/vehicle/SUMOVTypeParameter.h" alt="" coords="3941,639,4190,666"/>
+<area shape="rect" id="node29" href="$d1/d2d/_r_o_node_8h.html" title="RONode.h" alt="" coords="614,639,698,666"/>
+<area shape="rect" id="node31" href="$df/da2/_r_o_vehicle_8h.html" title="ROVehicle.h" alt="" coords="3468,155,3564,181"/>
+<area shape="rect" id="node19" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2301,811,2513,837"/>
+<area shape="rect" id="node20" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2555,885,2755,912"/>
+<area shape="rect" id="node24" href="$d0/dec/_p_h_e_m_c_e_p_8h.html" title="PHEMCEP.h" alt="" coords="824,639,920,666"/>
+<area shape="rect" id="node25" href="$d5/dc3/_p_h_e_m_constants_8h.html" title="PHEMConstants.h" alt="" coords="1025,729,1154,755"/>
+<area shape="rect" id="node27" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="3934,885,4138,912"/>
+<area shape="rect" id="node28" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="2982,885,3159,912"/>
+<area shape="rect" id="node30" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="752,729,899,755"/>
+<area shape="rect" id="node32" href="$d0/d7a/_s_u_m_o_vehicle_parameter_8h.html" title="utils/vehicle/SUMOVehicle\lParameter.h" alt="" coords="3737,632,3917,673"/>
+<area shape="rect" id="node33" href="$df/da8/_r_o_routable_8h.html" title="RORoutable.h" alt="" coords="3464,229,3568,256"/>
+<area shape="rect" id="node34" href="$dc/d9e/_intermodal_router_8h.html" title="utils/vehicle/Intermodal\lRouter.h" alt="" coords="2155,304,2314,345"/>
+<area shape="rect" id="node36" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="1987,885,2175,912"/>
+<area shape="rect" id="node37" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="2177,639,2343,666"/>
+<area shape="rect" id="node40" href="$d1/de7/_s_u_m_o_abstract_router_8h.html" title="SUMOAbstractRouter.h" alt="" coords="2134,550,2293,577"/>
+<area shape="rect" id="node42" href="$d6/d78/_dijkstra_router_t_t_8h.html" title="DijkstraRouterTT.h" alt="" coords="2699,468,2835,495"/>
+<area shape="rect" id="node46" href="$db/d3f/_intermodal_network_8h.html" title="IntermodalNetwork.h" alt="" coords="1952,468,2096,495"/>
+<area shape="rect" id="node48" href="$d3/d53/_car_edge_8h.html" title="CarEdge.h" alt="" coords="1374,468,1461,495"/>
+<area shape="rect" id="node49" href="$d1/d02/_pedestrian_router_8h.html" title="PedestrianRouter.h" alt="" coords="2061,393,2197,420"/>
+<area shape="rect" id="node41" href="$db/da5/_sys_utils_8h.html" title="utils/common/SysUtils.h" alt="" coords="2997,960,3160,987"/>
+<area shape="rect" id="node47" href="$de/dd4/_intermodal_edge_8h.html" title="IntermodalEdge.h" alt="" coords="1881,550,2007,577"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="GUIGlobals.h" name="GUIGlobals.h">
+<area shape="rect" id="node2" href="$d7/dd2/_g_u_i_dialog___app_settings_8cpp.html" title="GUIDialog_AppSettings.cpp" alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$d3/d6a/_g_u_i_dialog___breakpoints_8cpp.html" title="GUIDialog_Breakpoints.cpp" alt="" coords="216,80,403,107"/>
+<area shape="rect" id="node4" href="$d6/de8/_g_u_i_application_window_8cpp.html" title="GUIApplicationWindow.cpp" alt="" coords="427,80,610,107"/>
+<area shape="rect" id="node5" href="$da/d7e/_g_u_i_globals_8cpp.html" title="GUIGlobals.cpp" alt="" coords="634,80,750,107"/>
+<area shape="rect" id="node6" href="$d6/dec/_g_u_i_load_thread_8cpp.html" title="GUILoadThread.cpp" alt="" coords="774,80,919,107"/>
+<area shape="rect" id="node7" href="$d4/de4/_g_u_i_manipulator_8cpp.html" title="GUIManipulator.cpp" alt="" coords="944,80,1083,107"/>
+<area shape="rect" id="node8" href="$dc/dd9/_g_u_i_run_thread_8cpp.html" title="GUIRunThread.cpp" alt="" coords="1107,80,1245,107"/>
+<area shape="rect" id="node9" href="$df/d67/_g_u_i_s_u_m_o_view_parent_8cpp.html" title="GUISUMOViewParent.cpp" alt="" coords="1269,80,1446,107"/>
+<area shape="rect" id="node10" href="$d0/d98/_g_u_i_edge_control_builder_8cpp.html" title="GUIEdgeControlBuilder.cpp" alt="" coords="1471,80,1657,107"/>
+<area shape="rect" id="node11" href="$d7/d5b/_g_u_i_base_vehicle_8cpp.html" title="GUIBaseVehicle.cpp" alt="" coords="1681,80,1828,107"/>
+<area shape="rect" id="node12" href="$db/dfd/_g_u_i_bus_stop_8cpp.html" title="GUIBusStop.cpp" alt="" coords="1853,80,1971,107"/>
+<area shape="rect" id="node13" href="$d9/dde/_g_u_i_calibrator_8cpp.html" title="GUICalibrator.cpp" alt="" coords="1995,80,2122,107"/>
+<area shape="rect" id="node14" href="$d5/d38/_g_u_i_charging_station_8cpp.html" title="GUIChargingStation.cpp" alt="" coords="2147,80,2312,107"/>
+<area shape="rect" id="node15" href="$dc/d25/_g_u_i_container_8cpp.html" title="GUIContainer.cpp" alt="" coords="2337,80,2463,107"/>
+<area shape="rect" id="node16" href="$d2/db6/_g_u_i_container_stop_8cpp.html" title="GUIContainerStop.cpp" alt="" coords="2488,80,2643,107"/>
+<area shape="rect" id="node17" href="$d1/dd0/_g_u_i_detector_wrapper_8cpp.html" title="GUIDetectorWrapper.cpp" alt="" coords="2667,80,2837,107"/>
+<area shape="rect" id="node18" href="$d5/d5b/_g_u_i_junction_wrapper_8cpp.html" title="GUIJunctionWrapper.cpp" alt="" coords="2862,80,3031,107"/>
+<area shape="rect" id="node19" href="$df/d08/_g_u_i_lane_speed_trigger_8cpp.html" title="GUILaneSpeedTrigger.cpp" alt="" coords="3056,80,3240,107"/>
+<area shape="rect" id="node20" href="$dc/d90/_g_u_i_net_8cpp.html" title="GUINet.cpp" alt="" coords="3265,80,3354,107"/>
+<area shape="rect" id="node21" href="$d3/d7e/_g_u_i_person_8cpp.html" title="GUIPerson.cpp" alt="" coords="3379,80,3491,107"/>
+<area shape="rect" id="node22" href="$d0/d3f/_g_u_i_traffic_light_logic_wrapper_8cpp.html" title="GUITrafficLightLogicWrapper.cpp" alt="" coords="3515,80,3733,107"/>
+<area shape="rect" id="node23" href="$d3/d27/_g_u_i_triggered_rerouter_8cpp.html" title="GUITriggeredRerouter.cpp" alt="" coords="3757,80,3939,107"/>
+<area shape="rect" id="node24" href="$de/d1f/_g_u_i_vehicle_8cpp.html" title="GUIVehicle.cpp" alt="" coords="3963,80,4077,107"/>
+<area shape="rect" id="node25" href="$d0/d21/_g_u_i_vehicle_control_8cpp.html" title="GUIVehicleControl.cpp" alt="" coords="4101,80,4259,107"/>
+<area shape="rect" id="node26" href="$d0/d0d/_g_u_i_m_e_vehicle_control_8cpp.html" title="GUIMEVehicleControl.cpp" alt="" coords="4283,80,4459,107"/>
+</map>

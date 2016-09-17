@@ -1,0 +1,3 @@
+<map id="NIVissimEdge" name="NIVissimEdge">
+<area shape="rect" id="node2" href="$da/d14/class_n_i_vissim_abstract_edge.html" title="{NIVissimAbstractEdge\n|# myDisturbances\l# myGeom\l# myID\l# myNode\l&#45; myDict\l|+ addDisturbance()\l+ buildGeom()\l+ crossesEdge()\l+ crossesEdgeAtPoint()\l+ getDisturbances()\l+ getGeometry()\l+ getGeomPosition()\l+ getID()\l+ hasNodeCluster()\l+ NIVissimAbstractEdge()\l+ overlapsWith()\l+ setNodeCluster()\l+ splitAssigning()\l+ ~NIVissimAbstractEdge()\l+ clearDict()\l+ dictionary()\l+ dictionary()\l+ getWithin()\l+ splitAndAssignToNodes()\l}" alt="" coords="39,5,227,405"/>
+</map>

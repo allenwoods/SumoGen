@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$df/dd8/class_g_n_e_change.html" title="the function&#45;object for an editing operation (abstract base) " alt="" coords="156,183,255,209"/>
+<area shape="rect" id="node3" href="$dd/d6c/class_g_n_e_change___additional.html" title="GNEChange_Additional" alt="" coords="307,5,472,32"/>
+<area shape="rect" id="node4" href="$da/d00/class_g_n_e_change___attribute.html" title="the function&#45;object for an editing operation (abstract base) " alt="" coords="313,56,465,83"/>
+<area shape="rect" id="node5" href="$db/dbc/class_g_n_e_change___connection.html" title="GNEChange_Connection" alt="" coords="303,107,476,133"/>
+<area shape="rect" id="node6" href="$d0/df8/class_g_n_e_change___edge.html" title="GNEChange_Edge" alt="" coords="321,157,458,184"/>
+<area shape="rect" id="node7" href="$d8/d05/class_g_n_e_change___junction.html" title="GNEChange_Junction" alt="" coords="312,208,467,235"/>
+<area shape="rect" id="node8" href="$d6/df5/class_g_n_e_change___lane.html" title="GNEChange_Lane" alt="" coords="322,259,457,285"/>
+<area shape="rect" id="node9" href="$d9/d30/class_g_n_e_change___selection.html" title="GNEChange_Selection" alt="" coords="309,309,470,336"/>
+<area shape="rect" id="node10" href="$dd/d1b/class_g_n_e_change___t_l_s.html" title="GNEChange_TLS" alt="" coords="324,360,455,387"/>
+</map>

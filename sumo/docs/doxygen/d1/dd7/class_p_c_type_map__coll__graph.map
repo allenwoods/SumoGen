@@ -1,0 +1,4 @@
+<map id="PCTypeMap" name="PCTypeMap">
+<area shape="rect" id="node2" href="$d0/dff/struct_p_c_type_map_1_1_type_def.html" title="A single definition of values that shall be used for a given type. " alt="" coords="29,439,189,575"/>
+<area shape="rect" id="node3" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="5,5,212,376"/>
+</map>

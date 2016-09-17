@@ -1,0 +1,11 @@
+<map id="MSLane" name="MSLane">
+<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="260,286,377,437"/>
+<area shape="rect" id="node4" href="$d7/d27/class_m_s_edge.html" title="A road/street connecting two junctions. " alt="" coords="258,1043,472,2851"/>
+<area shape="rect" id="node6" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="492,580,657,951"/>
+<area shape="rect" id="node3" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="54,661,198,870"/>
+<area shape="rect" id="node5" href="$d6/dad/class_m_s_lane_changer.html" title="Performs lane changing of vehicles. " alt="" coords="223,565,416,965"/>
+<area shape="rect" id="node7" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="692,220,843,503"/>
+<area shape="rect" id="node8" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="622,5,748,171"/>
+<area shape="rect" id="node10" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="402,235,582,488"/>
+<area shape="rect" id="node11" href="$d2/dd2/class_m_s_leader_info.html" title="{MSLeaderInfo\n|# egoLeftMost\l# egoRightMost\l# myFreeSublanes\l# myHasVehicles\l# myVehicles\l# myWidth\l|+ addLeader()\l+ clear()\l+ getSubLanes()\l+ hasStoppedVehicle()\l+ hasVehicles()\l+ MSLeaderInfo()\l+ numFreeSublanes()\l+ numSublanes()\l+ operator[]()\l+ toString()\l+ ~MSLeaderInfo()\l}" alt="" coords="767,1798,926,2095"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="NIXMLTypesHandler.cpp" name="NIXMLTypesHandler.cpp">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="2362,767,2430,793"/>
+<area shape="rect" id="node9" href="$d2/d70/_s_u_m_o_s_a_x_handler_8h.html" title="utils/xml/SUMOSAXHandler.h" alt="" coords="805,155,1003,181"/>
+<area shape="rect" id="node24" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1433,379,1599,405"/>
+<area shape="rect" id="node27" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1567,543,1779,569"/>
+<area shape="rect" id="node28" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1965,453,2155,495"/>
+<area shape="rect" id="node33" href="$de/d4a/_tpl_convert_8h.html" title="utils/common/TplConvert.h" alt="" coords="499,379,682,405"/>
+<area shape="rect" id="node34" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="2698,617,2886,644"/>
+<area shape="rect" id="node35" href="$d8/d0b/_n_b_edge_8h.html" title="netbuild/NBEdge.h" alt="" coords="2722,379,2854,405"/>
+<area shape="rect" id="node44" href="$de/d1a/_n_b_type_cont_8h.html" title="netbuild/NBTypeCont.h" alt="" coords="2067,304,2227,331"/>
+<area shape="rect" id="node45" href="$d8/d7d/_n_i_x_m_l_types_handler_8h.html" title="NIXMLTypesHandler.h" alt="" coords="144,80,301,107"/>
+<area shape="rect" id="node10" href="$d3/d23/_generic_s_a_x_handler_8h.html" title="utils/xml/GenericSAXHandler.h" alt="" coords="801,229,1007,256"/>
+<area shape="rect" id="node17" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="661,692,859,719"/>
+<area shape="rect" id="node19" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2093,617,2293,644"/>
+<area shape="rect" id="node20" href="$d7/d16/_s_u_m_o_s_a_x_attributes_8h.html" title="SUMOSAXAttributes.h" alt="" coords="1199,304,1351,331"/>
+<area shape="rect" id="node22" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="1000,461,1187,487"/>
+<area shape="rect" id="node29" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="2498,461,2657,487"/>
+<area shape="rect" id="node30" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="1771,617,1917,644"/>
+<area shape="rect" id="node32" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="1363,461,1443,487"/>
+<area shape="rect" id="node36" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="2470,617,2674,644"/>
+<area shape="rect" id="node37" href="$d0/d40/_vector_helper_8h.html" title="utils/common/VectorHelper.h" alt="" coords="2281,461,2474,487"/>
+<area shape="rect" id="node38" href="$de/dc6/_bresenham_8h.html" title="utils/geom/Bresenham.h" alt="" coords="3621,617,3787,644"/>
+<area shape="rect" id="node39" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="3106,461,3291,487"/>
+<area shape="rect" id="node41" href="$db/dde/_n_b_cont_8h.html" title="NBCont.h" alt="" coords="3315,461,3394,487"/>
+<area shape="rect" id="node42" href="$da/d0c/_n_b_helpers_8h.html" title="NBHelpers.h" alt="" coords="2783,461,2879,487"/>
+<area shape="rect" id="node43" href="$d0/d5f/_n_b_sign_8h.html" title="NBSign.h" alt="" coords="2679,543,2756,569"/>
+<area shape="rect" id="node40" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="3033,543,3140,569"/>
+</map>

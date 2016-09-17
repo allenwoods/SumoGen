@@ -1,0 +1,5 @@
+<map id="MSDevice_Transportable" name="MSDevice_Transportable">
+<area shape="rect" id="node2" href="$d1/d46/class_m_s_device.html" title="Abstract in&#45;vehicle device. " alt="" coords="117,380,347,677"/>
+<area shape="rect" id="node3" href="$d2/da5/class_m_s_move_reminder.html" title="Something on a lane to be noticed about vehicle movement. " alt="" coords="5,5,253,332"/>
+<area shape="rect" id="node4" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="277,93,395,244"/>
+</map>

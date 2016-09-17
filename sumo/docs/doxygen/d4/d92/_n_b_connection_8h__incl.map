@@ -1,0 +1,18 @@
+<map id="NBConnection.h" name="NBConnection.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="749,468,817,495"/>
+<area shape="rect" id="node4" href="$d8/d0b/_n_b_edge_8h.html" title="NBEdge.h" alt="" coords="1191,80,1273,107"/>
+<area shape="rect" id="node8" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1754,319,1913,345"/>
+<area shape="rect" id="node10" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="1221,319,1425,345"/>
+<area shape="rect" id="node11" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1379,393,1578,420"/>
+<area shape="rect" id="node13" href="$d0/d40/_vector_helper_8h.html" title="utils/common/VectorHelper.h" alt="" coords="471,319,665,345"/>
+<area shape="rect" id="node16" href="$de/dc6/_bresenham_8h.html" title="utils/geom/Bresenham.h" alt="" coords="43,162,210,189"/>
+<area shape="rect" id="node17" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="315,162,501,189"/>
+<area shape="rect" id="node21" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1408,155,1597,196"/>
+<area shape="rect" id="node23" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="945,244,1157,271"/>
+<area shape="rect" id="node24" href="$db/dde/_n_b_cont_8h.html" title="NBCont.h" alt="" coords="741,319,819,345"/>
+<area shape="rect" id="node25" href="$da/d0c/_n_b_helpers_8h.html" title="NBHelpers.h" alt="" coords="2039,319,2135,345"/>
+<area shape="rect" id="node26" href="$d0/d5f/_n_b_sign_8h.html" title="NBSign.h" alt="" coords="1373,244,1451,271"/>
+<area shape="rect" id="node18" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="239,244,345,271"/>
+<area shape="rect" id="node19" href="$d4/d51/_position_8h.html" title="Position.h" alt="" coords="215,319,295,345"/>
+<area shape="rect" id="node22" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="996,319,1196,345"/>
+</map>

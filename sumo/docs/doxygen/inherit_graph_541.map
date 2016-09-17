@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/dd8/structprohibited__with_permissions.html" title="prohibited_withPermissions\l\&lt; IntermodalEdge\&lt; E, L,\l N, V \&gt;, IntermodalTrip\&lt;\l E, N, V \&gt; \&gt;" alt="" coords="5,5,189,76"/>
+<area shape="rect" id="node2" href="$d2/d6c/class_dijkstra_router_t_t.html" title="DijkstraRouterTT\&lt; Intermodal\lEdge\&lt; E, L, N, V \&gt;, IntermodalTrip\l\&lt; E, N, V \&gt;, prohibited_withPermissions\l\&lt; IntermodalEdge\&lt; E, L, N, V \&gt;, IntermodalTrip\l\&lt; E, N, V \&gt; \&gt; \&gt;" alt="" coords="237,46,543,131"/>
+<area shape="rect" id="node3" href="$d2/d23/class_s_u_m_o_abstract_router.html" title="SUMOAbstractRouter\l\&lt; IntermodalEdge\&lt; E,\l L, N, V \&gt;, IntermodalTrip\l\&lt; E, N, V \&gt; \&gt;" alt="" coords="10,100,185,171"/>
+</map>

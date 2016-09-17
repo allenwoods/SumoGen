@@ -1,0 +1,6 @@
+<map id="NIVissimDisturbance" name="NIVissimDisturbance">
+<area shape="rect" id="node2" href="$d1/d3c/class_n_i_vissim_bounded_cluster_object.html" title="{NIVissimBoundedClusterObject\n|# myClusterID\l# myDict\l|+ clustered()\l+ computeBounding()\l+ crosses()\l+ getBoundary()\l+ inCluster()\l+ NIVissimBoundedClusterObject()\l+ ~NIVissimBoundedClusterObject()\l+ closeLoading()\l}" alt="" coords="5,573,243,767"/>
+<area shape="rect" id="node3" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="58,220,190,503"/>
+<area shape="rect" id="node4" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="61,5,187,171"/>
+<area shape="rect" id="node5" href="$d0/d9e/class_n_i_vissim_extended_edge_point.html" title="{NIVissimExtendedEdgePoint\n|&#45; myAssignedVehicles\l&#45; myEdgeID\l&#45; myLanes\l&#45; myPosition\l|+ getEdgeID()\l+ getGeomPosition()\l+ getLanes()\l+ getPosition()\l+ NIVissimExtendedEdgePoint()\l+ recheckLanes()\l+ ~NIVissimExtendedEdgePoint()\l}" alt="" coords="267,565,488,775"/>
+</map>

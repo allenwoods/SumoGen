@@ -1,0 +1,9 @@
+<map id="OutputDevice" name="OutputDevice">
+<area shape="rect" id="node2" href="$d4/d00/class_g_u_i_message_window_1_1_msg_output_device.html" title="{GUIMessageWindow::MsgOutput\lDevice\n|&#45; myMsgWindow\l&#45; myStream\l&#45; myType\l|+ MsgOutputDevice()\l+ ~MsgOutputDevice()\l# getOStream()\l# postWriteHook()\l}" alt="" coords="5,424,228,589"/>
+<area shape="rect" id="node3" href="$da/dd6/class_msg_retrieving_function.html" title="Encapsulates an object&#39;s method for using it as a message retriever. " alt="" coords="253,409,445,604"/>
+<area shape="rect" id="node4" href="$d8/d41/class_output_device___c_e_r_r.html" title="An output device that encapsulates cerr. " alt="" coords="469,424,639,589"/>
+<area shape="rect" id="node5" href="$d2/d90/class_output_device___c_o_u_t.html" title="An output device that encapsulates cout. " alt="" coords="663,424,835,589"/>
+<area shape="rect" id="node6" href="$d0/dde/class_output_device___file.html" title="An output device that encapsulates an ofstream. " alt="" coords="859,446,1017,567"/>
+<area shape="rect" id="node7" href="$d0/ddd/class_output_device___network.html" title="An output device for TCP/IP network connections. " alt="" coords="1042,424,1229,589"/>
+<area shape="rect" id="node8" href="$d5/def/class_output_device___string.html" title="An output device that encapsulates an ofstream. " alt="" coords="1253,439,1423,575"/>
+</map>

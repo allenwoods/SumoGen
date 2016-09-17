@@ -1,0 +1,17 @@
+<map id="NBOwnTLDef.h" name="NBOwnTLDef.h">
+<area shape="rect" id="node2" href="$d1/d09/_n_b_loaded_s_u_m_o_t_l_def_8cpp.html" title="NBLoadedSUMOTLDef.cpp" alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node3" href="$d4/d41/_n_b_node_8cpp.html" title="NBNode.cpp" alt="" coords="217,80,315,107"/>
+<area shape="rect" id="node4" href="$dd/d69/_n_b_node_cont_8cpp.html" title="NBNodeCont.cpp" alt="" coords="339,80,465,107"/>
+<area shape="rect" id="node5" href="$dc/d76/_n_b_own_t_l_def_8cpp.html" title="NBOwnTLDef.cpp" alt="" coords="489,80,619,107"/>
+<area shape="rect" id="node6" href="$dd/dc8/_n_b_traffic_light_definition_8cpp.html" title="NBTrafficLightDefinition.cpp" alt="" coords="643,80,828,107"/>
+<area shape="rect" id="node7" href="$db/d38/_n_b_traffic_light_logic_cont_8cpp.html" title="NBTrafficLightLogicCont.cpp" alt="" coords="852,80,1043,107"/>
+<area shape="rect" id="node8" href="$d2/d96/_g_n_e_change___t_l_s_8cpp.html" title="GNEChange_TLS.cpp" alt="" coords="1067,80,1222,107"/>
+<area shape="rect" id="node9" href="$df/dcd/_g_n_e_junction_8cpp.html" title="GNEJunction.cpp" alt="" coords="1246,80,1369,107"/>
+<area shape="rect" id="node10" href="$d6/da4/_n_g_edge_8cpp.html" title="NGEdge.cpp" alt="" coords="1393,80,1491,107"/>
+<area shape="rect" id="node11" href="$dc/de5/_n_g_node_8cpp.html" title="NGNode.cpp" alt="" coords="1515,80,1614,107"/>
+<area shape="rect" id="node12" href="$d9/dc6/_n_i_importer___dlr_navteq_8cpp.html" title="NIImporter_DlrNavteq.cpp" alt="" coords="1638,80,1811,107"/>
+<area shape="rect" id="node13" href="$dc/d0a/_n_i_importer___open_drive_8cpp.html" title="NIImporter_OpenDrive.cpp" alt="" coords="1836,80,2013,107"/>
+<area shape="rect" id="node14" href="$df/de0/_n_i_importer___open_street_map_8cpp.html" title="NIImporter_OpenStreetMap.cpp" alt="" coords="2037,80,2244,107"/>
+<area shape="rect" id="node15" href="$db/d29/_n_i_x_m_l_nodes_handler_8cpp.html" title="NIXMLNodesHandler.cpp" alt="" coords="2268,80,2440,107"/>
+<area shape="rect" id="node16" href="$dd/d7c/_n_i_x_m_l_traffic_lights_handler_8cpp.html" title="NIXMLTrafficLightsHandler.cpp" alt="" coords="2465,80,2670,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SUMOVehicle" name="SUMOVehicle">
+<area shape="rect" id="node2" href="$d9/dd6/class_m_s_base_vehicle.html" title="The base class for microscopic and mesoscopic vehicles. " alt="" coords="161,336,348,824"/>
+<area shape="rect" id="node3" href="$d4/dd3/class_m_e_vehicle.html" title="A vehicle from the mesoscopic point of view. " alt="" coords="8,2053,237,2409"/>
+<area shape="rect" id="node5" href="$d7/d90/class_m_s_vehicle.html" title="Representation of a vehicle in the micro simulation. " alt="" coords="261,872,512,3589"/>
+<area shape="rect" id="node4" href="$d1/de5/class_g_u_i_m_e_vehicle.html" title="A MSVehicle extended by some values for usage within the gui. " alt="" coords="5,3703,240,3942"/>
+<area shape="rect" id="node6" href="$d6/d17/class_g_u_i_vehicle.html" title="A MSVehicle extended by some values for usage within the gui. " alt="" coords="271,3637,503,4008"/>
+</map>

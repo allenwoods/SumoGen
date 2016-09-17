@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d84/class_output_formatter.html" title="Abstract base class for output formatters. " alt="" coords="5,31,121,57"/>
+<area shape="rect" id="node2" href="$dd/d05/class_binary_formatter.html" title="Output formatter for plain XML output. " alt="" coords="179,5,296,32"/>
+<area shape="rect" id="node3" href="$d3/d46/class_plain_x_m_l_formatter.html" title="Output formatter for plain XML output. " alt="" coords="169,56,305,83"/>
+</map>

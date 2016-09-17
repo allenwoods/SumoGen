@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d7c/class_r_o_routable.html" title="A routable thing such as a vehicle or person. " alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$d6/dba/class_r_o_person.html" title="A person as used by router. " alt="" coords="149,5,233,32"/>
+<area shape="rect" id="node3" href="$d5/d1b/class_r_o_vehicle.html" title="A vehicle as used by router. " alt="" coords="148,56,235,83"/>
+</map>

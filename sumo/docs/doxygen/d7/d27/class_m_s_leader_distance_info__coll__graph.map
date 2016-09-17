@@ -1,0 +1,3 @@
+<map id="MSLeaderDistanceInfo" name="MSLeaderDistanceInfo">
+<area shape="rect" id="node2" href="$d2/dd2/class_m_s_leader_info.html" title="{MSLeaderInfo\n|# egoLeftMost\l# egoRightMost\l# myFreeSublanes\l# myHasVehicles\l# myVehicles\l# myWidth\l|+ addLeader()\l+ clear()\l+ getSubLanes()\l+ hasStoppedVehicle()\l+ hasVehicles()\l+ MSLeaderInfo()\l+ numFreeSublanes()\l+ numSublanes()\l+ operator[]()\l+ toString()\l+ ~MSLeaderInfo()\l}" alt="" coords="19,5,178,303"/>
+</map>

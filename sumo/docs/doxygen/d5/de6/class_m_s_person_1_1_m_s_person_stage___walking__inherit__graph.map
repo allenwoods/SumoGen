@@ -1,0 +1,3 @@
+<map id="MSPerson::MSPersonStage_Walking" name="MSPerson::MSPersonStage_Walking">
+<area shape="rect" id="node2" href="$df/dce/class_m_s_transportable_1_1_stage.html" title="{MSTransportable::Stage\n|# myArrivalPos\l# myArrived\l# myDeparted\l# myDestination\l# myDestinationStop\l# myType\l|+ beginEventOutput()\l+ endEventOutput()\l+ getAngle()\l+ getArrivalPos()\l+ getDestination()\l+ getDestinationStop()\l+ getEdge()\l+ getEdgeAngle()\l+ getEdgePos()\l+ getEdgePosition()\land 17 more...\l&#45; operator=()\l&#45; Stage()\l}" alt="" coords="17,5,187,332"/>
+</map>

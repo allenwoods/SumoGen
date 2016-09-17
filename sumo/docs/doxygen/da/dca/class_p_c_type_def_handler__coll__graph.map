@@ -1,0 +1,8 @@
+<map id="PCTypeDefHandler" name="PCTypeDefHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="23,1701,186,1822"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,439,193,927"/>
+<area shape="rect" id="node5" href="$db/d31/class_options_cont.html" title="A storage for options typed value containers) " alt="" coords="210,989,447,2533"/>
+<area shape="rect" id="node6" href="$dd/d0a/class_p_c_type_map.html" title="A storage for type mappings. " alt="" coords="568,1686,695,1837"/>
+<area shape="rect" id="node7" href="$d0/dff/struct_p_c_type_map_1_1_type_def.html" title="A single definition of values that shall be used for a given type. " alt="" coords="551,615,711,751"/>
+<area shape="rect" id="node8" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="528,5,735,376"/>
+</map>

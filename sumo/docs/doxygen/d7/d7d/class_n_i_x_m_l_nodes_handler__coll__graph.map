@@ -1,0 +1,12 @@
+<map id="NIXMLNodesHandler" name="NIXMLNodesHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="97,1497,259,1618"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,220,193,708"/>
+<area shape="rect" id="node5" href="$db/d8c/class_n_b_node_cont.html" title="Container for nodes during the netbuilding process. " alt="" coords="291,1042,478,2073"/>
+<area shape="rect" id="node6" href="$de/dbf/class_named_r_tree.html" title="A RT&#45;tree for efficient storing of SUMO&#39;s Named objects. " alt="" coords="355,389,489,539"/>
+<area shape="rect" id="node8" href="$d9/d5e/class_n_b_traffic_light_logic_cont.html" title="A container for traffic light definitions and built programs. " alt="" coords="503,1394,669,1721"/>
+<area shape="rect" id="node9" href="$db/d31/class_options_cont.html" title="A storage for options typed value containers) " alt="" coords="693,785,930,2329"/>
+<area shape="rect" id="node10" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="984,337,1164,591"/>
+<area shape="rect" id="node11" href="$d7/d6c/class_geo_conv_helper.html" title="static methods for processing the coordinates conversion for the current net " alt="" coords="1173,1299,1378,1816"/>
+<area shape="rect" id="node12" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="1275,323,1407,605"/>
+<area shape="rect" id="node13" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="1278,5,1403,171"/>
+</map>

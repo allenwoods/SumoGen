@@ -1,0 +1,6 @@
+<map id="EulerSpiral" name="EulerSpiral">
+<area shape="rect" id="node2" href="$d0/d12/class_euler_spiral_params.html" title="{EulerSpiralParams\n|+ end_angle\l+ error\l+ gamma\l+ K0\l+ K2\l+ L\l+ psi\l+ start_angle\l+ turningAngle\l|+ EulerSpiralParams()\l+ EulerSpiralParams()\l+ operator=()\l+ ~EulerSpiralParams()\l}" alt="" coords="16,701,177,940"/>
+<area shape="rect" id="node3" href="$d1/d1d/class_point2_d.html" title="{Point2D\&lt; double \&gt;\n|# _x\l# _y\l|+ getX()\l+ getY()\l+ magnitude()\l+ operator!=()\l+ operator+=()\l+ operator&#45;=()\l+ operator=()\l+ operator=()\l+ operator==()\l+ operator[]()\land 12 more...\l}" alt="" coords="89,5,224,244"/>
+<area shape="rect" id="node5" href="$da/dda/class_bi_arc_params.html" title="{BiArcParams\n|+ dir1\l+ dir2\l+ E\l+ end_angle\l+ flag\l+ K1\l+ K2\l+ L1\l+ L2\l+ R1\l+ R2\l+ start_angle\l|+ BiArcParams()\l+ BiArcParams()\l+ L()\l+ operator=()\l+ scale()\l+ ~BiArcParams()\l}" alt="" coords="152,365,281,677"/>
+<area shape="rect" id="node4" href="$d8/ddd/class_bi_arc.html" title="{BiArc\n||+ BiArc()\l+ BiArc()\l+ compute_arclength()\l+ compute_biarc_params()\l+ compute_join_theta()\l+ compute_other_stuff()\l+ set_end_params()\l+ set_start_params()\l+ ~BiArc()\l}" alt="" coords="149,964,330,1159"/>
+</map>

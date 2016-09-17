@@ -1,0 +1,8 @@
+<map id="SUMO::Polygon" name="SUMO::Polygon">
+<area shape="rect" id="node2" href="$d7/da7/class_shape.html" title="A 2D&#45; or 3D&#45;Shape. " alt="" coords="143,439,327,956"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,115,123,266"/>
+<area shape="rect" id="node4" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="147,5,354,376"/>
+<area shape="rect" id="node5" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="351,593,495,802"/>
+<area shape="rect" id="node6" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="519,556,670,839"/>
+<area shape="rect" id="node7" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="528,108,653,273"/>
+</map>

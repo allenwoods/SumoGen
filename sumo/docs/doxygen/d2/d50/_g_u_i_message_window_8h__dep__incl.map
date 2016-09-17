@@ -1,0 +1,12 @@
+<map id="GUIMessageWindow.h" name="GUIMessageWindow.h">
+<area shape="rect" id="node2" href="$d7/dd2/_g_u_i_dialog___app_settings_8cpp.html" title="GUIDialog_AppSettings.cpp" alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node3" href="$d6/de8/_g_u_i_application_window_8cpp.html" title="GUIApplicationWindow.cpp" alt="" coords="217,80,399,107"/>
+<area shape="rect" id="node4" href="$d5/d18/_g_n_e_application_window_8cpp.html" title="GNEApplicationWindow.cpp" alt="" coords="169,155,357,181"/>
+<area shape="rect" id="node5" href="$d1/d49/_g_n_e_application_window_8h.html" title="GNEApplicationWindow.h" alt="" coords="475,80,650,107"/>
+<area shape="rect" id="node11" href="$df/dad/_g_u_i_message_window_8cpp.html" title="GUIMessageWindow.cpp" alt="" coords="674,80,849,107"/>
+<area shape="rect" id="node6" href="$d1/db1/_g_n_e_net_8cpp.html" title="GNENet.cpp" alt="" coords="381,155,475,181"/>
+<area shape="rect" id="node7" href="$d4/db5/_g_n_e_undo_list_8cpp.html" title="GNEUndoList.cpp" alt="" coords="499,155,626,181"/>
+<area shape="rect" id="node8" href="$dc/de5/_g_n_e_view_net_8cpp.html" title="GNEViewNet.cpp" alt="" coords="650,155,774,181"/>
+<area shape="rect" id="node9" href="$da/d40/_g_n_e_view_parent_8cpp.html" title="GNEViewParent.cpp" alt="" coords="798,155,941,181"/>
+<area shape="rect" id="node10" href="$de/d93/netedit__main_8cpp.html" title="netedit_main.cpp" alt="" coords="965,155,1088,181"/>
+</map>

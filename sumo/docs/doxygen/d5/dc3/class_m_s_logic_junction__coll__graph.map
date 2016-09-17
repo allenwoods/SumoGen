@@ -1,0 +1,7 @@
+<map id="MSLogicJunction" name="MSLogicJunction">
+<area shape="rect" id="node2" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="140,565,305,936"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,286,123,437"/>
+<area shape="rect" id="node4" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="147,220,298,503"/>
+<area shape="rect" id="node5" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="77,5,203,171"/>
+<area shape="rect" id="node7" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="322,235,502,488"/>
+</map>

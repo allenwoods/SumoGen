@@ -1,0 +1,3 @@
+<map id="CHRouter&lt; E, V, PF &gt;::CHConnection" name="CHRouter&lt; E, V, PF &gt;::CHConnection">
+<area shape="rect" id="node2" href="$da/d54/class_c_h_router_1_1_c_h_info.html" title="{CHRouter\&lt; E, V, PF\l \&gt;::CHInfo\n|+ approaching\l+ contractedNeighbors\l+ depth\l+ edge\l+ followers\l+ level\l+ permissions\l+ priority\l+ rank\l+ shortcuts\l+ traveltime\l+ underlyingTotal\l+ visited\l|+ CHInfo()\l+ debugNoWitness()\l+ debugWitness()\l+ reset()\l+ resetContractionState()\l+ updateLevel()\l+ updatePriority()\l+ updateShortcuts()\l}" alt="" coords="5,5,176,376"/>
+</map>

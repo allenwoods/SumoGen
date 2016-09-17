@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d2f/class_m_s_vehicle_control.html" title="The class responsible for building and deletion of vehicles. " alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$da/dd5/class_g_u_i_vehicle_control.html" title="The class responsible for building and deletion of vehicles (gui&#45;version) " alt="" coords="184,5,317,32"/>
+<area shape="rect" id="node3" href="$dd/d5b/class_m_e_vehicle_control.html" title="The class responsible for building and deletion of vehicles (gui&#45;version) " alt="" coords="186,56,315,83"/>
+<area shape="rect" id="node4" href="$d8/dc0/class_g_u_i_m_e_vehicle_control.html" title="The class responsible for building and deletion of vehicles (gui&#45;version) " alt="" coords="365,56,517,83"/>
+</map>

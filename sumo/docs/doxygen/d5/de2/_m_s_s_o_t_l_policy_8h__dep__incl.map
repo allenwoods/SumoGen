@@ -1,0 +1,22 @@
+<map id="MSSOTLPolicy.h" name="MSSOTLPolicy.h">
+<area shape="rect" id="node2" href="$dc/d85/_m_s_s_o_t_l_hi_level_traffic_light_logic_8h.html" title="MSSOTLHiLevelTrafficLight\lLogic.h" alt="" coords="713,80,903,121"/>
+<area shape="rect" id="node9" href="$dc/d3d/_m_s_s_o_t_l_phase_policy_8h.html" title="MSSOTLPhasePolicy.h" alt="" coords="525,87,689,114"/>
+<area shape="rect" id="node11" href="$db/de0/_m_s_s_o_t_l_platoon_policy_8h.html" title="MSSOTLPlatoonPolicy.h" alt="" coords="1151,87,1321,114"/>
+<area shape="rect" id="node13" href="$df/db1/_m_s_s_o_t_l_marching_policy_8h.html" title="MSSOTLMarchingPolicy.h" alt="" coords="1346,87,1526,114"/>
+<area shape="rect" id="node15" href="$dc/d51/_m_s_s_o_t_l_congestion_policy_8h.html" title="MSSOTLCongestionPolicy.h" alt="" coords="927,87,1121,114"/>
+<area shape="rect" id="node17" href="$d8/db7/_m_s_s_o_t_l_policy_8cpp.html" title="MSSOTLPolicy.cpp" alt="" coords="2084,87,2223,114"/>
+<area shape="rect" id="node18" href="$d0/d5f/_m_s_s_o_t_l_policy_based_traffic_light_logic_8h.html" title="MSSOTLPolicyBasedTraffic\lLightLogic.h" alt="" coords="1597,80,1790,121"/>
+<area shape="rect" id="node20" href="$d1/dde/_m_s_s_o_t_l_request_policy_8h.html" title="MSSOTLRequestPolicy.h" alt="" coords="1885,87,2059,114"/>
+<area shape="rect" id="node3" href="$d5/d27/_m_s_deterministic_hi_level_traffic_light_logic_8h.html" title="MSDeterministicHiLevelTraffic\lLightLogic.h" alt="" coords="923,169,1125,211"/>
+<area shape="rect" id="node6" href="$dd/dbb/_m_s_s_o_t_l_hi_level_traffic_light_logic_8cpp.html" title="MSSOTLHiLevelTrafficLight\lLogic.cpp" alt="" coords="259,169,448,211"/>
+<area shape="rect" id="node7" href="$d8/dae/_m_s_swarm_traffic_light_logic_8h.html" title="MSSwarmTrafficLightLogic.h" alt="" coords="705,177,898,203"/>
+<area shape="rect" id="node4" href="$d0/de1/_m_s_deterministic_hi_level_traffic_light_logic_8cpp.html" title="MSDeterministicHiLevelTraffic\lLightLogic.cpp" alt="" coords="927,259,1129,300"/>
+<area shape="rect" id="node5" href="$d8/d64/_n_l_junction_control_builder_8cpp.html" title="NLJunctionControlBuilder.cpp" alt="" coords="1275,266,1471,293"/>
+<area shape="rect" id="node8" href="$df/da6/_m_s_swarm_traffic_light_logic_8cpp.html" title="MSSwarmTrafficLightLogic.cpp" alt="" coords="695,266,902,293"/>
+<area shape="rect" id="node10" href="$d5/d1d/_m_s_s_o_t_l_phase_policy_8cpp.html" title="MSSOTLPhasePolicy.cpp" alt="" coords="5,177,184,203"/>
+<area shape="rect" id="node12" href="$d4/da4/_m_s_s_o_t_l_platoon_policy_8cpp.html" title="MSSOTLPlatoonPolicy.cpp" alt="" coords="1150,177,1335,203"/>
+<area shape="rect" id="node14" href="$d9/d34/_m_s_s_o_t_l_marching_policy_8cpp.html" title="MSSOTLMarchingPolicy.cpp" alt="" coords="1411,177,1605,203"/>
+<area shape="rect" id="node16" href="$d7/d56/_m_s_s_o_t_l_congestion_policy_8cpp.html" title="MSSOTLCongestionPolicy.cpp" alt="" coords="472,177,680,203"/>
+<area shape="rect" id="node19" href="$d4/d42/_m_s_s_o_t_l_policy_based_traffic_light_logic_8cpp.html" title="MSSOTLPolicyBasedTraffic\lLightLogic.cpp" alt="" coords="1731,169,1925,211"/>
+<area shape="rect" id="node21" href="$db/d4c/_m_s_s_o_t_l_request_policy_8cpp.html" title="MSSOTLRequestPolicy.cpp" alt="" coords="1949,177,2139,203"/>
+</map>

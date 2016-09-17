@@ -1,0 +1,6 @@
+<map id="Distribution_Points" name="Distribution_Points">
+<area shape="rect" id="node2" href="$d8/d4f/class_distribution.html" title="{Distribution\n||+ Distribution()\l+ getMax()\l+ ~Distribution()\l}" alt="" coords="7,308,121,415"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,13,123,163"/>
+<area shape="rect" id="node4" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="146,220,297,503"/>
+<area shape="rect" id="node5" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="152,5,277,171"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="MSBaseVehicle" name="MSBaseVehicle">
+<area shape="rect" id="node2" href="$db/d61/class_s_u_m_o_vehicle.html" title="Representation of a vehicle. " alt="" coords="23,2111,209,2394"/>
+<area shape="rect" id="node3" href="$de/da2/class_m_s_vehicle_type.html" title="The car&#45;following model and parameter. " alt="" coords="489,1635,706,2871"/>
+<area shape="rect" id="node4" href="$d1/d9d/class_m_s_c_f_model.html" title="The car&#45;following model abstraction. " alt="" coords="550,2933,757,3641"/>
+<area shape="rect" id="node5" href="$de/d76/class_s_u_m_o_v_type_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="505,754,690,1257"/>
+<area shape="rect" id="node6" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="525,86,669,295"/>
+<area shape="rect" id="node8" href="$d8/d51/class_s_u_m_o_vehicle_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="291,439,480,1572"/>
+<area shape="rect" id="node9" href="$de/dd8/class_m_s_route.html" title="{MSRoute\n|&#45; myAmPermanent\l&#45; myCosts\l&#45; myEdges\l&#45; myReferenceCounter\l&#45; myStops\l&#45; myDict\l&#45; myDistDict\l|+ addReference()\l+ begin()\l+ contains()\l+ containsAnyOf()\l+ end()\l+ getColor()\l+ getCosts()\l+ getDistanceBetween()\l+ getDistanceBetween()\l+ getEdges()\land 9 more...\l+ checkDist()\l+ clear()\l+ dictionary()\l+ dictionary()\l+ dictionary()\l+ distDictionary()\l+ insertIDs()\l+ dict_saveState()\l&#45; operator=()\l* dict_saveState()\l}" alt="" coords="99,776,266,1235"/>
+<area shape="rect" id="node7" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="147,5,354,376"/>
+<area shape="rect" id="node10" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,115,123,266"/>
+</map>

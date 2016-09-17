@@ -1,0 +1,25 @@
+<map id="MSRailCrossing.h" name="MSRailCrossing.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1043,617,1111,644"/>
+<area shape="rect" id="node3" href="$de/d3f/_m_s_simple_traffic_light_logic_8h.html" title="MSSimpleTrafficLightLogic.h" alt="" coords="193,80,385,107"/>
+<area shape="rect" id="node30" href="$d8/d54/_m_s_phase_definition_8h.html" title="MSPhaseDefinition.h" alt="" coords="848,311,995,338"/>
+<area shape="rect" id="node35" href="$d0/df9/_m_s_t_l_logic_control_8h.html" title="MSTLLogicControl.h" alt="" coords="1923,311,2069,338"/>
+<area shape="rect" id="node7" href="$de/d43/_m_s_traffic_light_logic_8h.html" title="MSTrafficLightLogic.h" alt="" coords="933,155,1083,181"/>
+<area shape="rect" id="node10" href="$d6/d37/_command_8h.html" title="utils/common/Command.h" alt="" coords="2721,393,2900,420"/>
+<area shape="rect" id="node15" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="1577,468,1781,495"/>
+<area shape="rect" id="node16" href="$dc/da4/_m_s_logic_junction_8h.html" title="microsim/MSLogicJunction.h" alt="" coords="627,229,819,256"/>
+<area shape="rect" id="node28" href="$da/d9c/_m_s_link_8h.html" title="microsim/MSLink.h" alt="" coords="1873,229,2007,256"/>
+<area shape="rect" id="node11" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="2701,468,2888,495"/>
+<area shape="rect" id="node13" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="2739,543,2853,569"/>
+<area shape="rect" id="node17" href="$d8/d61/_m_s_junction_8h.html" title="MSJunction.h" alt="" coords="1211,311,1312,338"/>
+<area shape="rect" id="node27" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="523,311,685,338"/>
+<area shape="rect" id="node18" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="620,543,767,569"/>
+<area shape="rect" id="node21" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="499,393,685,420"/>
+<area shape="rect" id="node23" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="2234,393,2393,420"/>
+<area shape="rect" id="node25" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1013,393,1225,420"/>
+<area shape="rect" id="node22" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="427,468,533,495"/>
+<area shape="rect" id="node26" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2059,468,2259,495"/>
+<area shape="rect" id="node29" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2457,304,2647,345"/>
+<area shape="rect" id="node31" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="1166,468,1354,495"/>
+<area shape="rect" id="node32" href="$d3/d5c/_options_cont_8h.html" title="utils/options/OptionsCont.h" alt="" coords="1429,393,1608,420"/>
+<area shape="rect" id="node33" href="$da/d39/_option_8h.html" title="Option.h" alt="" coords="1430,468,1501,495"/>
+</map>

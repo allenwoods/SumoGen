@@ -1,0 +1,20 @@
+<map id="GNEChange_Lane.h" name="GNEChange_Lane.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1013,468,1081,495"/>
+<area shape="rect" id="node4" href="$df/de6/fxexdefs_8h.html" title="utils/foxtools/fxexdefs.h" alt="" coords="145,162,306,189"/>
+<area shape="rect" id="node6" href="$d8/d0b/_n_b_edge_8h.html" title="netbuild/NBEdge.h" alt="" coords="1278,80,1410,107"/>
+<area shape="rect" id="node30" href="$d9/d99/_g_n_e_change_8h.html" title="GNEChange.h" alt="" coords="94,80,202,107"/>
+<area shape="rect" id="node11" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1646,319,1805,345"/>
+<area shape="rect" id="node13" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="2203,319,2407,345"/>
+<area shape="rect" id="node14" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1709,393,1907,420"/>
+<area shape="rect" id="node16" href="$d0/d40/_vector_helper_8h.html" title="utils/common/VectorHelper.h" alt="" coords="534,319,727,345"/>
+<area shape="rect" id="node19" href="$de/dc6/_bresenham_8h.html" title="utils/geom/Bresenham.h" alt="" coords="457,162,623,189"/>
+<area shape="rect" id="node20" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="925,162,1110,189"/>
+<area shape="rect" id="node24" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1381,155,1571,196"/>
+<area shape="rect" id="node26" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="925,244,1137,271"/>
+<area shape="rect" id="node27" href="$db/dde/_n_b_cont_8h.html" title="NBCont.h" alt="" coords="905,319,983,345"/>
+<area shape="rect" id="node28" href="$da/d0c/_n_b_helpers_8h.html" title="NBHelpers.h" alt="" coords="1880,319,1976,345"/>
+<area shape="rect" id="node29" href="$d0/d5f/_n_b_sign_8h.html" title="NBSign.h" alt="" coords="1392,244,1469,271"/>
+<area shape="rect" id="node21" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="1261,244,1368,271"/>
+<area shape="rect" id="node22" href="$d4/d51/_position_8h.html" title="Position.h" alt="" coords="1216,319,1296,345"/>
+<area shape="rect" id="node25" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1320,319,1520,345"/>
+</map>

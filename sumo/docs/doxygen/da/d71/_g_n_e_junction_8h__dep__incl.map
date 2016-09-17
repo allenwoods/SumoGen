@@ -1,0 +1,21 @@
+<map id="GNEJunction.h" name="GNEJunction.h">
+<area shape="rect" id="node2" href="$d0/d4b/_g_n_e_additional_frame_8cpp.html" title="GNEAdditionalFrame.cpp" alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$d7/dd1/_g_n_e_additional_handler_8cpp.html" title="GNEAdditionalHandler.cpp" alt="" coords="203,80,384,107"/>
+<area shape="rect" id="node4" href="$d5/d18/_g_n_e_application_window_8cpp.html" title="GNEApplicationWindow.cpp" alt="" coords="409,80,597,107"/>
+<area shape="rect" id="node5" href="$df/d20/_g_n_e_bus_stop_8cpp.html" title="GNEBusStop.cpp" alt="" coords="621,80,745,107"/>
+<area shape="rect" id="node6" href="$d3/dd7/_g_n_e_change___junction_8cpp.html" title="GNEChange_Junction.cpp" alt="" coords="769,80,948,107"/>
+<area shape="rect" id="node7" href="$d2/d96/_g_n_e_change___t_l_s_8cpp.html" title="GNEChange_TLS.cpp" alt="" coords="972,80,1127,107"/>
+<area shape="rect" id="node8" href="$dc/d53/_g_n_e_charging_station_8cpp.html" title="GNEChargingStation.cpp" alt="" coords="1151,80,1321,107"/>
+<area shape="rect" id="node9" href="$da/d3f/_g_n_e_connection_8cpp.html" title="GNEConnection.cpp" alt="" coords="1346,80,1489,107"/>
+<area shape="rect" id="node10" href="$d2/d0e/_g_n_e_connector_frame_8cpp.html" title="GNEConnectorFrame.cpp" alt="" coords="1513,80,1687,107"/>
+<area shape="rect" id="node11" href="$da/d2f/_g_n_e_container_stop_8cpp.html" title="GNEContainerStop.cpp" alt="" coords="1711,80,1870,107"/>
+<area shape="rect" id="node12" href="$d1/d51/_g_n_e_crossing_8cpp.html" title="GNECrossing.cpp" alt="" coords="1895,80,2023,107"/>
+<area shape="rect" id="node13" href="$de/dc8/_g_n_e_edge_8cpp.html" title="GNEEdge.cpp" alt="" coords="2047,80,2153,107"/>
+<area shape="rect" id="node14" href="$df/dcd/_g_n_e_junction_8cpp.html" title="GNEJunction.cpp" alt="" coords="2177,80,2300,107"/>
+<area shape="rect" id="node15" href="$d0/d3f/_g_n_e_lane_8cpp.html" title="GNELane.cpp" alt="" coords="2324,80,2428,107"/>
+<area shape="rect" id="node16" href="$d1/db1/_g_n_e_net_8cpp.html" title="GNENet.cpp" alt="" coords="2453,80,2547,107"/>
+<area shape="rect" id="node17" href="$dc/d2e/_g_n_e_selector_frame_8cpp.html" title="GNESelectorFrame.cpp" alt="" coords="2572,80,2735,107"/>
+<area shape="rect" id="node18" href="$df/da7/_g_n_e_stopping_place_8cpp.html" title="GNEStoppingPlace.cpp" alt="" coords="2759,80,2921,107"/>
+<area shape="rect" id="node19" href="$d2/d78/_g_n_e_t_l_s_editor_frame_8cpp.html" title="GNETLSEditorFrame.cpp" alt="" coords="2945,80,3119,107"/>
+<area shape="rect" id="node20" href="$dc/de5/_g_n_e_view_net_8cpp.html" title="GNEViewNet.cpp" alt="" coords="3143,80,3267,107"/>
+</map>

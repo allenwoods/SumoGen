@@ -1,0 +1,5 @@
+<map id="GeoConvHelper" name="GeoConvHelper">
+<area shape="rect" id="node2" href="$d5/dda/class_boundary.html" title="A class that stores a 2D geometrical boundary. " alt="" coords="5,220,137,503"/>
+<area shape="rect" id="node3" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="9,5,134,171"/>
+<area shape="rect" id="node4" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="161,235,341,488"/>
+</map>

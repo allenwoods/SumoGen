@@ -1,0 +1,4 @@
+<map id="PublicTransportEdge&lt; E, L, N, V &gt;" name="PublicTransportEdge&lt; E, L, N, V &gt;">
+<area shape="rect" id="node2" href="$d7/df8/class_intermodal_edge.html" title="the base edge type that is given to the internal router (SUMOAbstractRouter) " alt="" coords="6,204,173,604"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="31,5,148,156"/>
+</map>

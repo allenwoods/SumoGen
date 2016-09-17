@@ -1,0 +1,31 @@
+<map id="MSSOTLPlatoonTrafficLightLogic.cpp" name="MSSOTLPlatoonTrafficLightLogic.cpp">
+<area shape="rect" id="node2" href="$d0/d64/_m_s_s_o_t_l_platoon_traffic_light_logic_8h.html" title="MSSOTLPlatoonTrafficLight\lLogic.h" alt="" coords="638,95,829,136"/>
+<area shape="rect" id="node3" href="$db/d16/config_8h.html" title="config.h" alt="" coords="2042,885,2110,912"/>
+<area shape="rect" id="node4" href="$d7/d2e/_m_s_s_o_t_l_traffic_light_logic_8h.html" title="MSSOTLTrafficLightLogic.h" alt="" coords="1369,184,1556,211"/>
+<area shape="rect" id="node5" href="$d5/d76/_swarm_debug_8h.html" title="utils/common/SwarmDebug.h" alt="" coords="144,557,341,584"/>
+<area shape="rect" id="node7" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="3597,729,3784,755"/>
+<area shape="rect" id="node12" href="$dc/df4/_m_s_s_o_t_l_definitions_8h.html" title="MSSOTLDefinitions.h" alt="" coords="1839,408,1990,435"/>
+<area shape="rect" id="node42" href="$d7/d4b/_m_s_phased_traffic_light_logic_8h.html" title="MSPhasedTrafficLightLogic.h" alt="" coords="3551,483,3750,509"/>
+<area shape="rect" id="node46" href="$dc/de6/_m_s_s_o_t_l_e2_sensors_8h.html" title="MSSOTLE2Sensors.h" alt="" coords="1386,259,1539,285"/>
+<area shape="rect" id="node48" href="$d6/d68/_rand_helper_8h.html" title="utils/common/RandHelper.h" alt="" coords="545,557,732,584"/>
+<area shape="rect" id="node50" href="$de/d4a/_tpl_convert_8h.html" title="utils/common/TplConvert.h" alt="" coords="3339,729,3522,755"/>
+<area shape="rect" id="node10" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="3699,811,3813,837"/>
+<area shape="rect" id="node16" href="$d7/d04/_m_s_e2_collector_8h.html" title="microsim/output/MSE2Collector.h" alt="" coords="1525,483,1744,509"/>
+<area shape="rect" id="node19" href="$d3/d38/_m_s_lane_8h.html" title="microsim/MSLane.h" alt="" coords="1233,557,1373,584"/>
+<area shape="rect" id="node21" href="$d8/dbf/_s_u_m_o_vehicle_8h.html" title="utils/vehicle/SUMOVehicle.h" alt="" coords="798,639,989,666"/>
+<area shape="rect" id="node23" href="$db/dd5/_m_s_move_reminder_8h.html" title="MSMoveReminder.h" alt="" coords="1549,639,1693,666"/>
+<area shape="rect" id="node25" href="$d9/dfa/_m_s_net_8h.html" title="microsim/MSNet.h" alt="" coords="2345,557,2476,584"/>
+<area shape="rect" id="node41" href="$de/d2f/_m_s_detector_file_output_8h.html" title="microsim/output/MSDetector\lFileOutput.h" alt="" coords="2845,632,3035,673"/>
+<area shape="rect" id="node24" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="2444,811,2524,837"/>
+<area shape="rect" id="node30" href="$de/d52/_m_s_vehicle_control_8h.html" title="MSVehicleControl.h" alt="" coords="2482,639,2622,666"/>
+<area shape="rect" id="node32" href="$d9/d94/_m_s_event_control_8h.html" title="MSEventControl.h" alt="" coords="3215,639,3343,666"/>
+<area shape="rect" id="node34" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="1115,639,1271,666"/>
+<area shape="rect" id="node35" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="1129,729,1276,755"/>
+<area shape="rect" id="node36" href="$d8/d15/_m_s_charging_station_8h.html" title="microsim/trigger/MSCharging\lStation.h" alt="" coords="2104,632,2301,673"/>
+<area shape="rect" id="node38" href="$da/dc5/_m_s_stopping_place_8h.html" title="microsim/MSStoppingPlace.h" alt="" coords="2265,729,2463,755"/>
+<area shape="rect" id="node40" href="$dd/d01/_named_object_cont_8h.html" title="utils/common/NamedObject\lCont.h" alt="" coords="2689,721,2876,763"/>
+<area shape="rect" id="node44" href="$de/d43/_m_s_traffic_light_logic_8h.html" title="MSTrafficLightLogic.h" alt="" coords="3773,557,3923,584"/>
+<area shape="rect" id="node45" href="$d8/d54/_m_s_phase_definition_8h.html" title="MSPhaseDefinition.h" alt="" coords="3775,639,3921,666"/>
+<area shape="rect" id="node47" href="$d2/dee/_m_s_s_o_t_l_sensors_8h.html" title="MSSOTLSensors.h" alt="" coords="1524,333,1663,360"/>
+<area shape="rect" id="node49" href="$da/d3b/_mersenne_twister_8h.html" title="foreign/mersenne/Mersenne\lTwister.h" alt="" coords="390,632,581,673"/>
+</map>

@@ -1,0 +1,27 @@
+var class_r_o_person_1_1_person_trip =
+[
+    [ "PersonTrip", "dc/d1b/class_r_o_person_1_1_person_trip.html#aabe1cc844356db26205b242b4d2f600a", null ],
+    [ "PersonTrip", "dc/d1b/class_r_o_person_1_1_person_trip.html#a970a1ff2ba549b2d275611a16645ee9b", null ],
+    [ "~PersonTrip", "dc/d1b/class_r_o_person_1_1_person_trip.html#a2a87dca414e3165d988b55154b15e942", null ],
+    [ "addTripItem", "dc/d1b/class_r_o_person_1_1_person_trip.html#a94ee6a509cd4409a123aa86a097a7c5c", null ],
+    [ "addVehicle", "dc/d1b/class_r_o_person_1_1_person_trip.html#add944e0e1a5dc94ba2d087e1b2c18a5f", null ],
+    [ "getArrivalPos", "dc/d1b/class_r_o_person_1_1_person_trip.html#a09638456c2abcc265df6f0f6484f5ccd", null ],
+    [ "getDepartPos", "dc/d1b/class_r_o_person_1_1_person_trip.html#aad0a65853be0be9898ab935dde6e6b22", null ],
+    [ "getDestination", "dc/d1b/class_r_o_person_1_1_person_trip.html#ab2cb3fa28edca567984819873b5b7973", null ],
+    [ "getModes", "dc/d1b/class_r_o_person_1_1_person_trip.html#a4d38bbd6a192f5be004115fcf1bbb845", null ],
+    [ "getOrigin", "dc/d1b/class_r_o_person_1_1_person_trip.html#a551ea2442fc96bea4a45cf74e452975b", null ],
+    [ "getVehicles", "dc/d1b/class_r_o_person_1_1_person_trip.html#a9f066e809364df2596b97cfaa87dcd91", null ],
+    [ "isStop", "dc/d1b/class_r_o_person_1_1_person_trip.html#a10aaefe067f71edc5cc49ffb29589a3a", null ],
+    [ "needsRouting", "dc/d1b/class_r_o_person_1_1_person_trip.html#a4357c60960e912eb76526fc36f645faa", null ],
+    [ "operator=", "dc/d1b/class_r_o_person_1_1_person_trip.html#ae1068f0721689a9f3c1e5bcddd115948", null ],
+    [ "saveAsXML", "dc/d1b/class_r_o_person_1_1_person_trip.html#a0aedf774d96063f555f63ab72e5cfc90", null ],
+    [ "saveVehicles", "dc/d1b/class_r_o_person_1_1_person_trip.html#a5aeb8dca76ec6c65669a6ad20adc8c18", null ],
+    [ "arr", "dc/d1b/class_r_o_person_1_1_person_trip.html#a72c8b131504e6647af64574b825c9209", null ],
+    [ "busStop", "dc/d1b/class_r_o_person_1_1_person_trip.html#aa408202c9fb7e46877d858844b127897", null ],
+    [ "dep", "dc/d1b/class_r_o_person_1_1_person_trip.html#a534bcad72ee67d0e91dff9dd057deecd", null ],
+    [ "from", "dc/d1b/class_r_o_person_1_1_person_trip.html#a7e1139d5510fa82613ffcb1ffc5909d3", null ],
+    [ "modes", "dc/d1b/class_r_o_person_1_1_person_trip.html#a77a2b7acc2cc79c29a0f0b3212b4bac0", null ],
+    [ "myTripItems", "dc/d1b/class_r_o_person_1_1_person_trip.html#acd43bc0b1957e154bfcf15ea5e74a3e0", null ],
+    [ "myVehicles", "dc/d1b/class_r_o_person_1_1_person_trip.html#a7a8618b5bdf42e758db02bfb5e15b32d", null ],
+    [ "to", "dc/d1b/class_r_o_person_1_1_person_trip.html#ac3daa9075f74a55f42c69ca149e1ae32", null ]
+];

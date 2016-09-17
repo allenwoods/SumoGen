@@ -15,7 +15,8 @@ from itertools import cycle
 
 from lxml import etree
 
-sumo_root = 'sumo-0.27.1'
+sumo_root = 'sumo'
+os.environ.setdefault('SUMO_HOME', os.path.join(os.getcwd(), sumo_root))
 
 try:
     print('SUMO_ROOT: %s' % sumo_root)
@@ -90,9 +91,9 @@ class SumoCfg:
         :return:
         """
         self.gen_network(self.xnumber, self.ynumber, self.xlength, self.ylength,
-                         nettype=self.nettype, tlstype=self.tlstype)  # Set length to 400
+                         nettype=self.nettype, tlstype=self.tlstype)
         self.gen_randomtrips(self.rouprob, endtime=self.steps, period=self.period,
-                             binomial=self.binominal)  # Set edge prop to 10
+                             binomial=self.binominal)
 
         if withdet:
             self.sumocfg = self.gen_sumocfg(withdetector=True)
@@ -313,6 +314,9 @@ def create_sumo_cfg(data_dir, no):
 if __name__ == '__main__':
     # Test funtion and prepare the simulation environments.
     data_dir = os.path.join(os.getcwd(), 'tmp')
+    if not os.path.isdir(data_dir):
+        os.makedirs(data_dir)
+
     from multiprocessing import Pool, cpu_count
     from functools import partial
 

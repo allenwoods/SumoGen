@@ -1,0 +1,35 @@
+<map id="GNEUndoList.cpp" name="GNEUndoList.cpp">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1809,557,1877,584"/>
+<area shape="rect" id="node4" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="3802,483,4001,509"/>
+<area shape="rect" id="node7" href="$db/d7d/_g_n_e_undo_list_8h.html" title="GNEUndoList.h" alt="" coords="432,326,544,353"/>
+<area shape="rect" id="node10" href="$d7/dcd/_g_n_e_change___attribute_8h.html" title="GNEChange_Attribute.h" alt="" coords="281,244,444,271"/>
+<area shape="rect" id="node18" href="$d1/d49/_g_n_e_application_window_8h.html" title="GNEApplicationWindow.h" alt="" coords="1401,80,1575,107"/>
+<area shape="rect" id="node11" href="$df/de6/fxexdefs_8h.html" title="utils/foxtools/fxexdefs.h" alt="" coords="145,408,306,435"/>
+<area shape="rect" id="node13" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2005,326,2217,353"/>
+<area shape="rect" id="node17" href="$d9/d99/_g_n_e_change_8h.html" title="GNEChange.h" alt="" coords="83,326,191,353"/>
+<area shape="rect" id="node14" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="3152,408,3352,435"/>
+<area shape="rect" id="node19" href="$d6/d5c/_m_f_x_event_que_8h.html" title="utils/foxtools/MFXEventQue.h" alt="" coords="569,326,765,353"/>
+<area shape="rect" id="node24" href="$d3/da1/_f_x_thread_event_8h.html" title="utils/foxtools/FXThreadEvent.h" alt="" coords="1043,326,1248,353"/>
+<area shape="rect" id="node28" href="$d5/d44/_m_f_x_inter_thread_event_client_8h.html" title="utils/foxtools/MFXInterThread\lEventClient.h" alt="" coords="875,155,1074,196"/>
+<area shape="rect" id="node29" href="$d7/d78/_shape_handler_8h.html" title="utils/shapes/ShapeHandler.h" alt="" coords="3290,162,3483,189"/>
+<area shape="rect" id="node35" href="$db/d7d/_g_u_i_main_window_8h.html" title="utils/gui/windows/GUIMain\lWindow.h" alt="" coords="1774,155,1954,196"/>
+<area shape="rect" id="node39" href="$d8/d3a/_g_u_i_s_u_m_o_abstract_view_8h.html" title="utils/gui/windows/GUISUMOAbstract\lView.h" alt="" coords="2745,155,2983,196"/>
+<area shape="rect" id="node48" href="$d1/d4a/_g_u_i_message_window_8h.html" title="utils/gui/div/GUIMessage\lWindow.h" alt="" coords="1277,155,1451,196"/>
+<area shape="rect" id="node22" href="$d4/de0/_m_f_x_mutex_8h.html" title="utils/foxtools/MFXMutex.h" alt="" coords="1830,408,2005,435"/>
+<area shape="rect" id="node23" href="$da/dde/_abstract_mutex_8h.html" title="utils/common/AbstractMutex.h" alt="" coords="1879,483,2078,509"/>
+<area shape="rect" id="node25" href="$d6/d2d/_f_x_base_object_8h.html" title="FXBaseObject.h" alt="" coords="1145,408,1263,435"/>
+<area shape="rect" id="node30" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="4147,408,4325,435"/>
+<area shape="rect" id="node31" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="4280,483,4427,509"/>
+<area shape="rect" id="node33" href="$d2/d70/_s_u_m_o_s_a_x_handler_8h.html" title="utils/xml/SUMOSAXHandler.h" alt="" coords="3288,244,3485,271"/>
+<area shape="rect" id="node34" href="$d3/d23/_generic_s_a_x_handler_8h.html" title="utils/xml/GenericSAXHandler.h" alt="" coords="3113,326,3319,353"/>
+<area shape="rect" id="node36" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="1824,244,1904,271"/>
+<area shape="rect" id="node37" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="3683,408,3869,435"/>
+<area shape="rect" id="node41" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="3349,326,3505,353"/>
+<area shape="rect" id="node44" href="$da/d08/_polygon_8h.html" title="utils/shapes/Polygon.h" alt="" coords="2619,244,2776,271"/>
+<area shape="rect" id="node46" href="$db/dcf/_g_u_i_gl_object_types_8h.html" title="utils/gui/globjects\l/GUIGlObjectTypes.h" alt="" coords="1627,319,1778,360"/>
+<area shape="rect" id="node47" href="$db/d96/_s_u_m_o_r_tree_8h.html" title="foreign/rtree/SUMORTree.h" alt="" coords="1979,244,2165,271"/>
+<area shape="rect" id="node43" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="3376,408,3483,435"/>
+<area shape="rect" id="node45" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="2697,326,2882,353"/>
+<area shape="rect" id="node49" href="$da/daf/_g_u_i_event_8h.html" title="utils/gui/events/GUIEvent.h" alt="" coords="1219,244,1400,271"/>
+<area shape="rect" id="node50" href="$d1/d3f/_output_device_8h.html" title="utils/iodevices/OutputDevice.h" alt="" coords="2341,244,2544,271"/>
+</map>

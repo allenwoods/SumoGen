@@ -1,0 +1,4 @@
+<map id="RORoute" name="RORoute">
+<area shape="rect" id="node2" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="5,115,123,266"/>
+<area shape="rect" id="node3" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="147,5,354,376"/>
+</map>

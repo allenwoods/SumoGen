@@ -1,0 +1,17 @@
+<map id="MSDevice_Battery" name="MSDevice_Battery">
+<area shape="rect" id="node2" href="$d1/d46/class_m_s_device.html" title="Abstract in&#45;vehicle device. " alt="" coords="269,5804,500,6087"/>
+<area shape="rect" id="node3" href="$d2/da5/class_m_s_move_reminder.html" title="Something on a lane to be noticed about vehicle movement. " alt="" coords="483,5349,731,5661"/>
+<area shape="rect" id="node4" href="$d9/d16/class_m_s_lane.html" title="Representation of a lane in the micro simulation. " alt="" coords="481,2943,741,5235"/>
+<area shape="rect" id="node17" href="$d2/d39/class_m_s_stopping_place.html" title="A lane area vehicles can halt at. " alt="" coords="5,5297,196,5712"/>
+<area shape="rect" id="node5" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="437,286,554,437"/>
+<area shape="rect" id="node7" href="$d7/d27/class_m_s_edge.html" title="A road/street connecting two junctions. " alt="" coords="837,1043,1052,2851"/>
+<area shape="rect" id="node9" href="$d2/de4/class_m_s_junction.html" title="The base class for an intersection. " alt="" coords="966,580,1131,951"/>
+<area shape="rect" id="node6" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="747,661,891,870"/>
+<area shape="rect" id="node8" href="$d6/dad/class_m_s_lane_changer.html" title="Performs lane changing of vehicles. " alt="" coords="1156,565,1349,965"/>
+<area shape="rect" id="node10" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="720,220,871,503"/>
+<area shape="rect" id="node11" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="650,5,775,171"/>
+<area shape="rect" id="node13" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="959,235,1139,488"/>
+<area shape="rect" id="node14" href="$d2/dd2/class_m_s_leader_info.html" title="{MSLeaderInfo\n|# egoLeftMost\l# egoRightMost\l# myFreeSublanes\l# myHasVehicles\l# myVehicles\l# myWidth\l|+ addLeader()\l+ clear()\l+ getSubLanes()\l+ hasStoppedVehicle()\l+ hasVehicles()\l+ MSLeaderInfo()\l+ numFreeSublanes()\l+ numSublanes()\l+ operator[]()\l+ toString()\l+ ~MSLeaderInfo()\l}" alt="" coords="533,1798,692,2095"/>
+<area shape="rect" id="node15" href="$db/d61/class_s_u_m_o_vehicle.html" title="Representation of a vehicle. " alt="" coords="221,5363,407,5646"/>
+<area shape="rect" id="node16" href="$d0/d1b/class_m_s_charging_station.html" title="{MSChargingStation\n|# myChargeDelay\l# myChargeInTransit\l# myChargingPower\l# myChargingVehicle\l# myEfficiency\l|+ getChargeDelay()\l+ getChargeInTransit()\l+ getChargingPower()\l+ getEfficency()\l+ isCharging()\l+ MSChargingStation()\l+ setChargeDelay()\l+ setChargeInTransit()\l+ setChargingPower()\l+ setChargingVehicle()\l+ setEfficency()\l+ vehicleIsInside()\l+ ~MSChargingStation()\l&#45; MSChargingStation()\l&#45; operator=()\l}" alt="" coords="64,5775,231,6116"/>
+</map>

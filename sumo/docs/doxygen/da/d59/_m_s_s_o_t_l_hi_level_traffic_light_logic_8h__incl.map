@@ -1,0 +1,32 @@
+<map id="MSSOTLHiLevelTrafficLightLogic.h" name="MSSOTLHiLevelTrafficLightLogic.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1383,945,1451,972"/>
+<area shape="rect" id="node3" href="$d5/d76/_swarm_debug_8h.html" title="utils/common/SwarmDebug.h" alt="" coords="245,550,443,577"/>
+<area shape="rect" id="node6" href="$d5/da9/_m_s_s_o_t_l_policy_8h.html" title="MSSOTLPolicy.h" alt="" coords="612,393,737,420"/>
+<area shape="rect" id="node31" href="$d7/d2e/_m_s_s_o_t_l_traffic_light_logic_8h.html" title="MSSOTLTrafficLightLogic.h" alt="" coords="1024,95,1211,121"/>
+<area shape="rect" id="node10" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="926,632,1130,659"/>
+<area shape="rect" id="node13" href="$d8/d54/_m_s_phase_definition_8h.html" title="MSPhaseDefinition.h" alt="" coords="3216,632,3363,659"/>
+<area shape="rect" id="node25" href="$d1/dce/_m_s_s_o_t_l_policy_desirability_8h.html" title="MSSOTLPolicyDesirability.h" alt="" coords="550,468,741,495"/>
+<area shape="rect" id="node15" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="3833,796,4021,823"/>
+<area shape="rect" id="node17" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="1631,796,1817,823"/>
+<area shape="rect" id="node21" href="$d3/d5c/_options_cont_8h.html" title="utils/options/OptionsCont.h" alt="" coords="3233,714,3412,741"/>
+<area shape="rect" id="node23" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2694,714,2906,741"/>
+<area shape="rect" id="node19" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="2465,871,2580,897"/>
+<area shape="rect" id="node22" href="$da/d39/_option_8h.html" title="Option.h" alt="" coords="2891,796,2962,823"/>
+<area shape="rect" id="node24" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="2668,796,2868,823"/>
+<area shape="rect" id="node26" href="$de/d4a/_tpl_convert_8h.html" title="utils/common/TplConvert.h" alt="" coords="873,550,1055,577"/>
+<area shape="rect" id="node29" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1205,632,1368,659"/>
+<area shape="rect" id="node32" href="$dc/df4/_m_s_s_o_t_l_definitions_8h.html" title="MSSOTLDefinitions.h" alt="" coords="1231,319,1382,345"/>
+<area shape="rect" id="node45" href="$d7/d4b/_m_s_phased_traffic_light_logic_8h.html" title="MSPhasedTrafficLightLogic.h" alt="" coords="2943,468,3142,495"/>
+<area shape="rect" id="node47" href="$dc/de6/_m_s_s_o_t_l_e2_sensors_8h.html" title="MSSOTLE2Sensors.h" alt="" coords="1174,169,1327,196"/>
+<area shape="rect" id="node49" href="$d6/d68/_rand_helper_8h.html" title="utils/common/RandHelper.h" alt="" coords="2068,468,2255,495"/>
+<area shape="rect" id="node33" href="$d7/d04/_m_s_e2_collector_8h.html" title="microsim/output/MSE2Collector.h" alt="" coords="1545,393,1764,420"/>
+<area shape="rect" id="node35" href="$d3/d38/_m_s_lane_8h.html" title="microsim/MSLane.h" alt="" coords="1498,468,1638,495"/>
+<area shape="rect" id="node37" href="$d8/dbf/_s_u_m_o_vehicle_8h.html" title="utils/vehicle/SUMOVehicle.h" alt="" coords="1629,714,1819,741"/>
+<area shape="rect" id="node39" href="$db/dd5/_m_s_move_reminder_8h.html" title="MSMoveReminder.h" alt="" coords="1393,550,1537,577"/>
+<area shape="rect" id="node40" href="$d9/dfa/_m_s_net_8h.html" title="microsim/MSNet.h" alt="" coords="2283,632,2413,659"/>
+<area shape="rect" id="node44" href="$de/d2f/_m_s_detector_file_output_8h.html" title="microsim/output/MSDetector\lFileOutput.h" alt="" coords="1414,707,1605,748"/>
+<area shape="rect" id="node42" href="$d9/d94/_m_s_event_control_8h.html" title="MSEventControl.h" alt="" coords="2492,714,2620,741"/>
+<area shape="rect" id="node46" href="$de/d43/_m_s_traffic_light_logic_8h.html" title="MSTrafficLightLogic.h" alt="" coords="2386,550,2537,577"/>
+<area shape="rect" id="node48" href="$d2/dee/_m_s_s_o_t_l_sensors_8h.html" title="MSSOTLSensors.h" alt="" coords="1383,244,1521,271"/>
+<area shape="rect" id="node50" href="$da/d3b/_mersenne_twister_8h.html" title="foreign/mersenne/Mersenne\lTwister.h" alt="" coords="2119,543,2310,584"/>
+</map>

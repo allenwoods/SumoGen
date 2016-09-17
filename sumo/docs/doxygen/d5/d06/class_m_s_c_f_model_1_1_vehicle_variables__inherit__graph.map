@@ -1,0 +1,7 @@
+<map id="MSCFModel::VehicleVariables" name="MSCFModel::VehicleVariables">
+<area shape="rect" id="node2" href="$d6/d1e/class_m_s_c_f_model___i_d_m_1_1_vehicle_variables.html" title="{MSCFModel_IDM::VehicleVariables\n|+ levelOfService\l|+ VehicleVariables()\l}" alt="" coords="5,153,244,230"/>
+<area shape="rect" id="node3" href="$d5/d69/class_m_s_c_f_model___kerner_1_1_vehicle_variables.html" title="{MSCFModel_Kerner::Vehicle\lVariables\n|+ rand\l|}" alt="" coords="268,145,467,237"/>
+<area shape="rect" id="node4" href="$dc/d64/class_m_s_c_f_model___p_wag2009_1_1_vehicle_variables.html" title="{MSCFModel_PWag2009\l::VehicleVariables\n|+ aOld\l|}" alt="" coords="491,145,662,237"/>
+<area shape="rect" id="node5" href="$d6/dd6/class_m_s_c_f_model___smart_s_k_1_1_s_s_k_vehicle_variables.html" title="{MSCFModel_SmartSK::\lSSKVehicleVariables\n|+ ggOld\l+ gOld\l+ myHeadway\l|}" alt="" coords="687,131,853,252"/>
+<area shape="rect" id="node6" href="$d1/dd6/class_m_s_c_f_model___wiedemann_1_1_vehicle_variables.html" title="{MSCFModel_Wiedemann\l::VehicleVariables\n|+ accelSign\l|+ VehicleVariables()\l}" alt="" coords="878,145,1057,237"/>
+</map>

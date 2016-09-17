@@ -1,0 +1,8 @@
+<map id="NBRequest" name="NBRequest">
+<area shape="rect" id="node2" href="$d3/dd1/class_n_b_node.html" title="Represents a single node (junction) during network building. " alt="" coords="225,1189,467,2455"/>
+<area shape="rect" id="node3" href="$d5/dbf/class_named.html" title="Base class for objects which have an id. " alt="" coords="254,286,371,437"/>
+<area shape="rect" id="node4" href="$d7/d91/class_n_b_district.html" title="A class representing a single district. " alt="" coords="457,668,611,1024"/>
+<area shape="rect" id="node5" href="$da/d56/class_position_vector.html" title="A list of positions. " alt="" coords="396,220,547,503"/>
+<area shape="rect" id="node6" href="$de/d1a/class_abstract_poly.html" title="{AbstractPoly\n||+ AbstractPoly()\l+ AbstractPoly()\l+ around()\l+ crosses()\l+ overlapsWith()\l+ partialWithin()\l+ ~AbstractPoly()\l}" alt="" coords="326,5,451,171"/>
+<area shape="rect" id="node8" href="$d7/d3b/class_position.html" title="A point in 2D or 3D with translation and scaling methods. " alt="" coords="571,235,751,488"/>
+</map>

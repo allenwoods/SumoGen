@@ -1,0 +1,19 @@
+<map id="OutputDevice_Network.h" name="OutputDevice_Network.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="2047,617,2115,644"/>
+<area shape="rect" id="node3" href="$da/ddd/socket_8h.html" title="foreign/tcpip/socket.h" alt="" coords="287,393,435,420"/>
+<area shape="rect" id="node4" href="$d8/d6b/storage_8h.html" title="storage.h" alt="" coords="5,468,84,495"/>
+<area shape="rect" id="node13" href="$d1/d3f/_output_device_8h.html" title="OutputDevice.h" alt="" coords="1511,80,1623,107"/>
+<area shape="rect" id="node20" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="1037,543,1236,569"/>
+<area shape="rect" id="node14" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="1545,229,1712,256"/>
+<area shape="rect" id="node18" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1548,393,1760,420"/>
+<area shape="rect" id="node28" href="$db/d42/_plain_x_m_l_formatter_8h.html" title="PlainXMLFormatter.h" alt="" coords="2321,229,2467,256"/>
+<area shape="rect" id="node30" href="$de/d1f/_binary_formatter_8h.html" title="BinaryFormatter.h" alt="" coords="1891,155,2017,181"/>
+<area shape="rect" id="node21" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1190,304,1379,345"/>
+<area shape="rect" id="node24" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="753,468,912,495"/>
+<area shape="rect" id="node25" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="1363,468,1510,495"/>
+<area shape="rect" id="node27" href="$da/dbd/_std_defs_8h.html" title="StdDefs.h" alt="" coords="1766,311,1846,338"/>
+<area shape="rect" id="node19" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1139,468,1339,495"/>
+<area shape="rect" id="node29" href="$d0/df4/_output_formatter_8h.html" title="OutputFormatter.h" alt="" coords="2119,311,2245,338"/>
+<area shape="rect" id="node31" href="$d0/da2/_file_helpers_8h.html" title="utils/common/FileHelpers.h" alt="" coords="2220,393,2403,420"/>
+<area shape="rect" id="node34" href="$d4/d64/_s_u_m_o_time_8h.html" title="SUMOTime.h" alt="" coords="1839,468,1941,495"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="AGWorkAndSchool" name="AGWorkAndSchool">
+<area shape="rect" id="node2" href="$dd/d4d/class_a_g_activity.html" title="{AGActivity\n|# activityPriority\l# carPreference\l# genDone\l# myHousehold\l# myPartialActivityTrips\l# myPreviousTrips\l# myStatData\l# timePerKm\l|+ AGActivity()\l+ arrHour()\l+ availableTranspMeans()\l+ depHour()\l+ generateTrips()\l+ getPartialActivityTrips()\l+ isGenerated()\l+ possibleTranspMean()\l+ randomTimeBetween()\l+ timeToDrive()\l}" alt="" coords="38,5,219,317"/>
+</map>

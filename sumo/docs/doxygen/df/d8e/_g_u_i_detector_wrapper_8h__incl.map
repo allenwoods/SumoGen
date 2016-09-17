@@ -1,0 +1,32 @@
+<map id="GUIDetectorWrapper.h" name="GUIDetectorWrapper.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="2033,960,2101,987"/>
+<area shape="rect" id="node3" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="3262,811,3408,837"/>
+<area shape="rect" id="node6" href="$d1/d28/_g_u_i_gl_object___abstract_add_8h.html" title="utils/gui/globjects\l/GUIGlObject_AbstractAdd.h" alt="" coords="458,483,649,524"/>
+<area shape="rect" id="node23" href="$d8/d3a/_g_u_i_s_u_m_o_abstract_view_8h.html" title="utils/gui/windows/GUISUMOAbstract\lView.h" alt="" coords="1410,80,1649,121"/>
+<area shape="rect" id="node7" href="$db/dcf/_g_u_i_gl_object_types_8h.html" title="GUIGlObjectTypes.h" alt="" coords="530,654,676,681"/>
+<area shape="rect" id="node8" href="$d2/d0d/_g_u_i_gl_object_8h.html" title="GUIGlObject.h" alt="" coords="1015,572,1122,599"/>
+<area shape="rect" id="node11" href="$d9/df9/_boundary_8h.html" title="utils/geom/Boundary.h" alt="" coords="3132,654,3288,681"/>
+<area shape="rect" id="node14" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="1770,654,1932,681"/>
+<area shape="rect" id="node16" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1462,811,1662,837"/>
+<area shape="rect" id="node21" href="$de/dde/_string_utils_8h.html" title="utils/common/StringUtils.h" alt="" coords="313,885,488,912"/>
+<area shape="rect" id="node22" href="$d8/d99/_r_g_b_color_8h.html" title="utils/common/RGBColor.h" alt="" coords="1568,736,1745,763"/>
+<area shape="rect" id="node13" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="3066,736,3172,763"/>
+<area shape="rect" id="node15" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="2113,736,2325,763"/>
+<area shape="rect" id="node19" href="$d7/db4/_util_exceptions_8h.html" title="utils/common/UtilExceptions.h" alt="" coords="965,885,1164,912"/>
+<area shape="rect" id="node26" href="$d4/de0/_m_f_x_mutex_8h.html" title="utils/foxtools/MFXMutex.h" alt="" coords="3474,333,3649,360"/>
+<area shape="rect" id="node28" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="414,811,600,837"/>
+<area shape="rect" id="node30" href="$da/d08/_polygon_8h.html" title="utils/shapes/Polygon.h" alt="" coords="1350,572,1507,599"/>
+<area shape="rect" id="node35" href="$db/d96/_s_u_m_o_r_tree_8h.html" title="foreign/rtree/SUMORTree.h" alt="" coords="2912,169,3099,196"/>
+<area shape="rect" id="node27" href="$da/dde/_abstract_mutex_8h.html" title="utils/common/AbstractMutex.h" alt="" coords="3524,408,3722,435"/>
+<area shape="rect" id="node31" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="2450,654,2636,681"/>
+<area shape="rect" id="node32" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="929,811,1133,837"/>
+<area shape="rect" id="node33" href="$da/d05/_shape_8h.html" title="Shape.h" alt="" coords="1157,654,1228,681"/>
+<area shape="rect" id="node34" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="1773,736,1932,763"/>
+<area shape="rect" id="node36" href="$dd/d53/_g_u_i_visualization_settings_8h.html" title="utils/gui/settings\l/GUIVisualizationSettings.h" alt="" coords="1616,244,1798,285"/>
+<area shape="rect" id="node46" href="$d2/d58/_r_tree_8h.html" title="RTree.h" alt="" coords="2970,251,3041,278"/>
+<area shape="rect" id="node37" href="$d8/d08/_to_string_8h.html" title="utils/common/ToString.h" alt="" coords="2053,572,2220,599"/>
+<area shape="rect" id="node42" href="$d7/d71/_g_u_i_property_scheme_storage_8h.html" title="GUIPropertySchemeStorage.h" alt="" coords="2567,333,2770,360"/>
+<area shape="rect" id="node41" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="1252,647,1442,688"/>
+<area shape="rect" id="node43" href="$db/d71/_g_u_i_property_scheme_8h.html" title="GUIPropertyScheme.h" alt="" coords="2591,408,2746,435"/>
+<area shape="rect" id="node45" href="$d1/d3f/_output_device_8h.html" title="utils/iodevices/OutputDevice.h" alt="" coords="2198,490,2400,517"/>
+</map>

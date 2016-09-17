@@ -1,0 +1,5 @@
+<map id="GL2PSprimitive" name="GL2PSprimitive">
+<area shape="rect" id="node2" href="$d0/d5a/struct_g_l2_p_simage.html" title="{GL2PSimage\n|+ format\l+ height\l+ pixels\l+ type\l+ width\l+ zoom_x\l+ zoom_y\l|}" alt="" coords="5,5,108,171"/>
+<area shape="rect" id="node3" href="$da/d36/struct_g_l2_p_sstring.html" title="{GL2PSstring\n|+ alignment\l+ angle\l+ fontname\l+ fontsize\l+ str\l|}" alt="" coords="132,20,229,156"/>
+<area shape="rect" id="node4" href="$de/dc9/struct_g_l2_p_svertex.html" title="{GL2PSvertex\n|+ rgba\l+ xyz\l|}" alt="" coords="253,42,356,134"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="TraCIException.h" name="TraCIException.h">
+<area shape="rect" id="node2" href="$dc/db6/_tra_c_i_server_a_p_i___g_u_i_8h.html" title="TraCIServerAPI_GUI.h" alt="" coords="195,87,353,114"/>
+<area shape="rect" id="node5" href="$d7/dd1/_tra_c_i_server_a_p_i___induction_loop_8h.html" title="TraCIServerAPI_Induction\lLoop.h" alt="" coords="2741,80,2919,121"/>
+<area shape="rect" id="node8" href="$dc/da3/_tra_c_i_server_a_p_i___junction_8h.html" title="TraCIServerAPI_Junction.h" alt="" coords="661,87,845,114"/>
+<area shape="rect" id="node10" href="$da/dbf/_tra_c_i_server_a_p_i___me_me_detector_8h.html" title="TraCIServerAPI_MeMeDetector.h" alt="" coords="869,87,1093,114"/>
+<area shape="rect" id="node12" href="$dd/d90/_tra_c_i_server_a_p_i___t_l_s_8h.html" title="TraCIServerAPI_TLS.h" alt="" coords="1116,87,1277,114"/>
+<area shape="rect" id="node14" href="$d4/da4/_tra_c_i_server_a_p_i___vehicle_8h.html" title="TraCIServerAPI_Vehicle.h" alt="" coords="1537,87,1717,114"/>
+<area shape="rect" id="node16" href="$dd/d42/_tra_c_i_server_a_p_i___vehicle_type_8h.html" title="TraCIServerAPI_VehicleType.h" alt="" coords="1301,87,1513,114"/>
+<area shape="rect" id="node19" href="$d8/dc7/_tra_c_i_server_a_p_i___route_8h.html" title="TraCIServerAPI_Route.h" alt="" coords="1963,87,2134,114"/>
+<area shape="rect" id="node21" href="$d1/d86/_tra_c_i_server_a_p_i___p_o_i_8h.html" title="TraCIServerAPI_POI.h" alt="" coords="2158,87,2315,114"/>
+<area shape="rect" id="node23" href="$d6/d16/_tra_c_i_server_a_p_i___polygon_8h.html" title="TraCIServerAPI_Polygon.h" alt="" coords="2340,87,2525,114"/>
+<area shape="rect" id="node25" href="$da/d49/_tra_c_i_server_a_p_i___edge_8h.html" title="TraCIServerAPI_Edge.h" alt="" coords="2549,87,2716,114"/>
+<area shape="rect" id="node27" href="$dc/df3/_tra_c_i_server_a_p_i___simulation_8h.html" title="TraCIServerAPI_Simulation.h" alt="" coords="1742,87,1939,114"/>
+<area shape="rect" id="node3" href="$d6/dec/_g_u_i_load_thread_8cpp.html" title="GUILoadThread.cpp" alt="" coords="201,177,347,203"/>
+<area shape="rect" id="node4" href="$d3/d56/_tra_c_i_server_a_p_i___g_u_i_8cpp.html" title="TraCIServerAPI_GUI.cpp" alt="" coords="5,177,177,203"/>
+<area shape="rect" id="node6" href="$d0/d7d/_tra_c_i_server_8cpp.html" title="TraCIServer.cpp" alt="" coords="1976,177,2097,203"/>
+<area shape="rect" id="node7" href="$de/de2/_tra_c_i_server_a_p_i___induction_loop_8cpp.html" title="TraCIServerAPI_Induction\lLoop.cpp" alt="" coords="2954,169,3133,211"/>
+<area shape="rect" id="node9" href="$df/d57/_tra_c_i_server_a_p_i___junction_8cpp.html" title="TraCIServerAPI_Junction.cpp" alt="" coords="371,177,569,203"/>
+<area shape="rect" id="node11" href="$d6/db4/_tra_c_i_server_a_p_i___me_me_detector_8cpp.html" title="TraCIServerAPI_MeMeDetector.cpp" alt="" coords="593,177,832,203"/>
+<area shape="rect" id="node13" href="$d7/d81/_tra_c_i_server_a_p_i___t_l_s_8cpp.html" title="TraCIServerAPI_TLS.cpp" alt="" coords="856,177,1031,203"/>
+<area shape="rect" id="node15" href="$d3/de4/_tra_c_i_server_a_p_i___vehicle_8cpp.html" title="TraCIServerAPI_Vehicle.cpp" alt="" coords="1522,177,1717,203"/>
+<area shape="rect" id="node17" href="$dd/d4f/_tra_c_i_server_a_p_i___person_8cpp.html" title="TraCIServerAPI_Person.cpp" alt="" coords="1306,177,1498,203"/>
+<area shape="rect" id="node18" href="$d9/de0/_tra_c_i_server_a_p_i___vehicle_type_8cpp.html" title="TraCIServerAPI_VehicleType.cpp" alt="" coords="1055,177,1282,203"/>
+<area shape="rect" id="node20" href="$d4/d52/_tra_c_i_server_a_p_i___route_8cpp.html" title="TraCIServerAPI_Route.cpp" alt="" coords="2122,177,2306,203"/>
+<area shape="rect" id="node22" href="$dd/d5b/_tra_c_i_server_a_p_i___p_o_i_8cpp.html" title="TraCIServerAPI_POI.cpp" alt="" coords="2330,177,2501,203"/>
+<area shape="rect" id="node24" href="$d7/dc9/_tra_c_i_server_a_p_i___polygon_8cpp.html" title="TraCIServerAPI_Polygon.cpp" alt="" coords="2525,177,2724,203"/>
+<area shape="rect" id="node26" href="$d5/d04/_tra_c_i_server_a_p_i___edge_8cpp.html" title="TraCIServerAPI_Edge.cpp" alt="" coords="2749,177,2930,203"/>
+<area shape="rect" id="node28" href="$dd/d0a/_tra_c_i_server_a_p_i___simulation_8cpp.html" title="TraCIServerAPI_Simulation.cpp" alt="" coords="1741,177,1951,203"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/dd8/structprohibited__with_permissions.html" title="prohibited_withPermissions\l\&lt; MSEdge, SUMOVehicle \&gt;" alt="" coords="5,83,196,124"/>
+<area shape="rect" id="node2" href="$dc/da6/class_a_star_router.html" title="AStarRouter\&lt; MSEdge,\l SUMOVehicle, prohibited\l_withPermissions\&lt; MSEdge,\l SUMOVehicle \&gt; \&gt;" alt="" coords="248,5,443,76"/>
+<area shape="rect" id="node3" href="$d8/d00/class_dijkstra_router_effort.html" title="DijkstraRouterEffort\l\&lt; MSEdge, SUMOVehicle,\l prohibited_withPermissions\l\&lt; MSEdge, SUMOVehicle \&gt; \&gt;" alt="" coords="244,100,447,171"/>
+<area shape="rect" id="node4" href="$d2/d6c/class_dijkstra_router_t_t.html" title="DijkstraRouterTT\&lt; MSEdge,\l SUMOVehicle, prohibited\l_withPermissions\&lt; MSEdge,\l SUMOVehicle \&gt; \&gt;" alt="" coords="248,195,443,265"/>
+<area shape="rect" id="node5" href="$d2/d23/class_s_u_m_o_abstract_router.html" title="SUMOAbstractRouter\l\&lt; MSEdge, SUMOVehicle \&gt;" alt="" coords="5,148,196,189"/>
+</map>

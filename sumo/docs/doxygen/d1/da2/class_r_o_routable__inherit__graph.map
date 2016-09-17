@@ -1,0 +1,4 @@
+<map id="RORoutable" name="RORoutable">
+<area shape="rect" id="node2" href="$d6/dba/class_r_o_person.html" title="A person as used by router. " alt="" coords="5,358,157,611"/>
+<area shape="rect" id="node3" href="$d5/d1b/class_r_o_vehicle.html" title="A vehicle as used by router. " alt="" coords="181,351,368,619"/>
+</map>

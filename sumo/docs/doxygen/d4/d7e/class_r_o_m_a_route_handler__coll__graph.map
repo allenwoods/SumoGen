@@ -1,0 +1,10 @@
+<map id="ROMARouteHandler" name="ROMARouteHandler">
+<area shape="rect" id="node2" href="$db/db8/class_s_u_m_o_s_a_x_handler.html" title="SAX&#45;handler base for SUMO&#45;files. " alt="" coords="103,1379,266,1501"/>
+<area shape="rect" id="node3" href="$da/da8/class_generic_s_a_x_handler.html" title="A handler which converts occuring elements and attributes into enums. " alt="" coords="16,323,193,811"/>
+<area shape="rect" id="node5" href="$d2/d15/class_o_d_matrix.html" title="An O/D (origin/destination) matrix. " alt="" coords="371,1233,561,1647"/>
+<area shape="rect" id="node6" href="$d0/d1f/class_o_d_district_cont.html" title="A container for districts. " alt="" coords="355,477,582,657"/>
+<area shape="rect" id="node7" href="$d2/d4d/class_named_object_cont.html" title="{NamedObjectCont\&lt; ODDistrict * \&gt;\n|&#45; myHaveChanged\l&#45; myMap\l&#45; myVector\l|+ add()\l+ buildAndGetStaticVector()\l+ clear()\l+ erase()\l+ get()\l+ getMyMap()\l+ getTempVector()\l+ insertIDs()\l+ NamedObjectCont()\l+ remove()\l+ size()\l+ ~NamedObjectCont()\l}" alt="" coords="356,5,581,273"/>
+<area shape="rect" id="node8" href="$d8/d51/class_s_u_m_o_vehicle_parameter.html" title="Structure representing possible vehicle parameter. " alt="" coords="586,873,775,2007"/>
+<area shape="rect" id="node9" href="$d7/dc7/class_parameterised.html" title="An upper class for objects with additional parameters. " alt="" coords="607,462,751,671"/>
+<area shape="rect" id="node10" href="$da/da9/class_r_g_b_color.html" title="{RGBColor\n|+ DEFAULT_COLOR_STRING\l+ YELLOW\l&#45; myAlpha\l&#45; myBlue\l&#45; myGreen\l&#45; myRed\l|+ alpha()\l+ blue()\l+ changedBrightness()\l+ green()\l+ operator!=()\l+ operator==()\l+ red()\l+ RGBColor()\l+ RGBColor()\l+ RGBColor()\l+ set()\l+ ~RGBColor()\l+ fromHSV()\l+ interpolate()\l+ parseColor()\l+ parseColorReporting()\l}" alt="" coords="776,381,983,752"/>
+</map>

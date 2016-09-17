@@ -1,0 +1,22 @@
+<map id="MSTrafficLightLogic.h" name="MSTrafficLightLogic.h">
+<area shape="rect" id="node2" href="$db/d16/config_8h.html" title="config.h" alt="" coords="1291,468,1359,495"/>
+<area shape="rect" id="node6" href="$d6/d37/_command_8h.html" title="utils/common/Command.h" alt="" coords="2564,162,2743,189"/>
+<area shape="rect" id="node11" href="$d9/d33/_parameterised_8h.html" title="utils/common/Parameterised.h" alt="" coords="2755,319,2959,345"/>
+<area shape="rect" id="node12" href="$dc/da4/_m_s_logic_junction_8h.html" title="microsim/MSLogicJunction.h" alt="" coords="1045,80,1237,107"/>
+<area shape="rect" id="node25" href="$da/d9c/_m_s_link_8h.html" title="microsim/MSLink.h" alt="" coords="2163,80,2298,107"/>
+<area shape="rect" id="node27" href="$d8/d54/_m_s_phase_definition_8h.html" title="MSPhaseDefinition.h" alt="" coords="1600,162,1747,189"/>
+<area shape="rect" id="node7" href="$d4/d64/_s_u_m_o_time_8h.html" title="utils/common/SUMOTime.h" alt="" coords="2024,244,2211,271"/>
+<area shape="rect" id="node9" href="$d7/db4/_util_exceptions_8h.html" title="UtilExceptions.h" alt="" coords="1872,393,1987,420"/>
+<area shape="rect" id="node13" href="$d8/d61/_m_s_junction_8h.html" title="MSJunction.h" alt="" coords="996,162,1097,189"/>
+<area shape="rect" id="node24" href="$da/dbd/_std_defs_8h.html" title="utils/common/StdDefs.h" alt="" coords="809,162,972,189"/>
+<area shape="rect" id="node15" href="$d4/d51/_position_8h.html" title="utils/geom/Position.h" alt="" coords="5,393,152,420"/>
+<area shape="rect" id="node18" href="$d3/d43/_position_vector_8h.html" title="utils/geom/PositionVector.h" alt="" coords="458,244,643,271"/>
+<area shape="rect" id="node20" href="$de/d1a/_named_8h.html" title="utils/common/Named.h" alt="" coords="667,244,826,271"/>
+<area shape="rect" id="node22" href="$d6/d7a/_s_u_m_o_x_m_l_definitions_8h.html" title="utils/xml/SUMOXMLDefinitions.h" alt="" coords="1610,244,1822,271"/>
+<area shape="rect" id="node19" href="$db/dd7/_abstract_poly_8h.html" title="AbstractPoly.h" alt="" coords="429,319,536,345"/>
+<area shape="rect" id="node23" href="$d6/d11/_string_bijection_8h.html" title="utils/common/StringBijection.h" alt="" coords="1781,319,1981,345"/>
+<area shape="rect" id="node26" href="$d2/d6d/_s_u_m_o_vehicle_class_8h.html" title="utils/common/SUMOVehicle\lClass.h" alt="" coords="2227,155,2416,196"/>
+<area shape="rect" id="node28" href="$d4/df7/_msg_handler_8h.html" title="utils/common/MsgHandler.h" alt="" coords="865,319,1053,345"/>
+<area shape="rect" id="node29" href="$d3/d5c/_options_cont_8h.html" title="utils/options/OptionsCont.h" alt="" coords="1307,244,1485,271"/>
+<area shape="rect" id="node30" href="$da/d39/_option_8h.html" title="Option.h" alt="" coords="1534,319,1605,345"/>
+</map>
